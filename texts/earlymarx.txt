@@ -10,7 +10,7 @@ impression of arbitrary systematism. I shall therefore publish the critique of l
 etc., in a series of distinct, independent pamphlets, and afterwards try in a special work to present
 them again as a connected whole showing the interrelationship of the separate parts, and lastly
 attempt a critique of the speculative elaboration of that material. For this reason it will be found
-that the interconnection between political economy and the state, law, ethics, civil life, etc., is
+that the interconnection between economy and the state, law, ethics, civil life, etc., is
 touched upon in the present work only to the extent to which political economy itself expressly
 touches upon these subjects.
 It is hardly necessary to assure the reader conversant with political economy that my results have
@@ -3952,7 +3952,8 @@ Marx’s Critique of Hegel's Philosophy of Right
 For Germany, the criticism of religion has been essentially completed, and the criticism of religion is the
 prerequisite of all criticism.
 The profane existence of error is compromised as soon as its heavenly oratio pro aris et focis [“speech for
-the altars and hearths”] has been refuted. Man, who has found only the reflection of himself in the
+the altars
+and hearths”] has been refuted. Man, who has found only the reflection of himself in the
 fantastic reality of heaven, where he sought a superman, will no longer feel disposed to find the mere
 appearance of himself, the non-man [“Unmensch”], where he seeks and must seek his true reality.
 The foundation of irreligious criticism is: Man makes religion, religion does not make man.
@@ -3984,7 +3985,6 @@ self-estrangement in its unholy forms once the holy form of human self-estrangem
 unmasked. Thus, the criticism of Heaven turns into the criticism of Earth, the criticism of religion into
 the criticism of law, and the criticism of theology into the criticism of politics.
 Marx, A Contribution to the Critique of Hegel's Philosophy of Right
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/intro.htm (1 of 9) [23/08/2000 18:48:47]
 The following exposition [a full-scale critical study of Hegel's Philosophy of Right was supposed to
 follow this introduction] — a contribution to this undertaking — concerns itself not directly with the
 original but with a copy, with the German philosophy of the state and of law. The only reason for this is
@@ -4025,10 +4025,7 @@ It is a case of describing the dull reciprocal pressure of all social spheres on
 inactive ill-humor, a limitedness which recognizes itself as much as it mistakes itself, within the frame of
 government system which, living on the preservation of all wretchedness, is itself nothing but
 wretchedness in office.
-What a sight! This infinitely proceeding division of society into the most manifold races opposed to one
-Marx, A Contribution to the Critique of Hegel's Philosophy of Right
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/intro.htm (2 of 9) [23/08/2000 18:48:47]
-another by petty antipathies, uneasy consciences, and brutal mediocrity, and which, precisely because of
+What a sight! This infinitely proceeding division of society into the most manifold races opposed to one another by petty antipathies, uneasy consciences, and brutal mediocrity, and which, precisely because of
 their reciprocal ambiguous and distrustful attitude, are all, without exception although with various
 formalities, treated by their rulers as conceded existences. And they must recognize and acknowledge as
 a concession of heaven the very fact that they are mastered, ruled, possessed! And, on the other side, are
@@ -4070,10 +4067,7 @@ national economy. Germanomania has passed out of man into matter,, and thus one 
 barons and iron heroes saw themselves turned into patriots. People are, therefore, beginning in Germany
 to acknowledge the sovereignty of monopoly on the inside through lending it sovereignty on the outside.
 People are, therefore, now about to begin, in Germany, what people in France and England are about to
-end. The old corrupt condition against which these countries are revolting in theory, and which they only
-Marx, A Contribution to the Critique of Hegel's Philosophy of Right
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/intro.htm (3 of 9) [23/08/2000 18:48:47]
-bear as one bears chains, is greeted in Germany as the dawn of a beautiful future which still hardly dares
+end. The old corrupt condition against which these countries are revolting in theory, and which they only bear as one bears chains, is greeted in Germany as the dawn of a beautiful future which still hardly dares
 to pass from crafty theory to the most ruthless practice. Whereas the problem in France and England is:
 Political economy, or the rule of society over wealth; in Germany, it is: National economy, or the
 mastery of private property over nationality. In France and England, then, it is a case of abolishing
@@ -4114,8 +4108,7 @@ word — You cannot abolish philosophy without making it a reality.
 The same mistake, but with the factors reversed, was made by the theoretical party originating from
 philosophy.
 In the present struggle it saw only the critical struggle of philosophy against the German world; it did not
-Marx, A Contribution to the Critique of Hegel's Philosophy of Right
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/intro.htm (4 of 9) [23/08/2000 18:48:47]
+
 give a thought to the fact that philosophy up to the present itself belongs to this world and is its
 completion, although an ideal one. Critical towards its counterpart, it was uncritical towards itself when,
 proceeding from the premises of philosophy, it either stopped at the results given by philosophy or
@@ -4158,8 +4151,6 @@ Germany's revolutionary past is theoretical, it is the Reformation. As the revol
 brain of the monk, so now it begins in the brain of the philosopher.
 Luther, we grant, overcame bondage out of devotion by replacing it by bondage out of conviction. He
 shattered faith in authority because he restored the authority of faith. He turned priests into laymen
-Marx, A Contribution to the Critique of Hegel's Philosophy of Right
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/intro.htm (5 of 9) [23/08/2000 18:48:47]
 because he turned laymen into priests. He freed man from outer religiosity because he made religiosity
 the inner man. He freed the body from chains because he enchained the heart.
 But, if Protestantism was not the true solution of the problem, it was at least the true setting of it. It was
@@ -4202,8 +4193,6 @@ ancien regime, which we enjoy in full; hence, Germany must share more and more, 
 reasonableness, at least in the unreasonableness of those state formations which are beyond the bounds of
 its status quo. Is there in the world, for example, a country which shares so naively in all the illusions of
 constitutional statehood without sharing in its realities as so-called constitutional Germany? And was it
-Marx, A Contribution to the Critique of Hegel's Philosophy of Right
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/intro.htm (6 of 9) [23/08/2000 18:48:47]
 not perforce the notion of a German government to combine the tortures of censorship with the tortures
 of the French September laws [1835 anti-press laws] which provide for freedom of the press? As you
 could find the gods of all nations in the Roman Pantheon, so you will find in the Germans' Holy Roman
@@ -4248,8 +4237,6 @@ particular claims not as soon as it is oppressed, but as soon as the circumstanc
 without the section's own participation, creates a social substratum on which it can in turn exert pressure.
 Even the moral self-feeling of the German middle class rests only on the consciousness that it is the
 common representative of the philistine mediocrity of all the other classes. It is therefore not only the
-Marx, A Contribution to the Critique of Hegel's Philosophy of Right
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/intro.htm (7 of 9) [23/08/2000 18:48:47]
 German kinds who accede to the throne mal a propos, it is every section of civil society which goes
 through a defeat before it celebrates victory and develops its own limitations before it overcomes the
 limitations facing it, asserts its narrow-hearted essence before it has been able to assert its magnanimous
@@ -4292,8 +4279,6 @@ By heralding the dissolution of the hereto existing world order, the proletariat
 secret of its own existence, for it is the factual dissolution of that world order. By demanding the
 negation of private property, the proletariat merely raises to the rank of a principle of society what
 society has raised to the rank of its principle, what is already incorporated in it as the negative result of
-Marx, A Contribution to the Critique of Hegel's Philosophy of Right
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/intro.htm (8 of 9) [23/08/2000 18:48:47]
 society without its own participation. The proletarian then finds himself possessing the same right in
 regard to the world which is coming into being as the German king in regard to the world which has
 come into being when he calls the people hispeople, as he calls the horse his horse. By declaring the
@@ -4313,9 +4298,6 @@ proletariat, and the proletariat cannot transcend itself without the realization
 philosophy.
 When all the inner conditions are met, the day of the German resurrection will be heralded by the
 crowing of the cock of Gaul.
-Index
-Marx, A Contribution to the Critique of Hegel's Philosophy of Right
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/intro.htm (9 of 9) [23/08/2000 18:48:47]
 Critique of Hegel’s Philosophy of Right
 Karl Marx, 1843
 (Marx’s commentary on § 257 - 60 have been lost)
@@ -4354,8 +4336,6 @@ their essential determinations are dependent on the state and subordinate to it.
 and interests as higher authority, while their interest and law are related to it as its ‘subordinates’. They
 exist in their dependence on it. Precisely because subordination and dependence are external relations,
 limiting and contrary to an autonomous being, the relationship of family and civil society to the state is
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch01.htm (1 of 11) [23/08/2000 18:48:53]
 that of external necessity, a necessity which relates by opposition to the inner being of the thing. The
 very fact that the laws concerning the private rights of persons depend on the specific character of the
 state and are modified according to it is thereby subsumed under the relationship of external necessity’,
@@ -4395,8 +4375,6 @@ dark natural ground from which the light of the state emerges. By material of th
 business of the state, i.e., family and civil society, in so far as they constitute components of the state
 and, as such, participate in the state.
 This development is peculiar in two respects.
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch01.htm (2 of 11) [23/08/2000 18:48:53]
 1. Family and civil society are conceived of as spheres of the concept of the state, specifically as spheres
 of its finiteness, as its finite phase. it is the state which sunders itself into the two, which presupposes
 them, and indeed does this ‘only in order to rise above its ideality and become explicit as infinite actual
@@ -4438,8 +4416,6 @@ families and of civil society.
 society, enters upon its finite phase’ - thus the division of the state into the family and civil society is
 ideal, i.e., necessary, belonging to the essence of the state. Family and civil society are actual
 components of the state, actual spiritual existences of will; they are the modes of existence of the state;
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch01.htm (3 of 11) [23/08/2000 18:48:53]
 family and civil society make themselves into the state. They are the active force. According to Hegel
 they are, on the contrary, made by the actual Idea. It is not their own life’s course which unites them into
 the state, but rather the life’s course of the Idea, which has distinguished them from itself; and they are
@@ -4483,8 +4459,6 @@ a universal end.
 actualised) in the sphere of particularity. They are, therefore, the firm foundation not only of the state but
 also of the citizen’s trust in it and sentiment towards it. They are the pillars of public freedom since in
 them particular freedom is realised and rational, and therefore there is implicitly present even in them the
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch01.htm (4 of 11) [23/08/2000 18:48:53]
 union of freedom and necessity.
 § 266. But mind is objective and actual to itself not merely as this (which?), necessity .... but also as the
 ideality and the heart of this necessity. Only in this way is this substantive universality aware of itself as
@@ -4524,8 +4498,6 @@ functions and spheres of action, by means of which. the universal continually en
 engenders itself in a necessary way because their specific character is fixed by the nature of the concept.
 Throughout this process the universal maintains its identity, since it is itself the presupposition of its own
 production. This organism is the constitution of the state.
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch01.htm (5 of 11) [23/08/2000 18:48:53]
 The constitution of the state is the organism of the state, or the organism of the state is the constitution of
 the state. To say that the different parts of an organism stand in a necessary relation which arises out of
 the nature of the organism is pure tautology. To say that when the political constitution is determined as
@@ -4562,8 +4534,6 @@ empirical fact is that the various members of the organism of the state are the 
 functions and spheres of action, the philosophical predicate is that they are members of an organism [?]
 Here we draw attention to a stylistic peculiarity of Hegel, one which recurs often and is a product of
 mysticism. The entire paragraph reads:
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch01.htm (6 of 11) [23/08/2000 18:48:53]
 The patriotic sentiment acquires its specifically
 determined content from the various members
 of the organism of the state. This organism is
@@ -4621,8 +4591,6 @@ an earlier development. But by defining the organism as the development of the i
 differences of the Idea, then by interpolating the concrete data of the various powers the development
 assumes the appearance of having arrived at a determinate content. Following the statement that the
 patriotic sentiment acquires its specifically determined content from the various members of the
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch01.htm (7 of 11) [23/08/2000 18:48:53]
 organism of the state’ Hegel was not justified in continuing with the expression, ‘This organism. . .,’ but
 rather with ‘the organism is the development of the idea, etc.’ At least what he says applies to every
 organism, and there is no predicate which justifies the subject, ‘this organism’. What Hegel really wants
@@ -4665,8 +4633,6 @@ actions have a bearing on these.
 (We will look at the Remark to this paragraph, which treats the relationship of state and church, later.)
 The employment of these logical categories deserves altogether special attention.
 (1) The abstract actuality or the substantiality of the state consists in the fact that its end is the universal
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch01.htm (8 of 11) [23/08/2000 18:48:53]
 interest as such and the conservation therein of particular interests since the universal interest is the
 substance of these.
 That the universal interest as such and as the subsistence of particular interests is the end of the state is
@@ -4706,8 +4672,7 @@ the subject and the foundation, the autonomy of the state).
 content of this mind, the existing substance of the state, the nature qua state of the self-knowing and
 willing mind.
 3. The self-knowing and willing mind, the self-assured, educated mind attains the actualisation of this
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch01.htm (9 of 11) [23/08/2000 18:48:53]
+
 abstract content only as a differentiated activity, as the existence of various powers, as an organically
 structured power.
 Certain things should be noted concerning Hegel’s presentation.
@@ -4747,8 +4712,6 @@ There are three concrete determinations:
 1. the universal interest and the conservation therein of the particular interests as the end of the state;
 2. the various powers as the actualisation of this end of the state;
 3. the educated, self-assured, willing and acting mind as the subject of this end and its actualisation.
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch01.htm (10 of 11) [23/08/2000 18:48:53]
 These concrete determinations are considered to be extrinsic, to be hors d’oeuvres. Their importance to
 philosophy is that in them the state takes on the following logical significance:
 1. abstract actuality or substantiality;
@@ -4776,9 +4739,6 @@ differentiating activity outward and accordingly establishes within itself the i
 inward differentiations.
 Addition: The inner side of the state as such is the civil power while its outward tendency is the military
 power, although this has a fixed place inside the state itself
-Contents - [1] - [2] - [3] - [4] - [5] - [6] - 1844 Introduction
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch01.htm (11 of 11) [23/08/2000 18:48:53]
 Critique of Hegel's Philosophy of Right
 Karl Marx, 1843
 I. THE CONSTITUTION (on its internal side only)
@@ -4817,8 +4777,6 @@ constitution. Here Hegel is a sophist.
 § 275. The power of the crown contains in itself the three moments of the whole (see 5 :272) viz. [a] the
 universality of the constitution and the laws; [b] counsel, which refers the particular to the universal; and
 [c] the moment of ultimate decision, as the self-determination to which everything else reverts and from
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch02.htm (1 of 17) [23/08/2000 18:49:02]
 which everything else derives the beginning of its actuality. This absolute self-determination constitutes
 the distinctive principle of the power of the crown as such, and with this principle our exposition is to
 begin.
@@ -4858,8 +4816,6 @@ presented as something rational.
 proper to it. The individual functionaries and agents are attached to their office not on the strength of
 their immediate personality, but only on the strength of their universal and objective qualities. Hence it is
 in an external and contingent way that these offices are linked with particular persons, and therefore the
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch02.htm (2 of 17) [23/08/2000 18:49:02]
 functions and powers of the state cannot be private property.
 It is self-evident that if particular activities and agencies are designated as activities and agencies of the
 state, as state functions and state powers, then they are not private but state property. That is a tautology.
@@ -4902,8 +4858,6 @@ other times, and it is then that that ideality comes into its proper actuality.
 Thus this ideality is not developed into a comprehended, rational system. In times of peace it appears
 either as merely an external constraint effected by the ruling power on private life through direct
 influence of higher authority, or a blind uncomprehended result of self-seeking. This ideality has its
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch02.htm (3 of 17) [23/08/2000 18:49:02]
 proper actuality only in the state's situation of war or exigency, such that here its essence is expressed as
 the actual, existent state's situation of war and exigency, while its 'peaceful' situation is precisely the war
 and exigency of self-seeking.
@@ -4945,8 +4899,6 @@ Precisely because Hegel starts from the predicates of universal determination in
 (hypokimenou, subject), and because there must be a bearer of this determination, the mystical idea
 becomes this bearer. This is the dualism: Hegel does not consider the universal to be the actual essence
 of the actual, finite thing, i.e. of the existing determinate thing, nor the real Ens to be the true subject of
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch02.htm (4 of 17) [23/08/2000 18:49:02]
 the infinite.
 Accordingly, sovereignty, the essence of the state, is here first conceived to be an independent being; it is
 objectified. Then, of course, this object must again become subject. However the subject then appears to
@@ -4985,8 +4937,6 @@ actually willing, is sovereign. Is that supposed to mean that the individuality 
 individual, a particular individual distinct from all others? Universality too, legislation, has an explicitly
 actual and separate formation. Could one conclude from that that legislation is these particular
 individuals[?]
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch02.htm (5 of 17) [23/08/2000 18:49:02]
 The Common Man:
 2. The monarch has the sovereign power, or
 sovereignty.
@@ -5032,8 +4982,6 @@ political - ] consciousness. At the same time however Hegel can give this 'Souve
 more content than 'I will', the moment of arbitrariness in the will. The state-reason and
 state-consciousness is a unique empirical person to the exclusion of all others, but this personified
 Reason has no content except the abstract on, 'I will'. L'Etat c'est moi.
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch02.htm (6 of 17) [23/08/2000 18:49:02]
 Further, however, personality like subjectivity in general, as infinitely self-related, has its truth (to be
 precise, its most elementary, immediate truth) only in a person, in a subject existing 'for' himself, and
 what exists 'for' itself is just simply a unit.
@@ -5072,8 +5020,6 @@ as well as the monarch. Hegel, in saying that, has not said something special ab
 should something specifically distinct from all other objects of science and of the philosophy of right be
 said about the monarch, then this would be real foolishness, correct only in so far as the 'one Person-idea'
 is something derived only from the imagination and not the intellect.
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch02.htm (7 of 17) [23/08/2000 18:49:02]
 We may speak of the 'sovereignty of the people' in the sense that any people whatever is self-subsistent
 vis-a-vis other peoples, and constitutes a state of its own, etc. [Remark to § 279]
 That is a triviality. If the sovereign is the actual sovereignty of the state then the sovereign could
@@ -5113,8 +5059,6 @@ This whole thing is a tautology. If a people has a monarch and an articulation w
 and direct concomitant, i.e., if it is articulated as a monarchy, then extracted from this articulation it is
 certainly a formless mass and a quite general notion.
 If by 'sovereignty of the people' is understood a republican form of government, or to speak more
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch02.htm (8 of 17) [23/08/2000 18:49:02]
 specifically ... a democratic form, then... 1 such a notion cannot be further discussed in face of the Idea of
 the state in its full development.
 That is certainly correct if one has only such a notion and no developed idea of democracy.
@@ -5157,8 +5101,6 @@ existence alongside the political state; that is, they appear as the content to 
 relates as organising form, or really only as the determining, limiting intelligence which says now 'yes'
 now 'no' without any content of its own. In democracy the political state, as placed alongside this content
 and differentiated from it, is itself merely a particular content, like a particular form of existence of the
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch02.htm (9 of 17) [23/08/2000 18:49:02]
 people. In monarchy, for example, this particular entity, the political constitution, has the meaning of the
 universal which governs and determines all the particulars. In democracy the state as particular is only
 particular, and as universal it is the real universal, i.e., it is nothing definite in distinction from the other
@@ -5200,8 +5142,6 @@ there is also not yet the political constitution. The Middle Ages was the democr
 The abstraction of the state as such belongs only to modern times because the abstraction of private life
 belongs only to modern times. The abstraction of the political state is a modern product.
 In the Middle Ages there was serf, feudal property, trade corporation, corporation of scholars, etc., that
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch02.htm (10 of 17) [23/08/2000 18:49:02]
 is, in the Middle Ages property, trade, society, man was political; the material content of the state was
 fixed by reason of its form; every private sphere had a political character or was a political sphere, or
 again, politics was also the character of the private spheres. In the Middle Ages the political constitution
@@ -5244,8 +5184,6 @@ dignity. Thus at the highest point of the state bare Physis rather than reason w
 factor. Birth would determine the quality of the monarch as it determines the quality of cattle.
 Hegel has demonstrated that the monarch must be born, which no one questions, but not that birth makes
 one a monarch.
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch02.htm (11 of 17) [23/08/2000 18:49:02]
 That man becomes monarch by birth can as little be made into a metaphysical truth as can the
 Immaculate Conception of Mary. The latter notion, a fact of consciousness, just as well as the empirical
 fact of the birth of man to the monarchy, can be understood as rooted in human illusion and conditions.
@@ -5286,8 +5224,6 @@ end is lacking; no mediation of a particular content, like a purpose in the case
 which is evident because no actin g subject is present, and the abstraction, the pure idea of will, in order
 to act must act mystically. Now an end which is not particular is no end, and an act without an end is an
 endless, senseless act. Thus this whole parallel with the teleological act of the will shows itself finally to
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch02.htm (12 of 17) [23/08/2000 18:49:02]
 be a mystification, an empty action of the Idea. In fact, the medium here is the absolute will and the word
 of the philosopher; the particular end is the end of the philosophising subject, namely, constructing the
 hereditary monarch out of the pure Idea; and the actualisation of the end is Hegel's simple affirmation.
@@ -5326,8 +5262,6 @@ The right to pardon is the right to exercise clemency, the ultimate expression o
 choice. Significantly this is what Hegel makes the essential attribute of the monarch. In the Addition to
 this very paragraph he defines the source of pardon as 'self-determined [or .groundless] decision' [die
 grundlose Entscheidung].
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch02.htm (13 of 17) [23/08/2000 18:49:02]
 § 283. The second moment in the power of the crown is the moment of particularity, or the moment of a
 determinate content and its subsumption under the universal. When this acquires a special objective
 existence, it becomes the supreme council and the individuals who compose it. They bring before the
@@ -5368,8 +5302,6 @@ laws. Hence the power of the crown presupposes the other moments in the state ju
 by each of them.
 § 286. The objective guarantee of the power of the crown, of the hereditary right of succession to the
 throne, and so forth, consists in the fact that just as monarchy has its own actuality in distinction from
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch02.htm (14 of 17) [23/08/2000 18:49:02]
 that of the other rationally determined moments in the state, so these others explicitly possess the rights
 and duties appropriate to their own character. In the rational organism of the state, each member, by
 maintaining itself in its own position, eo ipso maintains the others in theirs.
@@ -5410,8 +5342,6 @@ different nationality of peoples cannot be better established and expressed than
 monarchs. The cleft between one .absolute individual and another is the cleft between these nationalities.
 The Greeks (and Romans) were national because and in so far as they were the sovereign people. The
 Germans are sovereign because and in so far as they are national. (Vid. p. xxxiv.)
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch02.htm (15 of 17) [23/08/2000 18:49:02]
 (ad xii) A so-called 'artificial person', the same Remark says further, be it a society, a community, or a
 family, however inherently concrete it may be, contains personality only abstractly, as one moment of
 itself In an artificial person', personality has not achieved its true mode of existence. The state, however,
@@ -5454,8 +5384,6 @@ Substance as subject, then they must receive an empirical actuality, and the mas
 idea of civil society is developed takes on the identity of citizen of civil society, and that in which the
 idea of the state is developed takes on that of citizen of the state. In this case the sole concern is with
 allegory, i.e., with ascribing to any empirical existent the meaning of actualised Idea; and thus it is
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch02.htm (16 of 17) [23/08/2000 18:49:02]
 evident that these receptacles have fulfilled their destiny once they have become a determinate
 incarnation of a life-moment of the Idea. Consequently the universal appears everywhere as a
 determinate particular thing, while the individual nowhere arrives at his true universality.
@@ -5476,10 +5404,6 @@ difference of one person from all others? The body. And the highest function of 
 activity. Hence the highest constitutional act of the king is his sexual activity, because through this he
 makes a king and carries on his body. The body of his son is the reproduction of his own body, the
 creation of a royal body.
-Contents - [1] - [2] - [3] - [4] - [5] - [6] - 1844 Introduction
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch02.htm (17 of 17) [23/08/2000 18:49:02]
-Critique of Hegel's Philosophy of Right
 Karl Marx, 1843
 (b) The Executive
 § 287. There is a distinction between the monarch's decisions and their execution and application, or in
@@ -5518,8 +5442,6 @@ rights, is now inwardly converted into the mind of the state, since it finds in 
 maintaining its particular ends. This is the secret of the patriotism of the citizens in the sense that they
 know the state as their substance, because it is the state that maintains their particular spheres of interest
 together with the title, authority, and welfare of these. In the corporation mind the rooting of the
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch03.htm (1 of 11) [23/08/2000 18:49:09]
 particular in the universal is directly entailed, and for this reason it is in that mind that the depth and
 strength which the state possesses in sentiment is seated.
 This is especially worth noting:
@@ -5558,8 +5480,6 @@ citizen the chance of joining the class of civil servants [dem allgemeinen Stand
 § 292. Since the objective qualification for the civil service is not genius (as it is for work as an artist, for
 example), there is of necessity an indefinite plurality of eligible candidates whose relative excellence is
 not determinable with absolute precision. The selection of one of the candidates, his nomination to office,
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch03.htm (2 of 11) [23/08/2000 18:49:09]
 and the grant to him of full authority to transact public business-all this, as the linking of two things, a
 man and his office, which in relation to each other must always be fortuitous, in the state which is
 sovereign and has the last word. is the subjective aspect of election to office, and it must lie with the
@@ -5600,8 +5520,6 @@ state, these subjective interests automatically disappear, and the habit is gene
 interests, points of view, and activities.
 § 297. Civil servants and the members of the executive constitute the greater part of the middle class, the
 class in which the consciousness of right and the developed intelligence of the mass of the people is
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch03.htm (3 of 11) [23/08/2000 18:49:09]
 found. The sovereign working on the middle class at the top, and Corporation-rights working on it at the
 bottom, are the institutions which effectively prevent it from acquiring the isolated position of an
 aristocracy and using its education and skill as means to an arbitrary tyranny.
@@ -5642,8 +5560,6 @@ from the presuppositon of the Corporations; and indeed the bureaucracy presuppos
 any event the 'corporation mind'. Hegel develops no content of the bureaucracy, but merely some general
 indications of its formal organisation; and indeed the bureaucracy is merely the formalism of a content
 which lies outside the bureaucracy itself.
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch03.htm (4 of 11) [23/08/2000 18:49:09]
 The Corporations are the materialism of the bureaucracy, and the bureaucracy is the spiritualism of the
 Corporations. The Corporation is the bureaucracy of civil society, and the bureaucracy is the Corporation
 of the state. In actuality, the bureaucracy as civil society of the state is opposed to the state of civil
@@ -5689,7 +5605,6 @@ of the state. The bureaucracy is a circle from which no one can escape. its hier
 knowledge. The highest point entrusts the understanding of particulars to the lower echelons, whereas
 these, on the other hand, credit the highest with an understanding in regard to the universal; and thus they
 Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch03.htm (5 of 11) [23/08/2000 18:49:09]
 deceive one another.
 The bureaucracy is the imaginary state alongside the real state; it is the spiritualism of the state. As a
 result everything has a double meaning, one real and one bureaucratic, just as knowledge is double, one
@@ -5732,8 +5647,6 @@ The sole philosophical statement which Hegel makes concerning the Executive is t
 of the individual and particular under the universal, etc.
 Hegel is satisfied with that. On one hand, the category of 'subsumption' of the particular, etc. This
 category must be actualised. Now, he picks anyone of the empirical existences of the Prussian or Modern
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch03.htm (6 of 11) [23/08/2000 18:49:09]
 state (just as it is), which among other things actualises this category even though this category does not
 express its specific nature. Applied mathematics is also a subsuming of the particular, etc. Hegel doesn't
 enquire whether this is the rational, the adequate mode of subsumption. He holds fast only to the one
@@ -5775,8 +5688,6 @@ executive office holders, the executive civil servants are in reality the true r
 'of 'but 'against' civil society. The opposition between state and civil society is thus fixed; the state does
 not reside within but outside of civil society; it affects civil society merely through office holders to
 whom is 1 entrusted the management of the state within this sphere. The opposition is not overcome by
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch03.htm (7 of 11) [23/08/2000 18:49:09]
 means of these office holders but has become a legal and fixed opposition. The state becomes something
 alien to the nature of civil society; it becomes this nature's otherworldly realm of deputies which makes
 claims against civil society. The police, the judiciary, and the administration are not deputies of civil
@@ -5816,8 +5727,6 @@ without which one can be a good citizen of the state, a social man; but the nece
 condition without which a person in the state lives outside the state, is cut off from himself, deprived of
 air. The examination is nothing other than a masonic rite, the legal recognition of the privileged
 knowledge of state citizenship.
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch03.htm (8 of 11) [23/08/2000 18:49:09]
 The link of state office and individual, this objective bond between the knowledge of civil society and the
 knowledge of the state, in other words the examination, is nothing but the bureaucratic baptism of
 knowledge, the official recognition of the transubstantiation of profane into holy knowledge (it goes
@@ -5857,8 +5766,6 @@ acquire the right to find their satisfaction in, but only in, the dutiful discha
 this fact, so far as public business is concerned, there lies the link between universal and particular
 interests which constitutes both the concept of the state and its inner stability,
 this holds good (1.) of every servant, and (2.) it is correct that the salary of the civil servants constitutes
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch03.htm (9 of 11) [23/08/2000 18:49:09]
 the inner stability of the most modern monarchies. in contrast to the member of civil society only the
 civil servants existence is guaranteed.
 At this point Hegel cannot fail to see that he has constructed the executive as an antithesis to civil
@@ -5899,8 +5806,6 @@ category!
 Hegel further adduces the size of the state, which in Russia certainly doesn't guarantee against the caprice
 of the executive civil servants, and in any case is a circumstance which lies outside the 'essence' of the
 bureaucracy.
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch03.htm (10 of 11) [23/08/2000 18:49:09]
 Hegel has developed the 'Executive' as bureaucratic officialdom [Staatsbediententum].
 Here in the sphere of the 'absolutely universal interest of the state proper' we find nothing but unresolved
 conflict. The civil servants' examination and livelihood constitute the final synthesis.
@@ -5919,9 +5824,6 @@ executive power is the one most difficult to develop; it, much more than the leg
 entire people.
 Later (in the Remark to § 308) Hegel expresses the proper spirit of the bureaucracy when he
 characterises it as 'business routine' and the 'horizon of a restricted sphere'.
-Contents - [1] - [2] - [3] - [4] - [5] - [6] - 1844 Introduction
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch03.htm (11 of 11) [23/08/2000 18:49:09]
 Critique of Hegel's Philosophy of Right
 Karl Marx, 1843
 (c) The Legislature
@@ -5961,8 +5863,6 @@ That is to say, then: directly, the constitution lies outside the sphere of the 
 however, the legislature modifies the constitution. The legislature does in an indirect way what it neither
 can nor may do in a direct way. It picks the constitution apart enti détail, since it cannot alter it en gros. It
 does by virtue of the nature of things and circumstances what according to the constitution it was not
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch04.htm (1 of 16) [23/08/2000 18:49:18]
 supposed to do. it does materially and in fact what it does not do formally, legally, or constitutionally.
 With that, Hegel has not resolved the antinomy; he has simply transformed it into another antinomy. He
 has placed the real effect of the legislature, its constitutional effect, in contradiction with its
@@ -6003,8 +5903,6 @@ Moreover, these changes are particular. Certainly, entire state constitutions ha
 new requirements gradually arose the old broke down; but for the new constitution a real revolution was
 always necessity.
 Hence the advance from one state of affairs to another, Hegel concluded [in the Addition], is tranquil in
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch04.htm (2 of 16) [23/08/2000 18:49:18]
 appearance and unnoticed. In this way a constitution changes over a long period of time into something
 quite different from what it was originally.
 The category of gradual transition is, first of all, historically false; and secondly, it explains nothing.
@@ -6044,8 +5942,6 @@ with the species-will.
 The legislature does not make the law, it merely discovers and formulates it.
 The resolution of this conflict has been attempted by differentiating between assemblée constituante and
 assemblée constituée.
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch04.htm (3 of 16) [23/08/2000 18:49:18]
 § 299. Legislative business (the concerns of the legislature) is more precisely determined in relation to
 private individuals, under these two heads: (a) provision by the state for their well being and happiness,
 and [b] the exaction of services from them. The former comprises the laws dealing with all sorts of
@@ -6085,8 +5981,6 @@ ad. 1. In the state it may happen, to begin with, that the numerous aptitudes, p
 talents of its members, together with the infinitely varied richness of life intrinsic to these - all of which
 are at the same time linked with their owner's mentality - are not subject to direct levy by the state. It lays
 claim only to a single form of riches, namely money. (Services requisitioned for the defence of the state
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch04.htm (4 of 16) [23/08/2000 18:49:18]
 in war arise for the first time in connection with the duty considered in the next sub-division of this
 book.) We shall consider personal duty with regard to the military only later - not because of the
 following sub-division, but for other reasons. In fact, however, money is not one particular type of wealth
@@ -6126,8 +6020,6 @@ the moment possessed of [a] a concrete knowledge and oversight of the whole stat
 facets and the actual principles firmly established within it, and [b] a knowledge in particular of what
 the state's power needs. The last moment in the legislature is the Estates.
 The monarchy and the executive are - the legislature. if, however, the legislature is the whole, then
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch04.htm (5 of 16) [23/08/2000 18:49:18]
 the monarchy and the executive must accordingly be moments of the legislature. The supervening
 Estates are the legislature merely, or the legislature in distinction from the monarchy and the
 executive.
@@ -6169,8 +6061,6 @@ public affairs exists without actually being public affairs; nothing less, for i
 society. It has already found its essential existence, its being-in-itself. The fact that public affairs
 now actually becomes public consciousness, or empirical universal, is purely formal and, as it were,
 only a symbolic coming to actuality. The formal or empirical existence of public affairs is separated
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch04.htm (6 of 16) [23/08/2000 18:49:18]
 from its substantial existence. The truth of the matter is that public affairs as being-in-itself is not
 actually public, and actual empirical public affairs is only formal.
 Hegel separates content and form, being-in-itself and being-for-itself, and allows the latter the
@@ -6211,8 +6101,6 @@ And it goes without saying that this is perfectly true in the organisation descr
 2. As for the conspicuously good will for the general welfare which the Estates are supposed to
 possess, it has been pointed out already. . . that to regard the will of the executive as bad, or as less
 good [than that of the ruled] is a presupposition characteristic of the rabble or of the negative
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch04.htm (7 of 16) [23/08/2000 18:49:18]
 outlook generally. This presupposition might at once be answered on its own ground by the
 countercharge that the Estates start from isolated individuals, from a private point of view, from
 particular interests, and so are inclined to devote their activities to these at the expense of the
@@ -6254,8 +6142,6 @@ I say arbitrary abstraction, for since the executive power wills, knows, and act
 arises from the people, and is an empirical plurality (Hegel himself tells us that it is not a totality),
 why should we not be able to characterise the executive as the 'being-for-itself of public affairs'?
 Or, again, why not the Estates as their being-in-itself, since it is only in the executive that [public
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch04.htm (8 of 16) [23/08/2000 18:49:18]
 affairs] receives illumination, determinacy, execution, and independence?
 The true antithesis, however, is this: public affairs must somewhere be represented in the state as
 actual, and thus as empirical public affairs; it must appear somewhere in the crown and robes of
@@ -6297,8 +6183,6 @@ As for the general guarantee which is supposed to lie peculiarly in the Estates,
 political institutions shares with the Estates in being a guarantee of public welfare and rational
 freedom, and some of these institutions, as for instance the sovereignty of the monarch, hereditary
 succession to the throne, the judicial system etc., guarantee these things far more effectively than
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch04.htm (9 of 16) [23/08/2000 18:49:18]
 the Estates can. Hence the specific function which the concept assigns to the Estates is to be sought
 in the fact that in them the subjective moment in universal freedom - the private judgment and
 private will of the sphere called 'civil society' in this book - comes into existence integrally related
@@ -6338,8 +6222,6 @@ sense for the interests of individuals and particular groups. At the same time t
 their position is that, in common with the organised executive, they are a middle term preventing
 both the extreme isolation of the power of the crown, which otherwise might seem a mere arbitrary
 tyranny, and also the isolation of particular interests of persons, societies, and Corporations.
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch04.htm (10 of 16) [23/08/2000 18:49:18]
 Further, and more important, they prevent individuals from having the appearance of a mass or
 an aggregate and so from acquiring an unorganised opinion and volition and from crystallising
 into a powerful bloc in opposition to the organised state.
@@ -6383,8 +6265,6 @@ creating the Estates and its opinion in judging their activity, and enjoyed the 
 objectification. The Estates preserve the state from the unorganised aggregate only through the
 disorganisation of this very aggregate.
 At the same time, however, the mediation of the Estates is to prevent the isolation of the particular
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch04.htm (11 of 16) [23/08/2000 18:49:18]
 interests of persons, societies and Corporations. This they achieve, first, by coming to an
 understanding with the interest of the state and, second, by being themselves the political isolation
 of these particular interests, this isolation as political act, in that through them these isolated
@@ -6424,8 +6304,6 @@ It is one of the most important discoveries of logic that a specific moment, whi
 opposition, has the position of ail extreme, ceases to be such and is a moment in an organic whole
 by being at the same time a mean.
 (Thus the Estates are at one and the same time (1) the extreme of the nation over against the
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch04.htm (12 of 16) [23/08/2000 18:49:18]
 executive, but (2) the mean between nation and executive; or, in other words, the opposition within
 the nation itself The opposition between the executive and the nation is mediated through the
 opposition between the Estates and the nation. From the point of view of the executive the Estates
@@ -6467,8 +6345,6 @@ a contradictio in adjecto; or to put it another way, in class as described by He
 (or, more correctly, unofficial class difference) has a political significance. The unofficial class
 belongs to the essence, to the very political reality [zur Politik] of this state, which thus gives it also
 a political significance, that is, one that differs from its actual significance.
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch04.htm (13 of 16) [23/08/2000 18:49:18]
 In the Remark it says:
 This runs counter to another prevalent idea, the idea that since it is in the legislature that the
 unofficial class rises to the level of participating in matters of state, it must appear there in the
@@ -6510,8 +6386,6 @@ their identity established.
 Hegel finds support in the following: 'The circles of association (family and civil society) are
 already communities.' How can one want these to break up into a mere conglomeration of
 individuals as soon as they enter the field of politics, i.e., the field of the highest concrete
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch04.htm (14 of 16) [23/08/2000 18:49:18]
 universality?
 It is important to follow this development very carefully.
 The peak of Hegelian identity, as Hegel himself admits, was the Middle Ages. There, the classes of
@@ -6553,8 +6427,6 @@ with Hegel's unofficial class which, as a legislative element, acquires politica
 condition, a remarkable, stunning, extraordinary political significance and efficacy?
 All the contradictions of the Hegelian presentation are found together in this development.
 1. He has presupposed the separation of civil society and the political state (which is a modern
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch04.htm (15 of 16) [23/08/2000 18:49:18]
 situation), and developed it as a necessary moment of the Idea, as an absolute truth of Reason. He
 has presented the political state in its modern form of the separation of the various powers. For its
 body he has given the actual acting state the bureaucracy, which he ordains to be the knowing
@@ -6579,8 +6451,6 @@ Hegel is aware of the separation of civil society and the political state, but h
 state expressed within the state; and this is to be achieved by having the classes of civil society,
 while remaining such, form the Estates as an element of legislative society. (cf. xiv, x)'
 Contents - [1] - [2] - [3] - [4] - [5] - [6] - 1844 Introduction
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch04.htm (16 of 16) [23/08/2000 18:49:18]
 Critique of Hegel's Philosophy of Right
 Karl Marx, 1843
 § 304. The Estates, as an element in political life, still retain in their own function the class distinctions
@@ -6621,8 +6491,6 @@ political meaning must be given to it, or else it will in due course disappear.
 the family. But this principle is at the same time reversed owing to hard sacrifices made for political
 ends, and thereby the activity of this class is essentially directed to those ends. As a consequence of this,
 this class is summoned and entitled to its political vocation by birth without the hazards of election. It
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch05.htm (1 of 26) [23/08/2000 18:49:32]
 therefore has the fixed substantive position between the subjective wilfulness or contingency of both
 extremes; and while it mirrors in itself. . . 1 the moment of the monarchical power, it also shares in other
 respects the needs and rights of the other extreme [i.e., civil society], and hence it becomes a support at
@@ -6662,8 +6530,6 @@ civil society is not a political class.
 In declaring civil society to be the unofficial class, Hegel has declared the class differences of civil
 society to be non-political differences and civil and political life to be heterogeneous in character, even
 antitheses. How then does he proceed?
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch05.htm (2 of 26) [23/08/2000 18:49:32]
 [The unofficial class] appears, therefore, in the Estates neither as a mere indiscriminate multitude nor as
 an aggregate dispersed into its atoms, but as what it already is, namely a class subdivided into two, one
 sub-class [the agricultural class] being based on a tie of substance between its members, and the other
@@ -6708,8 +6574,6 @@ of the political citizen, the citizen of the state, from civil society, i.e., fr
 reality; for as a state-idealist he is a being who is completely other, distinct, different from and opposed
 to his own actuality. Here civil society effects within itself the relationship of the state and civil society, a
 relationship which already exists on the other side [i.e., within the state] as the bureaucracy. in the
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch05.htm (3 of 26) [23/08/2000 18:49:32]
 Estates the universal becomes actually, explicitly [für sich] what it is implicitly [an sich], namely,
 opposition to the particular. The citizen must renounce his class, civil society, the unofficial class, in
 order to achieve political significance and efficacy; for it is precisely this class which stands between the
@@ -6752,8 +6616,6 @@ The circles of association in civil society, Hegel continues, are already commun
 communities as once more breaking up into a mere conglomeration of individuals as soon as they enter
 the field of politics, i.e., the field of the highest concrete universality, is eo ipso to hold civil and political
 life apart from one another and as it were to hang the latter in the air, because its basis could then only be
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch05.htm (4 of 26) [23/08/2000 18:49:32]
 the abstract individuality of caprice and opinion, and hence it would be grounded on chance and not on
 what is absolutely stable and justified.
 This picturing [of these communities as breaking up] does not hold civil and political life apart; it is
@@ -6796,8 +6658,6 @@ Moreover, he stands in no actual relation to his substantial activity, to his ac
 for instance, forms no particular class in civil society. one businessman belongs to a class different than
 that of another businessman, i.e., he belongs to another social position. Just as civil society is separated
 from political society, so within itself civil society is separated into class and social position, even though
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch05.htm (5 of 26) [23/08/2000 18:49:32]
 some relations obtain between the two. The principle of the civil class, or of civil society, is enjoyment
 and the capacity to enjoy. In his political role the member of civil society rids himself of his class, of his
 actual private position; by this alone does he acquire significance as man. in other words, his character as
@@ -6837,8 +6697,6 @@ As long as the organisation of civil society remained political, and the politic
 were one, this separation, this duplication of the estates' significance was not present. The estates did not
 signify one thing in the civil world and something other in the political world. They acquired no
 [additional] significance in the political world, but signified only themselves. The duality of civil society
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch05.htm (6 of 26) [23/08/2000 18:49:32]
 and the political state, which the Estate-constitution purports to resolve through a reminiscence, appears
 within that constitution itself, in that class difference (the differentiation within civil society) acquires in
 the political sphere a significance different than in the civil sphere. There is apparent identity here: the
@@ -6881,8 +6739,6 @@ many empirical Wills, and between empirical singularity and empirical universali
 define the will of civil society as empirical universality, so Hegel had to define the sovereign will as
 empirical singularity; but he does not articulate the antithesis in all of its sharpness.
 Hegel continues:
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch05.htm (7 of 26) [23/08/2000 18:49:32]
 From the point of view of the crown, the executive already has this character (see § 300). So, from the
 point of view of the classes, one moment in them must be adapted to the task of existing as in essence the
 moment of mediation.
@@ -6926,8 +6782,6 @@ crown, i.e., the extreme of empirical singularity, are opposed to one another. F
 of civil society the Estates are delegated just as the executive is from the point of view of the sovereign.
 just as the principle of the crown ceases, in the delegated executive power, to be the extreme of empirical
 singularity, surrendering its self-determined will and lowering itself to the finitude of knowledge,
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch05.htm (8 of 26) [23/08/2000 18:49:32]
 responsibility, and thought, so civil society appears in the Estates to be no longer an empirical
 universality, but a very definite whole which has political and administrative sense and temper, and no
 less a sense for the interests of individuals and particular groups (§ 302). Civil society, in its miniature
@@ -6969,8 +6823,6 @@ mere empirical universality; and now he reverses the process, and makes them mer
 universality in order to have class distinction arise from them! just as the sovereign is mediated with civil
 society through the executive, so society is mediated with the executive through the Estates - the
 executive thus acting as society's Christ, and the Estates as its priests.
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch05.htm (9 of 26) [23/08/2000 18:49:32]
 Now it appears all the more that the role of the extremes - the crown (empirical singularity) and civil
 society (empirical universality) - must be that of mediating as the middle term between the opposites; all
 the more because 'it is one of the most important discoveries of logic that a specific moment which, by
@@ -7016,8 +6868,6 @@ logical, and hence pure and irreducible, expression, calls it at the same time t
 logic, the rational relationship, the rational syllogism. Actual extremes cannot be mediated with each
 other precisely because they are actual extremes. But neither are they in need of mediation, because they
 are opposed in essence. They have nothing in common with one another; they neither need nor
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch05.htm (10 of 26) [23/08/2000 18:49:32]
 complement one another. The one does not carry in its womb the yearning, the need, the anticipation of
 the other. (When Hegel treats universality and singularity, the abstract moments of the syllogism, as
 actual opposites, this is precisely the fundamental dualism of his logic. Anything further regarding this
@@ -7058,8 +6908,6 @@ philosophy, for philosophy comprehends religion in its illusory actuality. Thus,
 as it seeks to be an actuality - religion is dissolved in itself. There is no actual duality of essence. More
 on this later.
 The question arises, why does Hegel need a new mediation on the side of the Estates at all? Or does he
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch05.htm (11 of 26) [23/08/2000 18:49:32]
 share with [others] I 'the popular, but not dangerous prejudice, which regards the Estates principally from
 the point of view of their opposition to the executive, as if that were their essential attitude'? (Remark to
 § 302.)
@@ -7103,8 +6951,6 @@ sure, it appears to be the opposition between the two elements, that of the sove
 the Estates, and so forth. But in fact it is the antinomy of political state and civil society, the
 self-contradiction of the abstract political state. The legislature is the established revolt. (Hegel's chief
 mistake consists in the fact that he conceives of the contradiction in appearance as being a unity in
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch05.htm (12 of 26) [23/08/2000 18:49:32]
 essence, i.e., in the Idea; whereas it certainly has something more profound in its essence, namely, an
 essential contradiction. For example here, the contradiction in the legislature itself is nothing other than
 the contradiction of the political state, and thus also the self-contradiction of civil society.
@@ -7145,8 +6991,6 @@ as in essence the moment of mediation - being in 'essence' Buridan's ass?
 The fact of the matter is simply this:
 The Estates are supposed to be the mediation between the crown and the executive on the one hand, and
 the crown and the people on the other. But they are not this, but rather the organised political opposition
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch05.htm (13 of 26) [23/08/2000 18:49:32]
 to civil society. The legislature in itself is in need of mediation, and indeed a mediation coming from the
 Estates, as has been shown. The presupposed moral harmonisation of the two wills, the will of the state
 as sovereign will and the will of the state as the will of civil society, does not suffice. Indeed only the
@@ -7189,8 +7033,6 @@ the political sphere forms and constructs in accordance with its need, a need wh
 political sphere itself.
 The principle of one of the classes of civil society is in itself capable of adaptation to this political
 position. The class in question is one whose ethical life is natural. (The agricultural class.)
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch05.htm (14 of 26) [23/08/2000 18:49:32]
 What, then, does this principle capability, or capability in principle of the agricultural class consist in?
 Its basis is family life, and, so far as its livelihood is concerned, the possession of land. Its particular
 members attain their position by birth, just as the monarch does, and, in common with him, they possess
@@ -7231,8 +7073,6 @@ needed, then the civil class is not political, and thus also not this mediation.
 agricultural class is not as such, but as state citizen, a part of the political Estates; while in the opposite
 case (i.e., where he, as member of the agricultural class, is state citizen, or as state citizen is member of
 this class), his state citizenship is membership in the agricultural class; and then he is not, as member of
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch05.htm (15 of 26) [23/08/2000 18:49:32]
 this class, a state citizen, but is as state citizen a member of this class!
 Here, then, we find one of Hegel's inconsistencies within h' is own way of viewing things; and such an
 inconsistency is an accommodation. The political Estates in the modern sense, which is the sense
@@ -7273,8 +7113,6 @@ position.
 § 306 deals with the adaption to political position and significance; it reduces to the following: 'Their
 wealth becomes inalienable, entailed, and burdened by primogeniture. Thus, primogeniture would be the
 adaption of the agricultural class to politics.
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch05.htm (16 of 26) [23/08/2000 18:49:32]
 Primogeniture is grounded, so it says in the Addition, on the fact that the state should be able to reckon
 not on the bare possibility of political inclinations, but on something necessary. Now an inclination for
 politics is of course not bound up with wealth, but there is a relatively necessary connection between the
@@ -7312,8 +7150,6 @@ The possession of land is private property kat exohin true private property. Its
 prominent (1) as independence from state capital, from favour from the executive, from property existing
 as universal property of the political state, a particular wealth which, alongside of other wealth, is in
 accordance with the construction of the political state; (2) as independence from the need of society or
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch05.htm (17 of 26) [23/08/2000 18:49:32]
 the social wealth, from favour from the mob. (Equally significant is the fact that a share in state capital is
 understood as favour from the executive just as a share in the social wealth is understood as favour from
 the mob.) Neither the wealth of the universal class nor that of the business class is true private property,
@@ -7357,8 +7193,6 @@ What then is the content of political adaption, of the political end: what is th
 substance? Primogeniture, the superlative of private property, sovereign private property. What kind of
 power does the political state exercise over private property in primogeniture? Does the state isolate it
 from the family and society and bring it to its abstract autonomy? What then is the power of the political
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch05.htm (18 of 26) [23/08/2000 18:49:32]
 state over private property? Private property's own power, its essence brought to existence. What remains
 to the political state in opposition to this essence? The illusion that it determines when it is rather
 determined. indeed, it breaks the will of the family and of society, but merely in order to give existence
@@ -7400,8 +7234,6 @@ is in property. Here my will does not own but is owned. This is precisely the ro
 of primogeniture, namely, that here private property, and thus private wilfulness in its most abstract form
 - the totally ignorant, unethical, crude will - appears to be the highest synthesis of the political state, the
 highest renunciation of wilfulness, the hardest and most self-sacrificing struggle with human weakness;
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch05.htm (19 of 26) [23/08/2000 18:49:32]
 for what appears here to be human weakness is actually the humanising, the humanisation of private
 property.
 Primogeniture is private property which has become a religion for itself, which has become absorbed in
@@ -7442,8 +7274,6 @@ the end and product of its activity, its substantive freedom.
 The political sentiment, patriotism pure and simple, is assured conviction with truth as its basis... and a
 volition which has become habitual. In this sense it is simply a product of the institutions subsisting in
 the state, since rationality is actually present in the state, while action in conformity with these
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch05.htm (20 of 26) [23/08/2000 18:49:32]
 institutions gives rationality its practical proof. This sentiment is, in general, trust (which may pass over
 into a greater or lesser degree of educated insight), or the consciousness that my interest, both substantive
 and particular, is contained and preserved in another's (i.e., in the state's) interest and end, i.e., in the
@@ -7487,8 +7317,6 @@ class, which is essentially dependent upon the state. Here, therefore, independe
 civil society and this actualised abstraction of both, which in reality is the crudest dependence on the soil,
 forms in the legislature the mediation and the unity of both. Independent private wealth, i.e., abstract
 private wealth and the corresponding private person, are the highest political construction of the state.
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch05.htm (21 of 26) [23/08/2000 18:49:32]
 Political independence is constructed as independent private property and the person of this independent
 private property. We shall see in the following paragraph what the situation is re vera regarding this
 independence and incorruptibility, and the political sentiment arising from them.
@@ -7531,8 +7359,6 @@ as individuation of a certain social position, function, etc. - In this system, 
 kings, peers, etc. just as it creates eyes and noses. What is striking is to see as immediate product of the
 physical species what is only the product of the self-conscious species. I am man by birth, without the
 agreement of society; yet only through universal agreement does this determinate birth become peer or
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch05.htm (22 of 26) [23/08/2000 18:49:33]
 king. Only the agreement makes the birth of this man the birth of a king. It is therefore the agreement,
 not birth, that makes the king. If birth, in distinction from other determinations, immediately endows man
 with a position, then his body makes him this determined social functionary. His body is his social right.
@@ -7575,8 +7401,6 @@ class distinction. In the same way, the essence of the sovereign and of the exec
 in the legislature. It is here, in the sphere of the political state, that the individual moments of the state
 relate to themselves as to the being of the species, the 'species-being'; because the political state is the
 sphere of their universal character, i.e., their religious sphere. The political state is the mirror of truth for
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch05.htm (23 of 26) [23/08/2000 18:49:33]
 the various moments of the concrete state.
 Thus, if independent private property in the political state, in the legislature, has the significance of
 political independence, then it is the political independence of the state. Independent private property, or
@@ -7617,8 +7441,6 @@ to modem morality its true position.
 In the constitution, wherein primogeniture is a guarantee, private property is the guarantee of the political
 constitution. In primogeniture, it appears that this guarantee is a particular kind of private property.
 Primogeniture is merely a particular existence of the universal relationship of private property and the
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch05.htm (24 of 26) [23/08/2000 18:49:33]
 political state. Primogeniture is the political sense of private property, private property in its political
 significance, that is to say, in its universal significance. Thus the constitution here is the constitution of
 private property.
@@ -7658,8 +7480,6 @@ private right, the right of the abstract person. The Roman conception of private
 classical formulation. Yet nowhere with the Romans do we find that the right of private property was
 mystified as in the case of the Germans. Nowhere does it become right of the state.
 The right of private property is jus utendi et abutendi, the right of wilfulness in disposing of a thing. The
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch05.htm (25 of 26) [23/08/2000 18:49:33]
 main interest of the Romans lay in developing the relationships, and in determining which ones resulted
 in abstract relations of private property. The actual basis of private property, the property, is a factum, an
 unexplainable factum, and no right. Only through legal determinations, which the society attributes to the
@@ -7696,8 +7516,6 @@ i.e., landed property. At its highest levels the state appears as private proper
 should appear as property of the state. Instead of making private property a civil quality, Hegel makes
 political citizenship, existence, and sentiment a quality of private property.)
 Contents - [1] - [2] - [3] - [4] - [5] - [6] - 1844 Introduction
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch05.htm (26 of 26) [23/08/2000 18:49:33]
 Critique of Hegel's Philosophy of Right
 Karl Marx, 1843
 § 308. The second section of the Estates comprises the fluctuating element in civil society. This element
@@ -7737,8 +7555,6 @@ itself from its civil actuality and establishes itself as what it is not. How ca
 this?
 He thinks that society's associations etc., which are constituted already for other purposes, acquire a
 connection with politics because society in its Corporations etc. appoints the deputies. But either they
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch06.htm (1 of 13) [23/08/2000 18:49:41]
 acquire a significance which is not their significance, or their connection as such is political, in which
 case it does not just 'acquire' the political tinge, as developed above, but rather in it politics acquires its
 connection. By designating only this part of the Estates as that of the deputy, Hegel has unwittingly
@@ -7783,8 +7599,6 @@ political principle itself The abstraction for which they are blamed is, then, a
 product of a patriotism rediscovered, to be sure, only in an opposition, but in a necessary opposition. The
 merit of the French in this regard, then, is to have established the Chamber of Peers as the unique product
 of the political state, or in general, to have made the political principle in its uniqueness the determining
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch06.htm (2 of 13) [23/08/2000 18:49:41]
 and effective factor.
 Hegel also remarks that in the deputation, as he constructs it, the existence of the Estates and their
 assembly finds a constitutional guarantee of its own in the fact that the Corporations etc. are entitled to
@@ -7825,8 +7639,6 @@ Before we proceed to the category of election as the political act by which civi
 political choice, let us examine some additional statements from the Remark to this paragraph.
 To hold that every single person should share in deliberating and deciding on political matters of general
 concern o the ground that all individuals are members of the state, that its concerns are their concerns,
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch06.htm (3 of 13) [23/08/2000 18:49:41]
 and that it is their right that what is done should be done with their knowledge and volition, is tantamount
 to a proposal to put the democratic element without any rational form into the organism of the state,
 although it is only in virtue of the possession of such a form that the state is an organism at all. This idea
@@ -7868,8 +7680,6 @@ Not all individually, but the individuals as all.
 Hegel presents himself with the dilemma: either civil society (the Many, the multitude) shares through
 deputies in deliberating and deciding on political matters of general concern or all [as] I individuals do
 this. This is no opposition of essence, as Hegel subsequently tries to present it, but of existence, and
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch06.htm (4 of 13) [23/08/2000 18:49:41]
 indeed of the most external existence, quantity. Thus, the basis which Hegel himself designated as
 external - the multiplicity of members - remains the best reason against the direct participation of all. The
 question of whether civil society should participate in the legislature either by entering it through
@@ -7910,8 +7720,6 @@ and would make society superfluous. The individual would have to do everything a
 would have him act for others just as it would have others act for him.
 The question whether all as individuals should share in deliberating and deciding on political matters of
 general concern is a question that arises from the separation of the political state and civil society.
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch06.htm (5 of 13) [23/08/2000 18:49:41]
 As we have seen, the state exists merely as political state. The totality of the political state is the
 legislature. To participate in the legislature is thus to participate in the political state and to prove and
 actualise one's existence as member of the political state, as member of the state. That all as individuals
@@ -7955,8 +7763,6 @@ the species; that is to say, it represents a determination of my own essence the
 representative of the other. Here, he is representative not by virtue of something other than himself which
 he represents, but by virtue of what he is and does.
 Legislative power is sought not for the sake of its content, but for the sake of its formal political
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch06.htm (6 of 13) [23/08/2000 18:49:41]
 significance. For example, executive power, in and for itself, has to be the object of popular desire much
 more than legislative power, which is the metaphysical political function. The legislative function is the
 will, not in its practical but in its theoretical energy. Here, the will should not pre-empt the law; rather,
@@ -7999,8 +7805,6 @@ political existence as its true existence civil society has simultaneously estab
 distinction from its political existence, as inessential. And with the one separated, the other, its opposite,
 falls. Within the abstract political state the reform of voting advances the dissolution [Auflösung] of this
 political state, but also the dissolution of civil society.
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch06.htm (7 of 13) [23/08/2000 18:49:41]
 We will encounter the question of the reform of voting later under another aspect, namely, from the point
 of view of the interests. We will also discuss later the other conflicts which arise from the two-fold
 character of the legislature (being at one time the political representative or mandatory of civil society, at
@@ -8040,8 +7844,6 @@ particular interest of a society or a Corporation in preference to that interest
 representatives primarily as representatives of the Corporations etc., in order subsequently to reintroduce
 the other political determination, namely, that they are not to vindicate the particular interest of the
 Corporation etc. With that he abolishes his own determination, for he completely separates [the
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch06.htm (8 of 13) [23/08/2000 18:49:41]
 representatives], in their essential character as representatives, from their Corporation-existence. In so
 doing he also separates the Corporation from itself in its actual content, for it is supposed to vote not
 from its own point of view but from the state's point of view; that is to say, it is supposed to vote in its
@@ -8081,8 +7883,6 @@ personally present in anything which is to be obligatory on me. We have confiden
 take him to be a man of discretion who will manage our affairs conscientiously and to the best of his
 knowledge, just as if they were his own.
 §310. The guarantee that deputies will have the qualifications and disposition that accord with this end -
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch06.htm (9 of 13) [23/08/2000 18:49:41]
 since independent means attains its right in the first section of the Estates - is to be found so far as the
 second section is concerned - the section drawn from the fluctuating and changeable element in civil
 society - above all in the knowledge of the organisation and interests of the state and civil society, the
@@ -8122,8 +7922,6 @@ The electors require a guarantee that their deputy will further and secure this 
 the deputies described earlier).
 This guarantee for the electors has underhandedly evolved into a guarantee against the electors, against
 their self-confidence. in the Estates, empirical universality was supposed to come to the moment of
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch06.htm (10 of 13) [23/08/2000 18:49:41]
 subjective formal freedom. Public consciousness was supposed to come to existence in that moment as
 the empirical universality of the opinions and thoughts of the Many. (§ 301.)
 Now these opinions and thoughts must give proof beforehand to the executive that they are its opinions
@@ -8164,8 +7962,6 @@ interest of a society or a Corporation in preference to that interest.
 needs, and avoid confusion due to abstract conceptions - as if the universal interest were not also such an
 abstraction, an abstraction precisely from their Corporation, etc., interests.
 • According to § 310 it is required that, as a result of the actual transaction of business etc., they have
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch06.htm (11 of 13) [23/08/2000 18:49:41]
 acquired and evinced a managerial and political sense. In §311 a Corporation and civil sense is required.
 • In the Addition to § 309 it says, representation is grounded on trust. According to § 311 the actual
 election, this realisation of trust, its manifestation and appearance, is either something wholly superfluous
@@ -8205,11 +8001,8 @@ existence of its own. For this reason the assembly of the Estates is divided int
 O jerum!
 § 313. This division, by providing chambers of the first and second instance, is a surer guarantee for
 ripeness of decision and it obviates the accidental character which a snap-division has and which a
-Notes for a Critique of Hegel's Philosophy of Right, by Karl Marx
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch06.htm (12 of 13) [23/08/2000 18:49:41]
 numerical majority may acquire. But the principal advantage of this arrangement is that there is less
 chance of the Estates being in direct opposition to the executive; or that, if the mediating element is at the
 same time on the side of the lower house, the weight of the lower house's opinion is all the stronger,
 because it appears less partisan and its opposition appears neutralised.
-The manuscript ends. At the top of the following page, Marx wrote:
-http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch06.htm (13 of 13) [23/08/2000 18:49:41]
+The manuscript ends. At the top of the following page, Marx wrote
