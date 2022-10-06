@@ -51,7 +51,7 @@ ch01.htm (2 of 37) [23/08/2000 16:15:14]
 
 
 
-Capital Vol. I - Chapter One 
+Capital Vol. I -  One 
 
 replaceable by each other, or equal to each other. Therefore, first: the valid exchange-values of a given 
 commodity express something equal; secondly, exchange-value, generally, is only the mode of 
@@ -106,7 +106,7 @@ ch01.htm (3 of 37) [23/08/2000 16:15:14]
 
 
 
-Capital Vol. I - Chapter One 
+Capital Vol. I -  One 
 
 commodities, whenever they are exchanged, is their value. The progress of our investigation will show 
 that exchange-value is the only form in which the value of commodities can manifest itself or be 
@@ -160,7 +160,7 @@ ch01.htm (4 of 37) [23/08/2000 16:15:14]
 
 
 
-Capital Vol. I - Chapter One 
+Capital Vol. I -  One 
 
 plantations of the same country, although the diamonds cost much more labour, and therefore represented 
 more value. With richer mines, the same quantity of labour would embody itself in more diamonds, and 
@@ -215,7 +215,7 @@ ch01.htm (5 of 37) [23/08/2000 16:15:14]
 
 
 
-Capital Vol. I - Chapter One 
+Capital Vol. I -  One 
 
 useful effect. 
 
@@ -272,7 +272,7 @@ ch01.htm (6 of 37) [23/08/2000 16:15:14]
 
 
 
-Capital Vol. I - Chapter One 
+Capital Vol. I -  One 
 
 difference, which for the present does not concern us. We bear in mind, however, that if the value of the 
 coat is double that of 10 yds. of linen, 20 yds. of linen must have the same value as one coat. So far as 
@@ -327,7 +327,7 @@ ch01.htm (7 of 37) [23/08/2000 16:15:14]
 
 
 
-Capital Vol. I - Chapter One 
+Capital Vol. I -  One 
 
 values? It is owing to the fact that the linen contains only half as much labour as the coat, and 
 consequently, that in the production of the latter, labour-power must have been expended during twice 
@@ -376,7 +376,7 @@ ch01.htm (8 of 37) [23/08/2000 16:15:14]
 
 
 
-Capital Vol. I - Chapter One 
+Capital Vol. I -  One 
 
 SECTION 3 
 
@@ -434,7 +434,7 @@ ch01.htm (9 of 37) [23/08/2000 16:15:14]
 
 
 
-Capital Vol. I - Chapter One 
+Capital Vol. I -  One 
 
 The whole mystery of the form of value lies hidden in this elementary form. Its analysis, therefore, is our 
 real difficulty. 
@@ -490,7 +490,7 @@ ch01.htm (10 of 37) [23/08/2000 16:15:14]
 
 
 
-Capital Vol. I - Chapter One 
+Capital Vol. I -  One 
 
 are expressions of the same unit, things of the same kind. Linen = coat is the basis of the equation. 
 
@@ -547,7 +547,7 @@ ch01.htm (11 of 37) [23/08/2000 16:15:14]
 
 
 
-Capital Vol. I - Chapter One 
+Capital Vol. I -  One 
 
 but though worn to a thread, it does not let this fact show through. And as equivalent of the linen in the 
 value equation, it exists under this aspect alone, counts therefore as embodied value, as a body that is 
@@ -604,7 +604,7 @@ ch01.htm (12 of 37) [23/08/2000 16:15:14]
 
 
 
-Capital Vol. I - Chapter One 
+Capital Vol. I -  One 
 
 tailoring. We have now to consider the influence of such changes on the quantitative aspect of the 
 relative expression of value. 
@@ -660,7 +660,7 @@ ch01.htm (13 of 37) [23/08/2000 16:15:14]
 
 
 
-Capital Vol. I - Chapter One 
+Capital Vol. I -  One 
 
 differing in kind (the coat), at the same time impresses upon the latter a specific form of value, namely 
 that of the equivalent. The commodity linen manifests its quality of having a value by the fact that the 
@@ -716,7 +716,7 @@ ch01.htm (14 of 37) [23/08/2000 16:15:14]
 
 
 
-Capital Vol. I - Chapter One 
+Capital Vol. I -  One 
 
 therefore not serve as the expression of the weight of the other. When we throw both into the scales, we 
 see in reality, that as weight they are both the same, and that, therefore, when taken in proper 
@@ -770,7 +770,7 @@ ch01.htm (15 of 37) [23/08/2000 16:15:14]
 
 
 
-Capital Vol. I - Chapter One 
+Capital Vol. I -  One 
 
 labour, appear as the direct and palpable embodiment of human labour generally. 
 
@@ -829,7 +829,7 @@ ch01.htm (16 of 37) [23/08/2000 16:15:14]
 
 
 
-Capital Vol. I - Chapter One 
+Capital Vol. I -  One 
 
 be deciphered, until the notion of human equality has already acquired the fixity of a popular prejudice. 
 This, however, is possible only in a society in which the great mass of the produce of labour takes the 
@@ -848,7 +848,7 @@ to another commodity of a different kind, or in its exchange-relation to the-sam
 commodity A, is qualitatively expressed, by the fact that commodity B is directly exchangeable with it. 
 Its value is quantitatively expressed by the fact, that a definite quantity of B is exchangeable with a 
 definite quantity of A. In other words, the value of a commodity obtains independent and definite 
-expression, by taking the form of exchange- value. When, at the beginning of this chapter, we said, in 
+expression, by taking the form of exchange- value. When, at the beginning of this , we said, in 
 common parlance, that a commodity is both a use-value and an exchange-value, we were, accurately 
 speaking, wrong. A commodity is a use-value or object of utility, and a value. It manifests itself as this 
 two-fold thing, that it is, as soon as its value assumes an independent form — viz., the form of 
@@ -885,7 +885,7 @@ ch01.htm (17 of 37) [23/08/2000 16:15:14]
 
 
 
-Capital Vol. I - Chapter One 
+Capital Vol. I -  One 
 
 Every product of labour is, in all states of society, a use-value; but it is only at a definite historical epoch 
 in a society's development that such a product becomes a commodity, viz., at the epoch when the labour 
@@ -918,13 +918,13 @@ different elementary expressions of that value.
 
 B. Total or Expanded Form of value 
 
-z Com. A = u Com. B or 
+z A = u B or 
 
-= v Com. C or 
+= vor 
 
-= w Com. D or 
+= w D or 
 
-= Com. E or 
+= E or 
 
 = &c. or 
 
@@ -942,7 +942,7 @@ ch01.htm (18 of 37) [23/08/2000 16:15:14]
 
 
 
-Capital Vol. I - Chapter One 
+Capital Vol. I -  One 
 
 
 
@@ -1001,7 +1001,7 @@ ch01.htm (19 of 37) [23/08/2000 16:15:14]
 
 
 
-Capital Vol. I - Chapter One 
+Capital Vol. I -  One 
 
 every case, and consisting of an interminable series of expressions of value. The defects of the expanded 
 relative value-form are reflected in the corresponding equivalent form. Since the bodily form of each 
@@ -1062,7 +1062,7 @@ ch01.htm (20 of 37) [23/08/2000 16:15:14]
 
 
 
-Capital Vol. I - Chapter One 
+Capital Vol. I -  One 
 
 The forms A and B were fit only to express the value of a commodity as something distinct from its 
 use-value or material form. 
@@ -1119,7 +1119,7 @@ ch01.htm (21 of 37) [23/08/2000 16:15:14]
 
 
 
-Capital Vol. I - Chapter One 
+Capital Vol. I -  One 
 
 into the universal equivalent. The bodily form of the linen is now the form assumed in common by the 
 values of all commodities; it therefore becomes directly exchangeable with all and every of them. The 
@@ -1169,7 +1169,7 @@ to it, equivalents. Here we cannot reverse the equation, as we can the equation 
 without altering its general character, and converting it from the expanded form of value into the general 
 form of value. 
 
-Finally, the form C gives to the world of commodities a general social relative form of value, because, 
+Finally, the formgives to the world of commodities a general social relative form of value, because, 
 
 
 
@@ -1177,7 +1177,7 @@ ch01.htm (22 of 37) [23/08/2000 16:15:14]
 
 
 
-Capital Vol. I - Chapter One 
+Capital Vol. I -  One 
 
 and in so far as, thereby all commodities, with the exception of one, are excluded from the equivalent 
 form. A single commodity, the linen, appears therefore to have acquired the character of direct 
@@ -1211,7 +1211,7 @@ becomes the money-commodity, or serves as money. It becomes the special social f
 commodity, and consequently its social monopoly, to play within the world of commodities the part of 
 the universal equivalent. Amongst the commodities which, in form B, figure as particular equivalents of 
 the linen, and, in form C, express in common their relative values in linen, this foremost place has been 
-attained by one in particular- namely, gold. If, then, in form C we replace the linen by gold, we get, 
+attained by one in particular- namely, gold. If, then, in formwe replace the linen by gold, we get, 
 
 
 
@@ -1235,13 +1235,13 @@ ch01.htm (23 of 37) [23/08/2000 16:15:14]
 
 
 
-Capital Vol. I - Chapter One 
+Capital Vol. I -  One 
 
 
 
 In passing from form A to form B, and from the latter to form C, the changes are fundamental. On the 
-other hand, there is no difference between forms C and D, except that, in the latter, gold has assumed the 
-equivalent form in the place of linen. Gold is in form D, what linen was in form C — the universal 
+other hand, there is no difference between formsand D, except that, in the latter, gold has assumed the 
+equivalent form in the place of linen. Gold is in form D, what linen was in form— the universal 
 equivalent. The progress consists in this alone, that the character of direct and universal exchangeability 
 — in other words, that the universal equivalent form — has now, by social custom, become finally 
 identified with the substance, gold. 
@@ -1288,7 +1288,7 @@ ch01.htm (24 of 37) [23/08/2000 16:15:14]
 
 
 
-Capital Vol. I - Chapter One 
+Capital Vol. I -  One 
 
 the product of human labour. It is as clear as noon-day, that man, by his industry, changes the forms of 
 the materials furnished by Nature, in such a way as to make them useful to him. The form of wood, for 
@@ -1342,7 +1342,7 @@ ch01.htm (25 of 37) [23/08/2000 16:15:14]
 
 
 
-Capital Vol. I - Chapter One 
+Capital Vol. I -  One 
 
 social character of the labour that produces them. 
 
@@ -1397,7 +1397,7 @@ ch01.htm (26 of 37) [23/08/2000 16:15:14]
 
 
 
-Capital Vol. I - Chapter One 
+Capital Vol. I -  One 
 
 independently, consists in the equality of every kind of that labour, by virtue of its being human labour, 
 which character, therefore, assumes in the product the form of value — this fact appears to the producers, 
@@ -1451,7 +1451,7 @@ ch01.htm (27 of 37) [23/08/2000 16:15:14]
 
 
 
-Capital Vol. I - Chapter One 
+Capital Vol. I -  One 
 
 soon as we come to other forms of production. 
 
@@ -1506,7 +1506,7 @@ ch01.htm (28 of 37) [23/08/2000 16:15:14]
 
 
 
-Capital Vol. I - Chapter One 
+Capital Vol. I -  One 
 
 operates in this case merely as a definite portion of the whole labour-power of the family, and therefore, 
 the measure of the expenditure of individual labour-power by its duration, appears here by its very nature 
@@ -1560,7 +1560,7 @@ ch01.htm (29 of 37) [23/08/2000 16:15:14]
 
 
 
-Capital Vol. I - Chapter One 
+Capital Vol. I -  One 
 
 ground-work or set of conditions of existence which in their turn are the spontaneous product of a long 
 and painful process of development. 
@@ -1615,7 +1615,7 @@ ch01.htm (30 of 37) [23/08/2000 16:15:14]
 
 
 
-Capital Vol. I - Chapter One 
+Capital Vol. I -  One 
 
 the gift of fortune; but reading and writing comes by Nature." [371 
 
@@ -1623,7 +1623,7 @@ the gift of fortune; but reading and writing comes by Nature." [371
 
 Footnotes 
 
-T 1 1 Karl Marx, " Zur Kritik der Politischen Oekonomie ." Berlin, 1859, p. 3. 
+T 1 1  , " Zur Kritik der Politischen Oekonomie ." Berlin, 1859, p. 3. 
 
 [21 "Desire implies want, it is the appetite of the mind, and as natural as hunger to the body.... The 
 greatest number (of things) have their value from supplying the wants of the mind." Nicholas Barbon: "A 
@@ -1663,7 +1663,7 @@ internal evidence that it appeared in the reign of George II, about 1739 or 1740
 [101 "Toutes les productions d'un meme genre ne forment proprement qu'une masse, dont le prix se 
 determine en general et sans egard aux circonstances particulieres." (Le Trosne, I.e., p. 893.) 
 
-[Ill K.Marx. I.e., p.6. 
+[Ill K.. I.e., p.6. 
 
 
 
@@ -1671,10 +1671,10 @@ ch01.htm (31 of 37) [23/08/2000 16:15:14]
 
 
 
-Capital Vol. I - Chapter One 
+Capital Vol. I -  One 
 
 [121 I am inserting the parenthesis because its omission has often given rise to the misunderstanding that 
-every product that is consumed by some one other than its producer is considered in Marx a commodity. 
+every product that is consumed by some one other than its producer is considered in  a commodity. 
 [Engels, 4th German Edition] 
 
 f 131 Tutti i fenomeni dell'universo, sieno essi prodotti della mano dell'uomo, ovvero delle universali 
@@ -1726,7 +1726,7 @@ ch01.htm (32 of 37) [23/08/2000 16:15:14]
 
 
 
-Capital Vol. I - Chapter One 
+Capital Vol. I -  One 
 
 f 181 The celebrated Franklin, one of the first economists, after Wm. Petty, who saw through the nature of 
 value, says: "Trade in general being nothing else but the exchange of labour for labour, the value of all 
@@ -1760,7 +1760,7 @@ Economy," London, 1842, pp. 11 and 14.) Mr. Broadhurst might just as well say: c
 10/20, 10/50, 10/100, &c, the number 10 remains unchanged, and yet its proportional magnitude, its 
 magnitude relatively to the numbers 20, 50, 100 &c, continually diminishes. Therefore the great 
 principle that the magnitude of a whole number, such as 10, is "regulated" by the number of times unity 
-is contained in it, falls to the ground. [The author explains in section 4 of this chapter, pp. 80- 81, note 2 
+is contained in it, falls to the ground. [The author explains in section 4 of this , pp. 80- 81, note 2 
 (note 33 etext), what he understands by "Vulgar Economy." - Engels] 
 
 f221 Such expressions of relations in general, called by Hegel reflex-categories , form a very curious 
@@ -1783,7 +1783,7 @@ ch01.htm (33 of 37) [23/08/2000 16:15:14]
 
 
 
-Capital Vol. I - Chapter One 
+Capital Vol. I -  One 
 
 of its corn- value when expressed in corn, and so on. Every such expression tells us, that what appears in 
 the use-values, cost, corn, &c, is the value of the linen. "The value of any commodity denoting its 
@@ -1826,7 +1826,7 @@ Italiani di Economia Politica." Parte Moderna, Milano 1803.)
 f291 What are we to think of a law that asserts itself only by periodical revolutions? It is just nothing but 
 a law of Nature, founded on the want of knowledge of those whose action is the subject of it." (Friedrich 
 Engels: "Umrisse zu einer Kritik der Nationalokonomie," in the "Deutsch-Franzosische Jahrbucher," 
-edited by Arnold Ruge and Karl Marx. Paris. 1844.) 
+edited by Arnold Ruge and  . Paris. 1844.) 
 
 POI Even Ricardo has his stories a la Robinson. "He makes the primitive hunter and the primitive fisher 
 straightway, as owners of commodities, exchange fish and game in the proportion in which labour-time 
@@ -1837,10 +1837,10 @@ ch01.htm (34 of 37) [23/08/2000 16:15:14]
 
 
 
-Capital Vol. I - Chapter One 
+Capital Vol. I -  One 
 
 in current use on the London Exchange in the year 1817. The parallelograms of Mr. Owen' appear to be 
-the only form of society, besides the bourgeois form, with which he was acquainted." (Karl Marx: " Zur 
+the only form of society, besides the bourgeois form, with which he was acquainted." ( : " Zur 
 Kritik, &c ." pp. 38, 39) 
 
 f3 11 'A ridiculous presumption has latterly got abroad that common property in its primitive form is 
@@ -1849,7 +1849,7 @@ have existed amongst Romans, Teutons, and Celts, and even to this day we find nu
 ruins though they be, in India. A more exhaustive study of Asiatic, and especially of Indian forms of 
 common property, would show how from the different forms of primitive common property, different 
 forms of its dissolution have been developed. Thus, for instance, the various original types of Roman and 
-Teutonic private property are deducible from different forms of Indian common property." (Karl Marx, 
+Teutonic private property are deducible from different forms of Indian common property." ( , 
 " Zur Kritik, &c ," p. 10.) 
 
 f321 The insufficiency of Ricardo's analysis of the magnitude of value, and his analysis is by far the best, 
@@ -1874,7 +1874,7 @@ the commonplace error of the vulgar economists, who assume the value of one comm
 labour) in order to determine the values of the rest. But Ricardo reads him as if he had said, that labour 
 (not the value of labour) is embodied both in use-value and exchange- value. Nevertheless, Ricardo 
 himself pays so little attention to the two-fold character of the labour which has a two-fold embodiment, 
-that he devotes the whole of his chapter on "Value and Riches, Their Distinctive Properties," to a 
+that he devotes the whole of his  on "Value and Riches, Their Distinctive Properties," to a 
 laborious examination of the trivialities of a J.B. Say. And at the finish he is quite astonished to find that 
 Destutt on the one hand agrees with him as to labour being the source of value, and on the other hand 
 with J. B. Say as to the notion of value. 
@@ -1890,7 +1890,7 @@ ch01.htm (35 of 37) [23/08/2000 16:15:14]
 
 
 
-Capital Vol. I - Chapter One 
+Capital Vol. I -  One 
 
 abstract, but is also the most universal form, taken by the product in bourgeois production and stamps 
 that production as a particular species of social production, and thereby gives it its special historical 
@@ -1915,7 +1915,7 @@ d'institutions, celles de l'art et celles de la nature. Les institutions de la f
 artificielles celles de la bourgeoisie sont des institutions naturelles. lis ressemblent en ceci aux 
 theologiens, qui eux aussi etablissent deux sortes de religions. Toute religion qui n'est pas la leur, est une 
 invention des hommes tandis que leur propre religion est une emanation de Dieu -Ainsi il y a eu de 
-l'histoire, mais il n'y en a plus." (Karl Marx. Misere de la Philosophie. Reponse a la Philosophic de la 
+l'histoire, mais il n'y en a plus." ( . Misere de la Philosophie. Reponse a la Philosophic de la 
 Misere par M. Proudhon , 1847, p. 113.) Truly comical is M. Bastiat, who imagines that the ancient 
 Greeks and Romans lived by plunder alone. But when people plunder for centuries, there must always be 
 something at hand for them to seize; the objects of plunder must be continually reproduced. It would thus 
@@ -1944,7 +1944,7 @@ ch01.htm (36 of 37) [23/08/2000 16:15:15]
 
 
 
-Capital Vol. I - Chapter One 
+Capital Vol. I -  One 
 
 the history of its landed property. On the other hand, Don Quixote long ago paid the penalty for wrongly 
 imagining that knight errantry was compatible with all economic forms of society. 
@@ -1968,7 +1968,7 @@ Transcribed by Bert Schultz (1993)
 
 Html Markup by Brian Basgen & Andy Blunden (1999) 
 
-Next: Chapter Two: Exchange 
+Next:  Two: Exchange 
 Capital Volume One- Index 
 
 
@@ -1977,9 +1977,9 @@ ch01.htm (37 of 37) [23/08/2000 16:15:15]
 
 
 
-Capital Vol. I — Chapter Two 
+Capital Vol. I —  Two 
 
-Karl Marx 
+  
 
 Capital Volume One 
 
@@ -1991,7 +1991,7 @@ Commodities and Money
 
 
 
-CHAPTER TWO: 
+ TWO: 
 EXCHANGE 
 
 
@@ -2031,7 +2031,7 @@ ch02.htm (1 of 7) [23/08/2000 16:15:19]
 
 
 
-Capital Vol. I — Chapter Two 
+Capital Vol. I —  Two 
 
 On the other hand, they must show that they are use- values before they can be realised as values. For the 
 labour spent upon them counts effectively, only in so far as it is spent in a form that is useful for others. 
@@ -2085,7 +2085,7 @@ ch02.htm (2 of 7) [23/08/2000 16:15:19]
 
 
 
-Capital Vol. I — Chapter Two 
+Capital Vol. I —  Two 
 
 men, by a tacit understanding, to treat each other as private owners of those alienable objects, and by 
 implication as independent individuals. But such a state of reciprocal independence has no existence in a 
@@ -2140,7 +2140,7 @@ ch02.htm (3 of 7) [23/08/2000 16:15:19]
 
 
 
-Capital Vol. I — Chapter Two 
+Capital Vol. I —  Two 
 
 The truth of the proposition that, "although gold and silver are not by Nature money, money is by Nature 
 gold and silver, "[6] is shown by the fitness of the physical properties of these metals for the functions of 
@@ -2195,7 +2195,7 @@ ch02.htm (4 of 7) [23/08/2000 16:15:19]
 
 
 
-Capital Vol. I — Chapter Two 
+Capital Vol. I —  Two 
 
 comprehending that money is a commodity, but in discovering how, why, and by what means a 
 commodity becomes money, f 131 
@@ -2250,7 +2250,7 @@ ch02.htm (5 of 7) [23/08/2000 16:15:19]
 
 
 
-Capital Vol. I — Chapter Two 
+Capital Vol. I —  Two 
 
 in its natural way. For it has not been made for the sake of being exchanged." (Aristoteles, "De Rep." 1. i. 
 c. 9.) 
@@ -2265,10 +2265,10 @@ my work, "Zur Kritik der Pol. Oekon.", p. 61, sq.
 as the equivalent of a single article, which is often the case with savages, even the direct barter of 
 products is in its first infancy. 
 
-[61 Karl Marx, 1. c, p. 135. "I metalli ... naturalmente moneta." (Galiani, "Delia moneta" in Custodi's 
+[61  , 1. c, p. 135. "I metalli ... naturalmente moneta." (Galiani, "Delia moneta" in Custodi's 
 Collection: Parte Moderna t. iii.) 
 
-[7} For further details on this subject see in my work cited above, the chapter on "The precious metals." 
+[7} For further details on this subject see in my work cited above, the  on "The precious metals." 
 
 [81 "II danaro e la merce universale "(Verri, 1. c, p. 16). 
 
@@ -2305,7 +2305,7 @@ ch02.htm (6 of 7) [23/08/2000 16:15:19]
 
 
 
-Capital Vol. I — Chapter Two 
+Capital Vol. I —  Two 
 
 right of the latter to debase the coinage, during the whole of the middle ages, by the traditions of the 
 Roman Empire and the conceptions of money to be found in the Pandects. "Qu'aucun puisse ni doive 
@@ -2341,7 +2341,7 @@ Transcribed by Bert Shultz
 
 Html Markup by Stephen Baird (1999) 
 
-Next: Chapter Three: Money, or the Circulation of Commodities 
+Next:  Three: Money, or the Circulation of Commodities 
 Capital Volume One- Index 
 
 
@@ -2350,9 +2350,9 @@ ch02.htm (7 of 7) [23/08/2000 16:15:19]
 
 
 
-Capital Vol. I — Chapter Three 
+Capital Vol. I —  Three 
 
-Karl Marx 
+  
 
 Capital Volume One 
 
@@ -2364,7 +2364,7 @@ Commodities and Money
 
 
 
-CHAPTER THREE: 
+ THREE: 
 
 MONEY, OR THE CIRCULATION OF COMMODITIES 
 
@@ -2409,7 +2409,7 @@ ch03.htm (1 of 39) [23/08/2000 16:15:38]
 
 
 
-Capital Vol. I — Chapter Three 
+Capital Vol. I —  Three 
 
 measured by one and the same special commodity, and the latter be converted into the common measure 
 of their values, i.e., into money. Money as a measure of value, is the phenomenal form that must of 
@@ -2454,8 +2454,8 @@ commodities, and thus proves, by facts, that a double standard of value is incon
 of a standard. \4] 
 
 Commodities with definite prices present themselves under the form; a commodity A = x gold; b 
-commodity B = z gold; c commodity C = y gold, &c, where a, b, c, represent definite quantities of the 
-commodities A, B, C and x, z, y, definite quantities of gold. The values of these commodities are, 
+commodity B = z gold;commodity= y gold, &c, where a, b, c, represent definite quantities of the 
+commodities A, B,and x, z, y, definite quantities of gold. The values of these commodities are, 
 therefore, changed in imagination into so many different quantities of gold. Hence, in spite of the 
 confusing variety of the commodities themselves, their values become magnitudes of the same 
 
@@ -2463,7 +2463,7 @@ ch03.htm (2 of 39) [23/08/2000 16:15:38]
 
 
 
-Capital Vol. I — Chapter Three 
+Capital Vol. I —  Three 
 
 denomination, gold-magnitudes. They are now capable of being compared with each other and measured, 
 and the want becomes technically felt of comparing them with some fixed quantity of gold as a unit 
@@ -2504,7 +2504,7 @@ Just as when we estimate the value of any commodity by a definite quantity of th
 other commodity, so in estimating the value of the former in gold, we assume nothing more than that the 
 production of a given quantity of gold costs, at the given period, a given amount of labour. As regards the 
 fluctuations of prices generally, they are subject to the laws of elementary relative value investigated in a 
-former chapter. 
+former . 
 
 A general rise in the prices of commodities can result only, either from a rise in their values — the value 
 of money remaining constant — or from a fall in the value of money, the values of commodities 
@@ -2519,7 +2519,7 @@ ch03.htm (3 of 39) [23/08/2000 16:15:38]
 
 
 
-Capital Vol. I — Chapter Three 
+Capital Vol. I —  Three 
 
 money implies a proportional rise in prices. Such change of price holds good only in the case of 
 commodities whose value remains constant. With those, for example, whose value rises, simultaneously 
@@ -2574,7 +2574,7 @@ ch03.htm (4 of 39) [23/08/2000 16:15:38]
 
 
 
-Capital Vol. I — Chapter Three 
+Capital Vol. I —  Three 
 
 Price is the money-name of the labour realised in a commodity. Hence the expression of the equivalence 
 of a commodity with the sum of money constituting its price, is a tautology, £14] just as in general the 
@@ -2629,7 +2629,7 @@ ch03.htm (5 of 39) [23/08/2000 16:15:38]
 
 
 
-Capital Vol. I — Chapter Three 
+Capital Vol. I —  Three 
 
 commodity may, side by side with its actual form (iron, for instance), take in our imagination the form of 
 gold, yet it cannot at one and the same time actually be both iron and gold. To fix its price, it suffices to 
@@ -2660,7 +2660,7 @@ THE MEDIUM OF CIRCULATION
 
 A. The Metamorphosis of Commodities 
 
-We saw in a former chapter that the exchange of commodities implies contradictory and mutually 
+We saw in a former  that the exchange of commodities implies contradictory and mutually 
 exclusive conditions. The differentiation of commodities into commodities and money does not sweep 
 away these inconsistencies, but develops a modus vivendi, a form in which they can exist side by side. 
 This is generally the way in which real contradictions are reconciled. For instance, it is a contradiction to 
@@ -2684,7 +2684,7 @@ ch03.htm (6 of 39) [23/08/2000 16:15:38]
 
 
 
-Capital Vol. I — Chapter Three 
+Capital Vol. I —  Three 
 
 material fact alone that a commodity has been exchanged for gold, we overlook the very thing that we 
 ought to observe — namely, what has happened to the form of the commodity. We overlook the facts 
@@ -2729,7 +2729,7 @@ The exchange of commodities is therefore accompanied by the following changes in
 Commodity — Money — Commodity. 
 C M C. 
 
-The result of the whole process is, so far as concerns the objects themselves, C — C, the exchange of one 
+The result of the whole process is, so far as concerns the objects themselves,— C, the exchange of one 
 commodity for another, the circulation of materialised social labour. When this result is attained, the 
 process is at an end. 
 
@@ -2739,7 +2739,7 @@ ch03.htm (7 of 39) [23/08/2000 16:15:38]
 
 
 
-Capital Vol. I — Chapter Three 
+Capital Vol. I —  Three 
 
 C — M. First metamorphosis, or sale 
 
@@ -2792,7 +2792,7 @@ ch03.htm (8 of 39) [23/08/2000 16:15:38]
 
 
 
-Capital Vol. I — Chapter Three 
+Capital Vol. I —  Three 
 
 The quantitative division of labour is brought about in exactly the same spontaneous and accidental 
 manner as its qualitative division. The owners of commodities therefore find out, that the same division 
@@ -2820,7 +2820,7 @@ price. The realisation of a commodity's price, or of its ideal value-form, is th
 realisation of the ideal use-value of money; the conversion of a commodity into money, is the 
 simultaneous conversion of money into a commodity. The apparently single process is in reality a double 
 one. From the pole of the commodity-owner it is a sale, from the opposite pole of the money-owner, it is 
-a purchase. In other words, a sale is a purchase, C — M is also M — C. |181 
+a purchase. In other words, a sale is a purchase,— M is also M — C. |181 
 
 Up to this point we have considered men in only one economic capacity, that of owners of commodities, 
 a capacity in which they appropriate the produce of the labour of others, by alienating that of their own 
@@ -2833,7 +2833,7 @@ metal, at which place gold is bartered, as the immediate product of labour, for 
 equal value. From that moment it always represents the realised price of some commodity. [191 Apart 
 from its exchange for other commodities at the source of its production, gold, in whose-so-ever hands it 
 may be, is the transformed shape of some commodity alienated by its owner; it is the product of a sale or 
-of the first metamorphosis C — M. [201 Gold, as we saw, became ideal money, or a measure of values, in 
+of the first metamorphosis— M. [201 Gold, as we saw, became ideal money, or a measure of values, in 
 consequence of all commodities measuring their values by it, and thus contrasting it ideally with their 
 natural shape as useful objects, and making it the shape of their value. It became real money, by the 
 general alienation of commodities, by actually changing places with their natural forms as useful objects, 
@@ -2847,18 +2847,18 @@ ch03.htm (9 of 39) [23/08/2000 16:15:38]
 
 
 
-Capital Vol. I — Chapter Three 
+Capital Vol. I —  Three 
 
 incarnation of homogeneous human labour. We cannot tell from the mere look of a piece of money, for 
 what particular commodity it has been exchanged. Under their money-form all commodities look alike. 
 Hence, money may be dirt, although dirt is not money. We will assume that the two gold pieces, in 
 consideration of which our weaver has parted with his linen, are the metamorphosed shape of a quarter of 
-wheat. The sale of the linen, C — M, is at the same time its purchase, M — C. But the sale is the first act 
+wheat. The sale of the linen,— M, is at the same time its purchase, M — C. But the sale is the first act 
 of a process that ends with a transaction of an opposite nature, namely, the purchase of a Bible; the 
 purchase of the linen, on the other hand, ends a movement that began with a transaction of an opposite 
-nature, namely, with the sale of the wheat. C — M (linen — money), which is the first phase of 
-C — M' — C (linen — money — Bible), is also M — C (money — linen), the last phase of another 
-movement C — M — C (wheat — money — linen). The first metamorphosis of one commodity, its 
+nature, namely, with the sale of the wheat.— M (linen — money), which is the first phase of 
+C — M' —(linen — money — Bible), is also M —(money — linen), the last phase of another 
+movement— M —(wheat — money — linen). The first metamorphosis of one commodity, its 
 transformation from a commodity into money, is therefore also invariably the second metamorphosis of 
 some other commodity, the retransformation of the latter from money into a commodity. f211 
 
@@ -2876,12 +2876,12 @@ itself, how it got into the hands of its possessor, or what article has been cha
 whatever source it may come. Representing on the one hand a sold commodity, it represents on the other 
 a commodity to be bought. \22\ 
 
-M — C, a purchase, is, at the same time, C — M, a sale; the concluding metamorphosis of one 
+M — C, a purchase, is, at the same time,— M, a sale; the concluding metamorphosis of one 
 commodity is the first metamorphosis of another. With regard to our weaver, the life of his commodity 
 ends with the Bible, into which he has reconverted his £2. But suppose the seller of the Bible turns the £2 
-set free by the weaver into brandy M — C, the concluding phase of C — M — C 
+set free by the weaver into brandy M — C, the concluding phase of— M —
 
-(linen — money — Bible), is also C — M, the first phase of C — M — C (Bible — money — brandy). The 
+(linen — money — Bible), is also— M, the first phase of— M —(Bible — money — brandy). The 
 producer of a particular commodity has that one article alone to offer; this he sells very often in large 
 quantities, but his many and various wants compel him to split up the price realised, the sum of money 
 set free, into numerous purchases. Hence a sale leads to many purchases of various articles. The 
@@ -2889,7 +2889,7 @@ concluding metamorphosis of a commodity thus constitutes an aggregation of first
 various other commodities. 
 
 If we now consider the completed metamorphosis of a commodity, as a whole, it appears in the first 
-place, that it is made up of two opposite and complementary movements, C — M and M — C. These two 
+place, that it is made up of two opposite and complementary movements,— M and M — C. These two 
 antithetical transmutations of a commodity are brought about by two antithetical social acts on the part of 
 the owner, and these acts in their turn stamp the character of the economic parts played by him. As the 
 person who makes a sale, he is a seller; as the person who makes a purchase, he is a buyer. But just as, 
@@ -2903,7 +2903,7 @@ ch03.htm (10 of 39) [23/08/2000 16:15:38]
 
 
 
-Capital Vol. I — Chapter Three 
+Capital Vol. I —  Three 
 
 therefore not permanent, but attach themselves in turns to the various persons engaged in the circulation 
 of commodities. 
@@ -2959,7 +2959,7 @@ ch03.htm (11 of 39) [23/08/2000 16:15:38]
 
 
 
-Capital Vol. I — Chapter Three 
+Capital Vol. I —  Three 
 
 of circulation vacated by other commodities. In the complete metamorphosis of the linen, for example, 
 linen — money — Bible, the linen first falls out of circulation, and money steps into its place. Then the 
@@ -3002,7 +3002,7 @@ present standpoint of simple circulation, have as yet no existence. f251
 
 B. The currency [26] of money 
 
-The change of form, C — M — C, by which the circulation of the material products of labour is brought 
+The change of form,— M — C, by which the circulation of the material products of labour is brought 
 about, requires that a given value in the shape of a commodity shall begin the process, and shall, also in 
 the shape of a commodity, end it. The movement of the commodity is therefore a circuit. On the other 
 hand, the form of this movement precludes a circuit from being made by the money. The result is not the 
@@ -3014,7 +3014,7 @@ ch03.htm (12 of 39) [23/08/2000 16:15:38]
 
 
 
-Capital Vol. I — Chapter Three 
+Capital Vol. I —  Three 
 
 as the seller sticks fast to his money, which is the transformed shape of his commodity, that commodity 
 is still in the first phase of its metamorphosis, and has completed only half its course. But so soon as he 
@@ -3059,7 +3059,7 @@ Again, money functions as a means of circulation only because in it the values o
 independent reality. Hence its movement, as the medium of circulation, is, in fact, merely the movement 
 of commodities while changing their forms. This fact must therefore make itself plainly visible in the 
 currency of money. Thus the linen for instance, first of all changes its commodity-form into its 
-moneyform. The second term of its first metamorphosis, C — M, the money form, then becomes the first 
+moneyform. The second term of its first metamorphosis,— M, the money form, then becomes the first 
 term of its final metamorphosis, M — C, its re-conversion into the Bible. But each of these two changes 
 of form is accomplished by an exchange between commodity and money, by their reciprocal 
 
@@ -3069,7 +3069,7 @@ ch03.htm (13 of 39) [23/08/2000 16:15:38]
 
 
 
-Capital Vol. I — Chapter Three 
+Capital Vol. I —  Three 
 
 displacement. The same pieces of 'coin come into the seller's hand as the alienated form of the commodity 
 and leave it as the absolutely alienable form of the commodity. They are displaced twice. The first 
@@ -3123,7 +3123,7 @@ ch03.htm (14 of 39) [23/08/2000 16:15:38]
 
 
 
-Capital Vol. I — Chapter Three 
+Capital Vol. I —  Three 
 
 the imperfectly developed stages of civil society, will continue for a long time to be estimated by the 
 former antiquated and illusory value of the measure of value. Nevertheless, one commodity infects 
@@ -3176,7 +3176,7 @@ ch03.htm (15 of 39) [23/08/2000 16:15:38]
 
 
 
-Capital Vol. I — Chapter Three 
+Capital Vol. I —  Three 
 
 quantity of money functioning as the circulating medium is equal to the sum of the prices of the 
 commodities divided by the number of moves made by coins of the same denomination. This law holds 
@@ -3230,7 +3230,7 @@ ch03.htm (16 of 39) [23/08/2000 16:15:38]
 
 
 
-Capital Vol. I — Chapter Three 
+Capital Vol. I —  Three 
 
 have been the most important in the history of prices. 
 
@@ -3285,7 +3285,7 @@ ch03.htm (17 of 39) [23/08/2000 16:15:38]
 
 
 
-Capital Vol. I — Chapter Three 
+Capital Vol. I —  Three 
 
 The only difference, therefore, between coin and bullion, is one of shape, and gold can at any time pass 
 from one form to the other. f341 But no sooner does coin leave the mint, than it immediately finds itself 
@@ -3340,7 +3340,7 @@ ch03.htm (18 of 39) [23/08/2000 16:15:38]
 
 
 
-Capital Vol. I — Chapter Three 
+Capital Vol. I —  Three 
 
 printed. In so far as they actually take the place of gold to the same amount, their movement is subject to 
 the laws that regulate the currency of money itself. A law peculiar to the circulation of paper money can 
@@ -3378,7 +3378,7 @@ money is a mere coin, or means of circulation, only so long as it actually circu
 case with that minimum mass of gold, which is capable of being replaced by paper money. That mass 
 remains constantly within the sphere of circulation, continually functions as a circulating medium, and 
 exists exclusively for that purpose. Its movement therefore represents nothing but the continued 
-alternation of the inverse phases of the metamorphosis C — M — C, phases in which commodities 
+alternation of the inverse phases of the metamorphosis— M — C, phases in which commodities 
 confront their value-forms, only to disappear again immediately. The independent existence of the 
 exchange- value of a commodity is here a transient apparition, by means of which the commodity is 
 immediately replaced by another commodity. Hence, in this process which continually makes money 
@@ -3395,7 +3395,7 @@ ch03.htm (19 of 39) [23/08/2000 16:15:38]
 
 
 
-Capital Vol. I — Chapter Three 
+Capital Vol. I —  Three 
 
 but it is also only within that sphere that money completely responds to its function of being the 
 circulating medium, or becomes coin. 
@@ -3448,7 +3448,7 @@ ch03.htm (20 of 39) [23/08/2000 16:15:38]
 
 
 
-Capital Vol. I — Chapter Three 
+Capital Vol. I —  Three 
 
 why Indian commodities are so cheap. Answer: Because the Hindus bury their money. From 1602 to 
 1734, he remarks, they buried 150 millions of pounds sterling of silver, which originally came from 
@@ -3502,7 +3502,7 @@ ch03.htm (21 of 39) [23/08/2000 16:15:38]
 
 
 
-Capital Vol. I — Chapter Three 
+Capital Vol. I —  Three 
 
 means of purchasing, has only a limited efficacy. This antagonism between the quantitative limits of 
 money and its qualitative boundlessness, continually acts as a spur to the hoarder in his Sisyphus-like 
@@ -3557,7 +3557,7 @@ ch03.htm (22 of 39) [23/08/2000 16:15:38]
 
 
 
-Capital Vol. I — Chapter Three 
+Capital Vol. I —  Three 
 
 only at the end of the term that the buyer has actually received the use-value of the commodity. He 
 therefore buys it before he pays for it. The vendor sells an existing commodity, the purchaser buys as the 
@@ -3604,14 +3604,14 @@ The obligations falling due within a given period, represent the sum of the pric
 sale of which gave rise to those obligations. The quantity of gold necessary to realise this sum, depends, 
 in the first instance, on the rapidity of currency of the means of payment. That quantity is conditioned by 
 two circumstances: first the relations between debtors and creditors form a sort of chain, in such a way 
-that A, when he receives money from his debtor B, straightway hands it over to C his creditor, and so on; 
+that A, when he receives money from his debtor B, straightway hands it over tohis creditor, and so on; 
 the second circumstance is the length of the intervals between the different due-days of the obligations. 
 
 ch03.htm (23 of 39) [23/08/2000 16:15:38] 
 
 
 
-Capital Vol. I — Chapter Three 
+Capital Vol. I —  Three 
 
 The continuous chain of payments, or retarded first metamorphoses, is essentially different from that 
 interlacing of the series of metamorphoses which we considered on a former page. By the currency of the 
@@ -3623,7 +3623,7 @@ The fact that a number of sales take place simultaneously, and side by side, lim
 coin can be replaced by the rapidity of currency. On the other hand, this fact is a new lever in 
 economising the means of payment. In proportion as payments are concentrated at one spot, special 
 institutions and methods are developed for their liquidation. Such in the middle ages were the virements 
-at Lyons. The debts due to A from B, to B from C, to C from A, and so on, have only to be confronted 
+at Lyons. The debts due to A from B, to B from C, tofrom A, and so on, have only to be confronted 
 with each other, in order to annul each other to a certain extent like positive and negative quantities. 
 There thus remains only a single balance to pay. The greater the amount of the payments concentrated, 
 the less is this balance relatively to that amount, and the less is the mass of the means of payment in 
@@ -3665,7 +3665,7 @@ ch03.htm (24 of 39) [23/08/2000 16:15:38]
 
 
 
-Capital Vol. I — Chapter Three 
+Capital Vol. I —  Three 
 
 debts owing for the purchased commodities circulate for the purpose of transferring those debts to others. 
 On the other hand, to the same extent as the system of credit is extended, so is the function of money as a 
@@ -3721,7 +3721,7 @@ ch03.htm (25 of 39) [23/08/2000 16:15:38]
 
 
 
-Capital Vol. I — Chapter Three 
+Capital Vol. I —  Three 
 
 the character of the commodity whose bodily form is also the immediate social incarnation of human 
 labour in the abstract. Its real mode of existence in this sphere adequately corresponds to its ideal 
@@ -3776,7 +3776,7 @@ ch03.htm (26 of 39) [23/08/2000 16:15:38]
 
 
 
-Capital Vol. I — Chapter Three 
+Capital Vol. I —  Three 
 
 of commodities, must products take the form of commodities? This is evident, since their taking the form 
 of commodities implies their differentiation into commodities and money. Or, why cannot private labour 
@@ -3802,7 +3802,7 @@ the working-class, a certain Dr. Harvey (not, however, the celebrated discoverer
 blood), made a good thing by advertising recipes for reducing the superfluous fat of the bourgeoisie and 
 aristocracy. 
 
-[31 See Karl Marx: "Zur Kritik, &c." "Theorien von der Masseinheit des Gelda," p. 53, seq. 
+[31 See  : "Zur Kritik, &c." "Theorien von der Masseinheit des Gelda," p. 53, seq. 
 
 [4J "Wherever gold and silver have by law been made to perform the function of money or of a measure 
 of value side by side, it has always been tried, but in vain, to treat them as one and the same material. To 
@@ -3831,9 +3831,9 @@ ch03.htm (27 of 39) [23/08/2000 16:15:38]
 
 
 
-Capital Vol. I — Chapter Three 
+Capital Vol. I —  Three 
 
-practice one alone maintains that position." (Karl Marx, 1. c, pp. 52, 53.) 
+practice one alone maintains that position." ( , 1. c, pp. 52, 53.) 
 
 [51 The peculiar circumstance, that while the ounce of gold serves in England as the unit of the standard 
 of money, the pound sterling does not form an aliquot part of it, has been explained as follows: "Our 
@@ -3868,7 +3868,7 @@ signify on the one hand an ounce weight of gold, and on the other, the value of 
 reckoning name of money has been called its mint-price. Hence there sprang up the extraordinary notion, 
 that the value of gold is estimated in its own material, and that, in contradistinction to all other 
 commodities, its price is fixed by the State. It was erroneously thought that the giving of reckoning 
-names to definite weights of gold, is the same thing as fixing the value of those weights." (Karl Marx, 1. 
+names to definite weights of gold, is the same thing as fixing the value of those weights." ( , 1. 
 c.,p. 52.) 
 
 f 131 See "Theorien von der Masseinheit des Geldes" in "Zur Kritik der Poll Oekon. &c," p. 53, seq. The 
@@ -3887,7 +3887,7 @@ ch03.htm (28 of 39) [23/08/2000 16:15:38]
 
 
 
-Capital Vol. I — Chapter Three 
+Capital Vol. I —  Three 
 
 f 141 "Ou bien, il faut consentir a dire qu'une valeur d'un million en argent vaut plus qu'une valeur egale 
 en merchandises." (Le Troene, 1. c, p. 919), which amounts to saying "qu'une valeur vaut plus qu'une 
@@ -3901,11 +3901,11 @@ thought," he says, "I was in the spirit before the Judge of the Universe." "Who 
 fl61 xxx — (F. Lassalle: vv Die Philosophic Herakleitos des Dunkeln." Berlin, 1858, Vol. I, p. 222.) 
 Lassalle in his note on this passage, p. 224, n. 3., erroneously makes gold a mere symbol of value. 
 
-f 171 Note by the Institute of Marxism-Leninism in the Russian edition. — In his letter of November 28, 
-1878, to N. F. Danielson (Nikolai — on) Marx proposed that this sentence be corrected to read as 
+f 171 Note by the Institute of ism-Leninism in the Russian edition. — In his letter of November 28, 
+1878, to N. F. Danielson (Nikolai — on)  proposed that this sentence be corrected to read as 
 follows: "And, as a matter of fact, the value of each single yard is but the materialised form of a part of 
 the social labour expended on the whole number of yards." An analogous correction was made in a copy 
-of the second German edition of the first volume of "Capital" belonging to Marx; however, not in his 
+of the second German edition of the first volume of "Capital" belonging to ; however, not in his 
 handwriting. 
 
 f 181 "Toute vente est achat." (Dr. Quesnay: "Dialogues sur le Commerce et les Travaux des Artisans." 
@@ -3944,7 +3944,7 @@ ch03.htm (29 of 39) [23/08/2000 16:15:38]
 
 
 
-Capital Vol. I — Chapter Three 
+Capital Vol. I —  Three 
 
 are acquainted with nothing but the abstract categories of circulation, which are common to all these 
 modes of production, we cannot possibly know anything of the specific points of difference of those 
@@ -4000,12 +4000,12 @@ ch03.htm (30 of 39) [23/08/2000 16:15:38]
 
 
 
-Capital Vol. I — Chapter Three 
+Capital Vol. I —  Three 
 
 specie] requisite in our trade, is to be likewise taken from the frequency of commutations, and from the 
 bigness of the payments." (William Petty, "A Treatise of Taxes and Contributions." Lond. 1667, p. 17.) 
 The Theory of Hume was defended against the attacks of J. Steuart and others, by A. Young, in his 
-"Political Arithmetic," Lond; 1774, in which work there is a special chapter entitled "Prices depend on 
+"Political Arithmetic," Lond; 1774, in which work there is a special  entitled "Prices depend on 
 quantity of money, at p. 112, sqq. I have stated in "Zur Kritik, &c," p. 149: "He (Adam Smith) passes 
 over without remark the question as to the quantity of coin in circulation, and treats money quite wrongly 
 as a mere commodity." This statement applies only in so far as Adam Smith, ex officio, treats of money. 
@@ -4055,7 +4055,7 @@ ch03.htm (31 of 39) [23/08/2000 16:15:38]
 
 
 
-Capital Vol. I — Chapter Three 
+Capital Vol. I —  Three 
 
 father, James Mill, and the opposite view. On a comparison of the text of his compendium, "Principles of 
 Poll Econ.," with his preface to the first edition, in which preface he announces himself as the Adam 
@@ -4109,7 +4109,7 @@ ch03.htm (32 of 39) [23/08/2000 16:15:38]
 
 
 
-Capital Vol. I — Chapter Three 
+Capital Vol. I —  Three 
 
 writers on money, in their comprehension of its various functions: "That, as far as concerns our domestic 
 exchanges, all the monetary functions which are usually performed by gold and silver coins, may be 
@@ -4178,7 +4178,7 @@ ch03.htm (33 of 39) [23/08/2000 16:15:39]
 
 
 
-Capital Vol. I — Chapter Three 
+Capital Vol. I —  Three 
 
 And give them title, knee and approbation; 
 
@@ -4238,13 +4238,13 @@ ch03.htm (34 of 39) [23/08/2000 16:15:39]
 
 
 
-Capital Vol. I — Chapter Three 
+Capital Vol. I —  Three 
 
 action is therefore the sphere of that capital, viz., banking, the stock exchange, and finance. 
 
 [501 "The sudden reversion from a system of credit to a system of hard cash heaps theoretical fright on 
 top of the practical panic; and the dealers by whose agency circulation is affected, shudder before the 
-impenetrable mystery in which their own economic relations are involved" (Karl Marx, 1. c, p. 126.) 
+impenetrable mystery in which their own economic relations are involved" ( , 1. c, p. 126.) 
 "The poor stand still, because the rich have no money to employ them, though they have the same land 
 and hands to provide victuals and clothes, as ever they had; ...which is the true riches of a nation, and not 
 the money." John Bellers, Proposals for Raising a College of Industry, London, 1696, p3. 
@@ -4280,7 +4280,7 @@ ch03.htm (35 of 39) [23/08/2000 16:15:39]
 
 
 
-Capital Vol. I — Chapter Three 
+Capital Vol. I —  Three 
 
 Receipts. Payments 
 
@@ -4410,7 +4410,7 @@ they issued. (See John Fullarton, "Regulation of Currencies." Lond. 1845, p. 86,
 should be stated, that in Scotland, at the date of Fullarton's work, notes and not cheques were used to 
 withdraw deposits. 
 
-f571 Note by the Institute of Marxism-Leninism in the Russian edition: Apparently a slip of the pen. 
+f571 Note by the Institute of ism-Leninism in the Russian edition: Apparently a slip of the pen. 
 When writing /averse the author evidently meant direct. 
 
 f58J To the question, "If there were occasion to raise 40 millions p. a., whether the same 6 millions (gold) 
@@ -4421,7 +4421,7 @@ ch03.htm (36 of 39) [23/08/2000 16:15:39]
 
 
 
-Capital Vol. I — Chapter Three 
+Capital Vol. I —  Three 
 
 circles, viz., weekly, as happens among poor artisans and labourers, who receive and pay every Saturday, 
 then 40/52 parts of 1 million of money would answer these ends, but if the circles be quarterly, according 
@@ -4433,7 +4433,7 @@ Anatomy of Ireland." 1672, Edit.: Lond. 1691, pp. 13, 14.)
 f591 Hence the absurdity of every law prescribing that the banks of a country shall form reserves of that 
 precious metal alone which circulates at home. The "pleasant difficulties" thus self-created by the Bank 
 of England, are well known. On the subject of the great epochs in the history of the changes in the 
-relative value of gold and silver, see Karl Marx, 1. c, p. 136 sq. Sir Robert Peel, by his Bank Act of 1844, 
+relative value of gold and silver, see  , 1. c, p. 136 sq. Sir Robert Peel, by his Bank Act of 1844, 
 sought to tide over the difficulty, by allowing the Bank of England to issue notes against silver bullion, 
 on condition that the reserve of silver should never exceed more than one-fourth of the reserve of gold. 
 The value of silver being for that purpose estimated at its price in the London market. 
@@ -4476,7 +4476,7 @@ ch03.htm (37 of 39) [23/08/2000 16:15:39]
 
 
 
-Capital Vol. I — Chapter Three 
+Capital Vol. I —  Three 
 
 surplus trade balances in gold and silver as the aim of international trade, entirely misconceived the 
 functions of money of the world. I have shown by the example of Ricardo in what way their false 
@@ -4532,7 +4532,7 @@ ch03.htm (38 of 39) [23/08/2000 16:15:39]
 
 
 
-Capital Vol. I — Chapter Three 
+Capital Vol. I —  Three 
 
 of dearth at home, evens accounts ... and beautifies the whole; altho more especially the particular 
 persons that have it in plenty." (W. Petty, "Political Anatomy of Ireland," p. 14.) 
@@ -4545,7 +4545,7 @@ Html Markup by Stephen Baird (1999)
 
 
 
-Next: Chapter Four: The General Formula for Capital 
+Next:  Four: The General Formula for Capital 
 Capital Volume One- Index 
 
 
@@ -4554,9 +4554,9 @@ ch03.htm (39 of 39) [23/08/2000 16:15:39]
 
 
 
-Capital Vol. I — Chapter Four 
+Capital Vol. I —  Four 
 
-Karl Marx 
+  
 
 Capital Volume One 
 
@@ -4568,7 +4568,7 @@ The Transformation of Money and Capital
 
 
 
-CHAPTER FOUR: 
+ FOUR: 
 
 THE GENERAL FORMULA FOR CAPITAL 
 
@@ -4611,7 +4611,7 @@ ch04.htm (1 of 8) [23/08/2000 16:15:43]
 
 
 
-Capital Vol. I — Chapter Four 
+Capital Vol. I —  Four 
 
 constitutes the single movement whereby money is exchanged for a commodity, and the same 
 commodity is again exchanged for money; whereby a commodity is bought in order to be sold, or, 
@@ -4667,7 +4667,7 @@ ch04.htm (2 of 8) [23/08/2000 16:15:43]
 
 
 
-Capital Vol. I — Chapter Four 
+Capital Vol. I —  Four 
 
 Such reflux is not dependent on the commodity being sold for more than was paid for it. This 
 circumstance influences only the amount of the money that comes back. The reflux itself takes place, so 
@@ -4723,7 +4723,7 @@ ch04.htm (3 of 8) [23/08/2000 16:15:43]
 
 
 
-Capital Vol. I — Chapter Four 
+Capital Vol. I —  Four 
 
 corn and the clothes are equivalents, does not deprive the process of all meaning, as it does in M-C-M. 
 The equivalence of their values is rather a necessary condition to its normal course. 
@@ -4776,7 +4776,7 @@ ch04.htm (4 of 8) [23/08/2000 16:15:43]
 
 
 
-Capital Vol. I — Chapter Four 
+Capital Vol. I —  Four 
 
 take in turn each of the two different forms which self-expanding value successively assumes in the 
 course of its life, we then arrive at these two propositions: Capital is money: Capital is commodities. |131 
@@ -4832,7 +4832,7 @@ ch04.htm (5 of 8) [23/08/2000 16:15:43]
 
 
 
-Capital Vol. I — Chapter Four 
+Capital Vol. I —  Four 
 
 
 
@@ -4870,7 +4870,7 @@ jeu." (Pinto: "Traite de la Circulation et du Credit." Amsterdam, 1771. p. 231,)
 [51 "Capital is divisible ... into the original capital and the profit, the increment to the capital ... although 
 in practice this profit is immediately turned into capital, and set in motion with the original." (F. Engels, 
 "Umrisse zu einer Kritik der Nationalokonomie, in: Deutsch-Franzosische Jahrbiicher, herausgegeben 
-von Arnold Ruge und Karl Marx." Paris, 1844, p. 99.) 
+von Arnold Ruge und  ." Paris, 1844, p. 99.) 
 
 [61 Aristotle opposes Oeconomic to Chrematistic. He starts from the former. So far as it is the art of 
 gaining a livelihood, it is limited to procuring those articles that are necessary to existence, and useful 
@@ -4887,7 +4887,7 @@ ch04.htm (6 of 8) [23/08/2000 16:15:43]
 
 
 
-Capital Vol. I — Chapter Four 
+Capital Vol. I —  Four 
 
 what is necessary to themselves (the buyer or seller)." Therefore, as he goes on to show, the original form 
 of trade was barter, but with the extension of the latter, there arose the necessity for money. On the 
@@ -4941,14 +4941,14 @@ ch04.htm (7 of 8) [23/08/2000 16:15:43]
 
 
 
-Capital Vol. I — Chapter Four 
+Capital Vol. I —  Four 
 
 Transcribed by Martha Giminez and Hinrich Kuhls 
 Html Markup by Stephen Baird (1999) 
 
 
 
-Next: Chapter Five: Contradictions in the General Formula of Capital 
+Next:  Five: Contradictions in the General Formula of Capital 
 Capital Volume One- Index 
 
 
@@ -4957,9 +4957,9 @@ ch04.htm (8 of 8) [23/08/2000 16:15:43]
 
 
 
-Capital Vol. I — Chapter Five 
+Capital Vol. I —  Five 
 
-Karl Marx 
+  
 
 Capital Volume One 
 
@@ -4971,7 +4971,7 @@ The Transformation of Money in Capital
 
 
 
-CHAPTER FIVE: 
+ FIVE: 
 
 CONTRADICTIONS IN THE GENERAL FORMULA OF CAPITAL 
 
@@ -5011,7 +5011,7 @@ ch05.htm (1 of 9) [23/08/2000 16:15:48]
 
 
 
-Capital Vol. I — Chapter Five 
+Capital Vol. I —  Five 
 
 Let us take the process of circulation in a form under which it presents itself as a simple and direct 
 exchange of commodities. This is always the case when two owners of commodities buy from each 
@@ -5065,7 +5065,7 @@ ch05.htm (2 of 9) [23/08/2000 16:15:48]
 
 
 
-Capital Vol. I — Chapter Five 
+Capital Vol. I —  Five 
 
 Condillac says: "It is not true that on an exchange of commodities we give value for value. On the 
 contrary, each of the two contracting parties in every case, gives a less for a greater value. ... If we really 
@@ -5120,7 +5120,7 @@ ch05.htm (3 of 9) [23/08/2000 16:15:48]
 
 
 
-Capital Vol. I — Chapter Five 
+Capital Vol. I —  Five 
 
 gold. The nominal prices of commodities would rise, but the real relation between their values would 
 remain unchanged. 
@@ -5164,7 +5164,7 @@ Let us therefore keep within the bounds of exchange where sellers are also buyer
 Our difficulty may perhaps have arisen from treating the actors as personifications instead of as 
 individuals. 
 
-A may be clever enough to get the advantage of B or C without their being able to retaliate. A sells wine 
+A may be clever enough to get the advantage of B orwithout their being able to retaliate. A sells wine 
 worth £40 to B, and obtains from him in exchange corn to the value of £50. A has converted his £40 into 
 £50, has made more money out of less, and has converted his commodities into capital. Let us examine 
 this a little more closely. Before the exchange we had £40 worth of wine in the hands of A, and £50 
@@ -5176,7 +5176,7 @@ ch05.htm (4 of 9) [23/08/2000 16:15:48]
 
 
 
-Capital Vol. I — Chapter Five 
+Capital Vol. I —  Five 
 
 £90. The value in circulation has not increased by one iota, it is only distributed differently between A 
 and B. What is a loss of value to B is surplus-value to A; what is "minus" to one is "plus" to the other. 
@@ -5233,7 +5233,7 @@ ch05.htm (5 of 9) [23/08/2000 16:15:48]
 
 
 
-Capital Vol. I — Chapter Five 
+Capital Vol. I —  Five 
 
 something must take place in the background, which is not apparent in the circulation itself. f231 But can 
 surplus-value possibly originate anywhere else than in circulation, which is the sum total of all the 
@@ -5288,7 +5288,7 @@ ch05.htm (6 of 9) [23/08/2000 16:15:48]
 
 
 
-Capital Vol. I — Chapter Five 
+Capital Vol. I —  Five 
 
 \5] "Dove e egualita non e lucro." (Galiani, "Delia Moneta in Custodi, Parte Moderna," t. iv., p. 244.) 
 
@@ -5345,7 +5345,7 @@ ch05.htm (7 of 9) [23/08/2000 16:15:48]
 
 
 
-Capital Vol. I — Chapter Five 
+Capital Vol. I —  Five 
 
 view. He says, industrial capitalists make profits because "they all sell for more than it has cost to 
 produce. And to whom do they sell? In the first instance to one another." (I. c, p. 239.) 
@@ -5398,7 +5398,7 @@ ch05.htm (8 of 9) [23/08/2000 16:15:48]
 
 
 
-Capital Vol. I — Chapter Five 
+Capital Vol. I —  Five 
 
 Transcribed by Hinrich Kuhls 
 
@@ -5406,7 +5406,7 @@ Html Markup by Stephen Baird (1999)
 
 
 
-Next: Chapter Six: The Buying and Selling of Labour-Power 
+Next:  Six: The Buying and Selling of Labour-Power 
 Capital Volume One- Index 
 
 
@@ -5415,9 +5415,9 @@ ch05.htm (9 of 9) [23/08/2000 16:15:48]
 
 
 
-Capital Vol. I — Chapter Six 
+Capital Vol. I —  Six 
 
-Karl Marx 
+  
 
 Capital Volume One 
 
@@ -5429,7 +5429,7 @@ The Transformation of Money in Capital
 
 
 
-CHAPTER SIX: 
+ SIX: 
 
 THE BUYING AND SELLING OF LABOUR-POWER 
 
@@ -5471,7 +5471,7 @@ ch06.htm (1 of 8) [23/08/2000 16:15:52]
 
 
 
-Capital Vol. I — Chapter Six 
+Capital Vol. I —  Six 
 
 commodity. He must constantly look upon his labour-power as his own property, his own commodity, 
 and this he can only do by placing it at the disposal of the buyer temporarily, for a definite period of 
@@ -5527,7 +5527,7 @@ ch06.htm (2 of 8) [23/08/2000 16:15:52]
 
 
 
-Capital Vol. I — Chapter Six 
+Capital Vol. I —  Six 
 
 money which it performs, either as the mere equivalent of commodities, or as means of circulation, or 
 means of payment, as hoard or as universal money, point, according to the extent and relative 
@@ -5581,7 +5581,7 @@ ch06.htm (3 of 8) [23/08/2000 16:15:52]
 
 
 
-Capital Vol. I — Chapter Six 
+Capital Vol. I —  Six 
 
 In order to modify the human organism, so that it may acquire skill and handiness in a given branch of 
 industry, and become labour-power of a special kind, a special education or training is requisite, and this, 
@@ -5635,7 +5635,7 @@ ch06.htm (4 of 8) [23/08/2000 16:15:52]
 
 
 
-Capital Vol. I — Chapter Six 
+Capital Vol. I —  Six 
 
 Oil 
 
@@ -5690,7 +5690,7 @@ ch06.htm (5 of 8) [23/08/2000 16:15:52]
 
 
 
-Capital Vol. I — Chapter Six 
+Capital Vol. I —  Six 
 
 under the auspices of an all-shrewd providence, work together to their mutual advantage, for the common 
 weal and in the interest of all. 
@@ -5744,7 +5744,7 @@ ch06.htm (6 of 8) [23/08/2000 16:15:52]
 
 
 
-Capital Vol. I — Chapter Six 
+Capital Vol. I —  Six 
 
 JT[ Compare W. Th. Thornton: "Over-population and its Remedy," Lond., 1846. 
 
@@ -5798,7 +5798,7 @@ ch06.htm (7 of 8) [23/08/2000 16:15:52]
 
 
 
-Capital Vol. I — Chapter Six 
+Capital Vol. I —  Six 
 
 ("Reports of the Inspectors of Factories for 31st Oct., 1853," p. 34.) As a further pretty result of the credit 
 given by the workmen to the capitalist, we may refer to the method current in many English coal mines, 
@@ -5815,7 +5815,7 @@ Transcribed by Hinrich Kuhls
 
 Html Markup by Stephen Baird (1999) 
 
-Next: Chapter Seven: The Labour-Process and the Process of Producing Surplus- Value 
+Next:  Seven: The Labour-Process and the Process of Producing Surplus- Value 
 Capital Volume One- Index 
 
 
@@ -5824,9 +5824,9 @@ ch06.htm (8 of 8) [23/08/2000 16:15:52]
 
 
 
-Capital Vol. I — Chapter Seven 
+Capital Vol. I —  Seven 
 
-Karl Marx 
+  
 
 Capital Volume One 
 
@@ -5840,7 +5840,7 @@ Surplus-Value
 
 
 
-CHAPTER SEVEN: 
+ SEVEN: 
 
 THE LABOUR-PROCESS AND THE PROCESS OF PRODUCING 
 
@@ -5879,7 +5879,7 @@ ch07.htm (1 of 16) [23/08/2000 16:16:00]
 
 
 
-Capital Vol. I — Chapter Seven 
+Capital Vol. I —  Seven 
 
 He develops his slumbering powers and compels them to act in obedience to his sway. We are not now 
 dealing with those primitive instinctive forms of labour that remind us of the mere animal. An 
@@ -5934,7 +5934,7 @@ ch07.htm (2 of 16) [23/08/2000 16:16:00]
 
 
 
-Capital Vol. I — Chapter Seven 
+Capital Vol. I —  Seven 
 
 specifically characteristic of the human labour-process, and Franklin therefore defines man as a 
 tool-making animal. Relics of bygone instruments of labour possess the same importance for the 
@@ -5990,7 +5990,7 @@ ch07.htm (3 of 16) [23/08/2000 16:16:00]
 
 
 
-Capital Vol. I — Chapter Seven 
+Capital Vol. I —  Seven 
 
 as an accessory. An accessory may be consumed by the instruments of labour, as coal under a boiler, oil 
 by a wheel, hay by draft-horses, or it may be mixed with the raw material in order to produce some 
@@ -6045,7 +6045,7 @@ ch07.htm (4 of 16) [23/08/2000 16:16:00]
 
 
 
-Capital Vol. I — Chapter Seven 
+Capital Vol. I —  Seven 
 
 consumption, or as means of production for some new labour-process. 
 
@@ -6090,7 +6090,7 @@ employed in bootmaking or spinning are not immediately changed by the interventi
 He must begin by taking the labour-power as he finds it in the market, and consequently be satisfied with 
 labour of such a kind as would be found in the period immediately preceding the rise of capitalists. 
 Changes in the methods of production by the subordination of labour to capital, can take place only at a 
-later period, and therefore will have to be treated of in a later chapter. 
+later period, and therefore will have to be treated of in a later . 
 
 The labour-process, turned into the process by which the capitalist consumes labour-power, exhibits two 
 characteristic phenomena. First, the labourer works under the control of the capitalist to whom his labour 
@@ -6100,7 +6100,7 @@ ch07.htm (5 of 16) [23/08/2000 16:16:00]
 
 
 
-Capital Vol. I — Chapter Seven 
+Capital Vol. I —  Seven 
 
 production are used with intelligence, so that there is no unnecessary waste of raw material, and no wear 
 and tear of the implements beyond what is necessarily caused by the work. 
@@ -6153,7 +6153,7 @@ ch07.htm (6 of 16) [23/08/2000 16:16:00]
 
 
 
-Capital Vol. I — Chapter Seven 
+Capital Vol. I —  Seven 
 
 rule also holds good in the case of the product that accrued to our capitalist, as the result of the 
 labour-process carried on for him. Assuming thisproduct to be 10 lbs. of yarn, our first step is to calculate 
@@ -6208,7 +6208,7 @@ ch07.htm (7 of 16) [23/08/2000 16:16:00]
 
 
 
-Capital Vol. I — Chapter Seven 
+Capital Vol. I —  Seven 
 
 occupied in the labour of production must not exceed the time really necessary under the given social 
 conditions of the case. Therefore, if no more than I lb. of cotton be requisite to spin 1 1 lbs. of yarn, care 
@@ -6264,7 +6264,7 @@ ch07.htm (8 of 16) [23/08/2000 16:16:00]
 
 
 
-Capital Vol. I — Chapter Seven 
+Capital Vol. I —  Seven 
 
 changed into yarn, because it is spun, because labour-power in the form of spinning is added to it; but the 
 product, the yarn, is now nothing more than a measure of the labour absorbed by the cotton. If in one 
@@ -6320,7 +6320,7 @@ ch07.htm (9 of 16) [23/08/2000 16:16:00]
 
 
 
-Capital Vol. I — Chapter Seven 
+Capital Vol. I —  Seven 
 
 things. He won't be caught napping again. In future he will buy the commodities in the market, instead of 
 manufacturing them himself. But if all his brother capitalists were to do the same, where would he find 
@@ -6373,7 +6373,7 @@ ch07.htm (10 of 16) [23/08/2000 16:16:00]
 
 
 
-Capital Vol. I — Chapter Seven 
+Capital Vol. I —  Seven 
 
 manner. What really influenced him was the specific use-value which this commodity possesses of being 
 a source not only of value, but of more value than it has itself This is the special service that the 
@@ -6428,7 +6428,7 @@ ch07.htm (11 of 16) [23/08/2000 16:16:00]
 
 
 
-Capital Vol. I — Chapter Seven 
+Capital Vol. I —  Seven 
 
 If we now compare the two processes of producing value and of creating surplus-value, we see that the 
 latter is nothing but the continuation of the former beyond a definite point. If on the one hand the process 
@@ -6484,7 +6484,7 @@ ch07.htm (12 of 16) [23/08/2000 16:16:00]
 
 
 
-Capital Vol. I — Chapter Seven 
+Capital Vol. I —  Seven 
 
 the labour appropriated by the capitalist be simple unskilled labour of average quality or more 
 complicated skilled labour. All labour of a higher or more complicated character than average labour is 
@@ -6539,7 +6539,7 @@ ch07.htm (13 of 16) [23/08/2000 16:16:00]
 
 
 
-Capital Vol. I — Chapter Seven 
+Capital Vol. I —  Seven 
 
 \6] It appears paradoxical to assert, that uncaught fish, for instance, are a means of production in the 
 fishing industry. But hitherto no one has discovered the art of catching fish in waters that contain none. 
@@ -6594,7 +6594,7 @@ ch07.htm (14 of 16) [23/08/2000 16:16:01]
 
 
 
-Capital Vol. I — Chapter Seven 
+Capital Vol. I —  Seven 
 
 that is usury, and is not service, but wrong done to his neighbour, as when one steals and robs. All is not 
 service and benefit to a neighbour that is called service and benefit. For an adulteress and adulterer do 
@@ -6649,7 +6649,7 @@ ch07.htm (15 of 16) [23/08/2000 16:16:01]
 
 
 
-Capital Vol. I — Chapter Seven 
+Capital Vol. I —  Seven 
 
 more delicate forms of labour; the latter sink down to the level of unskilled labour. Take as an example 
 the labour of a bricklayer, which in England occupies a much higher level than that of a damask-weaver. 
@@ -6678,7 +6678,7 @@ Html Markup by Stephen Baird (1999)
 
 
 
-Next: Chapter Eight: Constant Capital and Variable Capital 
+Next:  Eight: Constant Capital and Variable Capital 
 Capital Volume One- Index 
 
 
@@ -6687,9 +6687,9 @@ ch07.htm (16 of 16) [23/08/2000 16:16:01]
 
 
 
-Capital Vol. I — Chapter Eight 
+Capital Vol. I —  Eight 
 
-Karl Marx 
+  
 
 Capital Volume One 
 
@@ -6703,7 +6703,7 @@ Surplus-Value
 
 
 
-CHAPTER EIGHT: 
+ EIGHT: 
 
 CONSTANT CAPITAL AND VARIABLE CAPITAL 
 
@@ -6743,7 +6743,7 @@ ch08.htm (1 of 9) [23/08/2000 16:16:05]
 
 
 
-Capital Vol. I — Chapter Eight 
+Capital Vol. I —  Eight 
 
 new use-value. Now, we saw, when we were considering the process of creating value, that, if a 
 use-value be effectively consumed in the production of a new use- value, the quantity of labour expended 
@@ -6799,7 +6799,7 @@ ch08.htm (2 of 9) [23/08/2000 16:16:05]
 
 
 
-Capital Vol. I — Chapter Eight 
+Capital Vol. I —  Eight 
 
 cotton, and therefore adds as much value, as he did before the change in the value: he also produces a 
 given weight of yarn in the same time as he did before. Nevertheless, the value that he transfers from the 
@@ -6853,7 +6853,7 @@ ch08.htm (3 of 9) [23/08/2000 16:16:05]
 
 
 
-Capital Vol. I — Chapter Eight 
+Capital Vol. I —  Eight 
 
 case of any instrument of labour during the whole period of its service, from the day of its entry into the 
 workshop, till the day of its banishment into the lumber room, we find that during this period its 
@@ -6908,7 +6908,7 @@ ch08.htm (4 of 9) [23/08/2000 16:16:05]
 
 
 
-Capital Vol. I — Chapter Eight 
+Capital Vol. I —  Eight 
 
 We have seen that the means of production transfer value to the new product, so far only as during the 
 labour-process they lose value in the shape of their old use-value. The maximum loss of value that they 
@@ -6963,7 +6963,7 @@ ch08.htm (5 of 9) [23/08/2000 16:16:05]
 
 
 
-Capital Vol. I — Chapter Eight 
+Capital Vol. I —  Eight 
 
 value. 
 
@@ -7019,7 +7019,7 @@ ch08.htm (6 of 9) [23/08/2000 16:16:05]
 
 
 
-Capital Vol. I — Chapter Eight 
+Capital Vol. I —  Eight 
 
 any commodity alters — and a given weight of cotton represents, after a bad harvest, more labour than 
 after a good one — all previously existing commodities of the same class are affected, because they are, 
@@ -7074,7 +7074,7 @@ ch08.htm (7 of 9) [23/08/2000 16:16:05]
 
 
 
-Capital Vol. I — Chapter Eight 
+Capital Vol. I —  Eight 
 
 engineer, not a portion; for one machine makes many pairs, and none of those pairs could have been done 
 without any part of the machine." ("Obs. on Certain Verbal Disputes in Pol. Econ., Particularly Relating 
@@ -7129,7 +7129,7 @@ ch08.htm (8 of 9) [23/08/2000 16:16:05]
 
 
 
-Capital Vol. I — Chapter Eight 
+Capital Vol. I —  Eight 
 
 [71 In an American compendium that has gone through, perhaps, 20 editions, this passage occurs: "It 
 matters not in what form capital re-appears;" then after a lengthy enumeration of all the possible 
@@ -7156,7 +7156,7 @@ Html Markup by Stephen Baird (1999)
 
 
 
-Next: Chapter Nine: The Rate of Surplus-Value 
+Next:  Nine: The Rate of Surplus-Value 
 Capital Volume One- Index 
 
 
@@ -7165,9 +7165,9 @@ ch08.htm (9 of 9) [23/08/2000 16:16:05]
 
 
 
-Capital Vol. I — Chapter Nine 
+Capital Vol. I —  Nine 
 
-Karl Marx 
+  
 
 Capital Volume One 
 
@@ -7181,7 +7181,7 @@ Surplus-Value
 
 
 
-CHAPTER NINE: 
+ NINE: 
 
 THE RATE OF SURPLUS-VALUE 
 
@@ -7211,13 +7211,13 @@ The surplus-value generated in the process of production by C, the capital advan
 the self-expansion of the value of the capital C, presents itself for our consideration, in the first place, as 
 a surplus, as the amount by which the value of the product exceeds the value of its constituent elements. 
 
-The capital C is made up of two components, one, the sum of money c laid out upon the means of 
-production, and the other, the sum of money v expended upon the labour-power; c represents the portion 
-that has become constant capital, and v the portion that has become variable capital. At first then, C = c + 
+The capitalis made up of two components, one, the sum of moneylaid out upon the means of 
+production, and the other, the sum of money v expended upon the labour-power;represents the portion 
+that has become constant capital, and v the portion that has become variable capital. At first then,=+ 
 v: for example, if £500 is the capital advanced, its components may be such that the £500 = £410 const. + 
 £90 var. When the process of production is finished, we get a commodity whose value = (c + v) + s, 
 where s is the surplus- value; or taking our former figures, the value of this commodity may be (£410 
-const. + £90 var.) + £90 surpl. The original capital has now changed from C to C, from £500 to £590. 
+const. + £90 var.) + £90 surpl. The original capital has now changed fromto C, from £500 to £590. 
 The difference is s or a surplusvalue of £90, Since the value of the constituent elements of the product is 
 equal to the value of the advanced capital, it is mere tautology to say, that the excess of the value of the 
 
@@ -7225,7 +7225,7 @@ ch09.htm (1 of 14) [23/08/2000 16:16:13]
 
 
 
-Capital Vol. I — Chapter Nine 
+Capital Vol. I —  Nine 
 
 product over the value of its constituent elements, is equal to the expansion of the capital advanced or to 
 the surplus-value produced. 
@@ -7236,7 +7236,7 @@ have seen how that portion of the constant capital which consists of the instrum
 the production only a fraction of its value, while the remainder of that value continues, to reside in those 
 instruments. Since this remainder plays no part in the formation of value, we may at present leave it on 
 one side. To introduce it into the calculation would make no difference. For instance, taking our former 
-example, c = £410: suppose this sum to consist of £312 value of raw material, £44 value of auxiliary 
+example,= £410: suppose this sum to consist of £312 value of raw material, £44 value of auxiliary 
 material, and £54 value of the machinery worn away in the process; and suppose that the total value of 
 the machinery employed is £1,054. Out of this latter sum, then, we reckon as advanced for the purpose of 
 turning out the product, the sum of £54 alone, which the machinery loses by wear and tear in the process; 
@@ -7248,21 +7248,21 @@ would still be £90. Throughout this Book therefore, by constant capital advance
 value, we always mean, unless the context is repugnant thereto, the value of the means of production 
 actually consumed in the process, and that value alone. 
 
-This being so, let us return to the formula C = c + v, which we saw was transformed into C = (c + v) + s, 
+This being so, let us return to the formula=+ v, which we saw was transformed into= (c + v) + s, 
 C becoming C. We know that the value of the constant capital is transferred to, and merely re-appears in 
 the product. The new value actually created in the process, the value produced, or value-product, is 
 therefore not the same as the value of the product; it is not, as it would at first sight appear (c + v) + s or 
-£410 const. + £90 var. + £90 surpl.; but v + s or £90 var. + £90 surpl., not £590 but £180. If c = 0, or in 
+£410 const. + £90 var. + £90 surpl.; but v + s or £90 var. + £90 surpl., not £590 but £180. If= 0, or in 
 other words, if there were branches of industry in which the capitalist could dispense with all means of 
 production made by previous labour, whether they be raw material, auxiliary material, or instruments of 
 labour, employing only labour-power and materials supplied by Nature, in that case, there would be no 
 constant capital to transfer to the product. This component of the value of the product, i.e., the £410 in 
 our example, would be eliminated, but the sum of £180, the amount of new value created, or the value 
-produced, which contains £90 of surplus-value, would remain just as great as if c represented the highest 
-value imaginable. We should have C = (0 + v) = v or C the expanded capital = v + s and therefore C - C 
+produced, which contains £90 of surplus-value, would remain just as great as ifrepresented the highest 
+value imaginable. We should have= (0 + v) = v orthe expanded capital = v + s and therefore-
 = s as before. On the other hand, if s = 0, or in other words, if the labour-power, whose value is advanced 
-in the form of variable capital, were to produce only its equivalent, we should have C = c + v or C the 
-value of the product — (c + v) + or C = C. The capital advanced would, in this case, not have 
+in the form of variable capital, were to produce only its equivalent, we should have=+ v orthe 
+value of the product — (c + v) + or= C. The capital advanced would, in this case, not have 
 expanded its value. 
 
 From what has gone before, we know that surplus-value is purely the result of a variation in the value of 
@@ -7272,18 +7272,18 @@ obscured by the circumstance that in consequence of the increase in the variable
 capital, there is also an increase in. the sum total of the advanced capital. It was originally £500 and 
 becomes £590. Therefore in order that our investigation may lead to accurate results, we must make 
 abstraction from that portion of the value of the product, in which constant capital alone appears, and 
-consequently must equate the constant capital to zero or make c = 0. This is merely an application of a 
+consequently must equate the constant capital to zero or make= 0. This is merely an application of a 
 mathematical rule, employed whenever we operate with constant and variable magnitudes, related to 
 
 ch09.htm (2 of 14) [23/08/2000 16:16:13] 
 
 
 
-Capital Vol. I — Chapter Nine 
+Capital Vol. I —  Nine 
 
 each other by the symbols of addition and subtraction only. 
 
-A further difficulty is caused by the original form of the variable capital. In our example, C = £410 
+A further difficulty is caused by the original form of the variable capital. In our example,= £410 
 const. + £90 var. + £90 surpl.; but £90 is a given and therefore a constant quantity; hence it appears 
 absurd to treat it as variable. But in fact, the term £90 var. is here merely a symbol to show that this value 
 undergoes a process. The portion of the capital invested in the purchase of labour-power is a definite 
@@ -7318,7 +7318,7 @@ value, or even be, as land and the sea, without any value in itself; but this wi
 creation of value or on the variation in the quantity of value. [2] 
 
 In the first place then we equate the constant capital to zero. The capital advanced is consequently 
-reduced from c + v to v, and instead of the value of the product (c + v) + s we have now the value 
+reduced from+ v to v, and instead of the value of the product (c + v) + s we have now the value 
 produced (v + s). Given the new value produced = £180, which sum consequently represents the whole 
 labour expended during the process, then subtracting from it £90 the value of the variable capital, we 
 have remaining £90, the amount of the surplus-value. This sum of £90 or s expresses the absolute 
@@ -7334,7 +7334,7 @@ ch09.htm (3 of 14) [23/08/2000 16:16:13]
 
 
 
-Capital Vol. I — Chapter Nine 
+Capital Vol. I —  Nine 
 
 We have seen that the labourer, during one portion of the labour-process, produces only the value of his 
 labour-power, that is, the value of his means of subsistence. Now since his work forms part of a system, 
@@ -7391,7 +7391,7 @@ ch09.htm (4 of 14) [23/08/2000 16:16:13]
 
 
 
-Capital Vol. I — Chapter Nine 
+Capital Vol. I —  Nine 
 
 The rate of surplus-value is therefore an exact expression for the degree of exploitation of labour-power 
 by capital, or of the labourer by the capitalist. £7] 
@@ -7447,7 +7447,7 @@ ch09.htm (5 of 14) [23/08/2000 16:16:13]
 
 
 
-Capital Vol. I — Chapter Nine 
+Capital Vol. I —  Nine 
 
 
 
@@ -7548,7 +7548,7 @@ ch09.htm (6 of 14) [23/08/2000 16:16:13]
 
 
 
-Capital Vol. I — Chapter Nine 
+Capital Vol. I —  Nine 
 
 represent the value of the raw material, the 20s. worth of cotton spun, and 2 2/3 lbs. represent the 4s. 
 worth of spindle, &c, worn away in the process. 
@@ -7604,7 +7604,7 @@ ch09.htm (7 of 14) [23/08/2000 16:16:13]
 
 
 
-Capital Vol. I — Chapter Nine 
+Capital Vol. I —  Nine 
 
 spent during the process of production, or the variable capital, and another and last part, only the 
 surplus-labour expended during the same process, or the surplus-value; to do this, is, as will be seen later 
@@ -7654,7 +7654,7 @@ ch09.htm (8 of 14) [23/08/2000 16:16:13]
 
 
 
-Capital Vol. I — Chapter Nine 
+Capital Vol. I —  Nine 
 
 economists, well known, alike for his economic "science," and for his beautiful style, was summoned 
 from Oxford to Manchester, to learn in the latter place, the Political Economy that he taught in the 
@@ -7708,7 +7708,7 @@ ch09.htm (9 of 14) [23/08/2000 16:16:13]
 
 
 
-Capital Vol. I — Chapter Nine 
+Capital Vol. I —  Nine 
 
 absolutely nothing. But since, on your assumption, his wages, and the surplus-value he yields, are of 
 equal value, it is clear that he produces his wages in 5 3/4 hours, and your net profit in the other 5 3/4 
@@ -7761,7 +7761,7 @@ ch09.htm (10 of 14) [23/08/2000 16:16:13]
 
 
 
-Capital Vol. I — Chapter Nine 
+Capital Vol. I —  Nine 
 
 1848, the same cry was again raised by James Wilson, an economic mandarin of high standing: this time 
 in opposition to the 10 hours' bill. 
@@ -7815,7 +7815,7 @@ ch09.htm (11 of 14) [23/08/2000 16:16:13]
 
 
 
-Capital Vol. I — Chapter Nine 
+Capital Vol. I —  Nine 
 
 necessary under given social conditions for the production of any commodity. Henceforward we use it to 
 designate also the time necessary for the production of the particular commodity labour-power. The use 
@@ -7871,7 +7871,7 @@ ch09.htm (12 of 14) [23/08/2000 16:16:13]
 
 
 
-Capital Vol. I — Chapter Nine 
+Capital Vol. I —  Nine 
 
 3/23 x £1 15,000 = £5,000 or the gross profit. Of these 3 half-hours, one yields 1/23 x £1 15,000 = £5,000; 
 i.e., it makes up for the wear and tear of the machinery; the remaining 2 half-hours, i.e., the last hour, 
@@ -7924,7 +7924,7 @@ ch09.htm (13 of 14) [23/08/2000 16:16:13]
 
 
 
-Capital Vol. I — Chapter Nine 
+Capital Vol. I —  Nine 
 
 fl21 Nevertheless, the learned professor was not without some benefit from his journey to Manchester. In 
 the "Letters on the Factory Act," he makes the whole net gains including "profit" and "interests" and even 
@@ -7958,7 +7958,7 @@ Transcribed by Zodiac
 
 Html Markup by Stephen Baird (1999) 
 
-Next: Chapter Ten: The Working Day 
+Next:  Ten: The Working Day 
 Capital Volume One- Index 
 
 
@@ -7967,9 +7967,9 @@ ch09.htm (14 of 14) [23/08/2000 16:16:13]
 
 
 
-Capital Vol. I — Chapter Ten 
+Capital Vol. I —  Ten 
 
-Karl Marx 
+  
 
 Capital Volume One 
 
@@ -7981,7 +7981,7 @@ The Production of Absolute Surplus-Value
 
 
 
-CHAPTER TEN: 
+ TEN: 
 THE WORKING-DAY 
 
 Contents 
@@ -8028,8 +8028,8 @@ A B-C. A B — C. A B C.
 
 
 
-representing 3 different working-days of 7, 9, and 12 hours. The extension B — C of the line A — B represents the 
-length of the surplus-labour. As the working-day is A — B + B — C or A — C, it varies with the variable quantity 
+representing 3 different working-days of 7, 9, and 12 hours. The extension B —of the line A — B represents the 
+length of the surplus-labour. As the working-day is A — B + B —or A — C, it varies with the variable quantity 
 
 
 
@@ -8037,9 +8037,9 @@ ch10.htm (1 of 45) [23/08/2000 16:16:42]
 
 
 
-Capital Vol. I — Chapter Ten 
+Capital Vol. I —  Ten 
 
-B — C. Since A — B is constant, the ratio of B — C to A — B can always be calculated. In working-day I, it is 1/6, 
+B — C. Since A — B is constant, the ratio of B —to A — B can always be calculated. In working-day I, it is 1/6, 
 in working-day II, 3/6, in working day III 6/6 of A — B. Since further the ratio 
 
 surplus working-time, 
@@ -8050,7 +8050,7 @@ necessary working-time,
 
 
 
-determines the rate of the surplus-value, the latter is given by the ratio of B — C to A — B. It amounts in the 3 
+determines the rate of the surplus-value, the latter is given by the ratio of B —to A — B. It amounts in the 3 
 different working-days respectively to 16 2/3, 50 and 100 per cent. On the other hand, the rate of surplus-value 
 alone would not give us the extent of the working-day. If this rate, e.g., were 100 per cent., the working-day might 
 be of 8, 10, 12, or more hours. It would indicate that the 2 constituent parts of the working-day, necessary-labour 
@@ -8063,7 +8063,7 @@ with the duration of the surplus-labour. The working-day is, therefore, determin
 m 
 
 Although the working-day is not a fixed, but a fluent quantity, it can, on the other hand, only vary within certain 
-limits. The minimum limit is, however, not determinable; of course, if we make the extension line B — C or the 
+limits. The minimum limit is, however, not determinable; of course, if we make the extension line B —or the 
 surplus-labour = 0, we have a minimum limit, i.e., the part of the day which the labourer must necessarily work for 
 his own maintenance. On the basis of capitalist production, however, this necessary labour can form a part only of 
 the working-day; the working-day itself can never be reduced to this minimum. On the other hand, the working-day 
@@ -8104,7 +8104,7 @@ ch10.htm (2 of 45) [23/08/2000 16:16:42]
 
 
 
-Capital Vol. I — Chapter Ten 
+Capital Vol. I —  Ten 
 
 expansion of capital, is on mine extra expenditure of labour-power. You and I know on the market only one law, 
 that of the exchange of commodities. And the consumption of the commodity belongs not to the seller who parts 
@@ -8160,7 +8160,7 @@ ch10.htm (3 of 45) [23/08/2000 16:16:43]
 
 
 
-Capital Vol. I — Chapter Ten 
+Capital Vol. I —  Ten 
 
 silver. Compulsory working to death is here the recognised form of over- work. Only read Diodorus Siculus. \9] 
 Still these are exceptions in antiquity. But as soon as people, whose production still moves within the lower forms 
@@ -8220,7 +8220,7 @@ ch10.htm (4 of 45) [23/08/2000 16:16:43]
 
 
 
-Capital Vol. I — Chapter Ten 
+Capital Vol. I —  Ten 
 
 by 1 day of wood carrying in like manner three times as much. In all, 42 corvee days. To this had to be added the 
 so-called jobagie, service due to the lord for extraordinary occasions. In proportion to the size of its population, 
@@ -8286,7 +8286,7 @@ ch10.htm (5 of 45) [23/08/2000 16:16:43]
 
 
 
-Capital Vol. I — Chapter Ten 
+Capital Vol. I —  Ten 
 
 40 minutes. 
 Total weekly, 340 minutes. 
@@ -8347,7 +8347,7 @@ ch10.htm (6 of 45) [23/08/2000 16:16:43]
 
 
 
-Capital Vol. I — Chapter Ten 
+Capital Vol. I —  Ten 
 "half-timers " [301 
 
 
@@ -8403,7 +8403,7 @@ ch10.htm (7 of 45) [23/08/2000 16:16:43]
 
 
 
-Capital Vol. I — Chapter Ten 
+Capital Vol. I —  Ten 
 
 extraordinarily short. Although in the district of Stoke, only 36.6% and in Wolstanton only 30.4% of the adult male 
 population above 20 are employed in the potteries, among the men of that age in the first district more than half, in 
@@ -8462,7 +8462,7 @@ ch10.htm (8 of 45) [23/08/2000 16:16:43]
 
 
 
-Capital Vol. I — Chapter Ten 
+Capital Vol. I —  Ten 
 
 a day ... I have often knelt down to feed him as he stood by the machine, for he could not leave it or stop." Smith, 
 the managing partner of a Manchester factory: "We (he means his "hands" who work for "us") work on with no 
@@ -8520,7 +8520,7 @@ ch10.htm (9 of 45) [23/08/2000 16:16:43]
 
 
 
-Capital Vol. I — Chapter Ten 
+Capital Vol. I —  Ten 
 
 the batch or the labour bestowed upon it. He then lies down upon the kneading-board, which is also the covering of 
 the trough in which the dough is 'made'; and with a sack under him, and another rolled up as a pillow, he sleeps for 
@@ -8579,7 +8579,7 @@ ch10.htm (10 of 45) [23/08/2000 16:16:43]
 
 
 
-Capital Vol. I — Chapter Ten 
+Capital Vol. I —  Ten 
 
 possible demonstration of feeling took place, the masters, by exercising their power of turning the men out of 
 employment, have defeated the movement. In Dublin, the master bakers have offered the most determined 
@@ -8637,7 +8637,7 @@ ch10.htm (11 of 45) [23/08/2000 16:16:43]
 
 
 
-Capital Vol. I — Chapter Ten 
+Capital Vol. I —  Ten 
 
 witness before the coroner's jury that "Mary Anne Walkley had died from long hours of work in an over-crowded 
 work-room, and a too small and badly ventilated bedroom." In order to give the doctor a lesson in good manners, 
@@ -8694,7 +8694,7 @@ ch10.htm (12 of 45) [23/08/2000 16:16:43]
 
 
 
-Capital Vol. I — Chapter Ten 
+Capital Vol. I —  Ten 
 In some branches of industry, the girls and women work through the night together with the males. [611 
 
 Placing on one side the generally injurious influence of night-labour, [621 the duration of the process of production, 
@@ -8752,7 +8752,7 @@ ch10.htm (13 of 45) [23/08/2000 16:16:43]
 
 
 
-Capital Vol. I — Chapter Ten 
+Capital Vol. I —  Ten 
 
 500 boys under 18, of whom about 1/3 or 170 are under the age of 13. With reference to the proposed alteration of 
 the law, Mr. Ellis says: "I do not think it would be very objectionable to require that no person under the age of 18 
@@ -8811,7 +8811,7 @@ ch10.htm (14 of 45) [23/08/2000 16:16:43]
 
 
 
-Capital Vol. I — Chapter Ten 
+Capital Vol. I —  Ten 
 
 are able to do on the present system, we should have to double our premises and plant, which would double the 
 outlay." But why should these Sandersons pretend to a privilege not enjoyed by the other capitalists who only work 
@@ -8870,7 +8870,7 @@ ch10.htm (15 of 45) [23/08/2000 16:16:43]
 
 
 
-Capital Vol. I — Chapter Ten 
+Capital Vol. I —  Ten 
 
 But the value of the labour-power includes the value of the commodities necessary for the reproduction of the 
 worker, or for the keeping up of the working-class. If then the unnatural extension of the working-day, that capital 
@@ -8928,7 +8928,7 @@ ch10.htm (16 of 45) [23/08/2000 16:16:43]
 
 
 
-Capital Vol. I — Chapter Ten 
+Capital Vol. I —  Ten 
 
 came up to London, and waited on the right hon. gentleman [Mr. Villiers, President of the Poor Law Board] with a 
 view of obtaining poor children from certain union houses for the mills of Lancashire." [781 
@@ -8987,7 +8987,7 @@ ch10.htm (17 of 45) [23/08/2000 16:16:43]
 
 
 
-Capital Vol. I — Chapter Ten 
+Capital Vol. I —  Ten 
 
 force. [861 In winter, work was to last from 5 in the morning until dark, with the same intervals. A statute of 
 Elizabeth of 1562 leaves the length of the working-day for all labourers "hired for daily or weekly wage" 
@@ -9047,7 +9047,7 @@ ch10.htm (18 of 45) [23/08/2000 16:16:43]
 
 
 
-Capital Vol. I — Chapter Ten 
+Capital Vol. I —  Ten 
 
 naturally inclined to ease and indolence, we fatally experience to be true, from the conduct of our manufacturing 
 populace, who do not labour, upon an average, above four days in a week, unless provisions happen to be very 
@@ -9103,7 +9103,7 @@ ch10.htm (19 of 45) [23/08/2000 16:16:43]
 
 
 
-Capital Vol. I — Chapter Ten 
+Capital Vol. I —  Ten 
 
 to the limit of the natural day of 12 hours, [981 there followed on the birth of machinism and modern industry in the 
 last third of the 1 8th century, a violent encroachment like that of an avalanche in its intensity and extent. All bounds 
@@ -9163,7 +9163,7 @@ ch10.htm (20 of 45) [23/08/2000 16:16:43]
 
 
 
-Capital Vol. I — Chapter Ten 
+Capital Vol. I —  Ten 
 any negro slave more than 45 hours a week. 
 
 But in no wise conciliated, capital now began a noisy agitation that went on for several years. It turned chiefly on 
@@ -9220,7 +9220,7 @@ ch10.htm (21 of 45) [23/08/2000 16:16:43]
 
 
 
-Capital Vol. I — Chapter Ten 
+Capital Vol. I —  Ten 
 
 therefore consist of other children than those employed in the morning. Of the hour and a half for meal-times, "one 
 hour thereof at the least shall be given before three of the clock in the afternoon ... and at the same period of the 
@@ -9276,7 +9276,7 @@ succeed in making the workpeople speak as they wished, they themselves shrieked 
 Parliament in the name of the workpeople. They denounced the Factory Inspectors as a kind of revolutionary 
 
 
-Capital Vol. I — Chapter Ten 
+Capital Vol. I —  Ten 
 
 commissioners like those of the French National Convention ruthlessly sacrificing the unhappy factory workers to 
 their humanitarian crotchet. This maneuvre also failed. Factory Inspector Leonard Homer conducted in his own 
@@ -9331,7 +9331,7 @@ After these pleasant demonstrations, Capital preluded its revolt by a step which
 1844, and was therefore legal. 
 
 
-Capital Vol. I — Chapter Ten 
+Capital Vol. I —  Ten 
 
 The Act of 1844 certainly prohibited the employment after 1 p.m. of such children, from 8 to 13, as had been 
 employed before noon. But it did not regulate in any way the 6 1/2 hours' work of the children whose work-time 
@@ -9388,7 +9388,7 @@ of his district the scheme of a relay system intended for his mill. Receiving a 
 
 ch10.htm (24 of 45) [23/08/2000 16:16:43] 
 
-Capital Vol. I — Chapter Ten 
+Capital Vol. I —  Ten 
 
 months later, an individual named Robinson, also a cotton- spinner, and if not his Man Friday, at all events related to 
 Eskrigge, appeared before the borough magistrates of Stockport on a charge of introducing the identical plan of 
@@ -9445,7 +9445,7 @@ ch10.htm (25 of 45) [23/08/2000 16:16:43]
 
 
 
-Capital Vol. I — Chapter Ten 
+Capital Vol. I —  Ten 
 
 case brought before it on February 8th, 1850, decided that the manufacturers were certainly acting against the sense 
 of the Act of 1844, but that this Act itself contained certain words that rendered it meaningless. "By this decision, 
@@ -9503,7 +9503,7 @@ ch10.htm (26 of 45) [23/08/2000 16:16:43]
 
 
 
-Capital Vol. I — Chapter Ten 
+Capital Vol. I —  Ten 
 
 was therefore finally completed in 1853 by forbidding the "employment of children in the morning before and in 
 the evening after young persons and women." Henceforth with a few exceptions the Factory Act of 1850 regulated 
@@ -9562,7 +9562,7 @@ ch10.htm (27 of 45) [23/08/2000 16:16:43]
 
 
 
-Capital Vol. I — Chapter Ten 
+Capital Vol. I —  Ten 
 
 one hand, modern industry, on the other, the labour of those who are physically and legally minors, play important 
 parts, the former was to us only a special department, and the latter only a specially striking example of labour 
@@ -9621,7 +9621,7 @@ ch10.htm (28 of 45) [23/08/2000 16:16:43]
 
 
 
-Capital Vol. I — Chapter Ten 
+Capital Vol. I —  Ten 
 
 Thus the movement of the working-class on both sides of the Atlantic, that had grown instinctively out of the 
 conditions of production themselves, endorsed the words of the English Factory Inspector, R. J. Saunders "Further 
@@ -9682,7 +9682,7 @@ ch10.htm (29 of 45) [23/08/2000 16:16:43]
 
 
 
-Capital Vol. I — Chapter Ten 
+Capital Vol. I —  Ten 
 "Brussels lace" pre-supposes wage-lords and wage-slaves. 
 
 [91 "One cannot see these unfortunates (in the gold mines between Egypt, Ethiopia, and Arabia) who cannot even 
@@ -9717,7 +9717,7 @@ Prussia out of 1,000 conscripts 716 were unfit for military service, 317 because
 because of bodily defects.... Berlin in 1858 could not provide its contingent of recruits, it was 156 men short." J. 
 von Liebig: "Die Chemie in ihrer Anwendung auf Agrikultur und Physiologie. 1862," 7th Ed., vol. 1, pp. 1 17, 118. 
 
-[141 The history of the Factory Act of 1850 will be found in the course of this chapter. 
+[141 The history of the Factory Act of 1850 will be found in the course of this . 
 
 [151 1 only touch here and there on the period from the beginning of modern industry in England to 1845. For this 
 period I refer the reader to "Die Lage der arbeitenden Klasse in England," von Friedrich Engels, Leipzig, 1845. 
@@ -9741,7 +9741,7 @@ ch10.htm (30 of 45) [23/08/2000 16:16:43]
 
 
 
-Capital Vol. I — Chapter Ten 
+Capital Vol. I —  Ten 
 [171 Reports of the Inspector of Factories for the half year. October, 1856, p. 35. 
 
 [18] Reports, &c, 30th April, 1858, p. 9. 
@@ -9802,7 +9802,7 @@ ch10.htm (31 of 45) [23/08/2000 16:16:43]
 
 
 
-Capital Vol. I — Chapter Ten 
+Capital Vol. I —  Ten 
 [331 Cf. F. Engels "Lage, etc." pp. 249-51. 
 
 [341 Children's Employment Commission. First report., etc., 1863. Evidence, pp. 16, 19, 18. 
@@ -9862,7 +9862,7 @@ ch10.htm (32 of 45) [23/08/2000 16:16:43]
 
 
 
-Capital Vol. I — Chapter Ten 
+Capital Vol. I —  Ten 
 [51] First Report, &c. 
 
 [521 Report of Committee on the Baking Trade in Ireland for 1861. 
@@ -9920,7 +9920,7 @@ ch10.htm (33 of 45) [23/08/2000 16:16:43]
 
 
 
-Capital Vol. I — Chapter Ten 
+Capital Vol. I —  Ten 
 
 own young women to death, using the scourge of starvation, instead of the crack of the whip, as the instrument of 
 compulsion, we have scarcely a right to hound on fire and slaughter against families who were born slave-owners, 
@@ -9979,7 +9979,7 @@ ch10.htm (34 of 45) [23/08/2000 16:16:43]
 
 
 
-Capital Vol. I — Chapter Ten 
+Capital Vol. I —  Ten 
 
 know of London." Henry Matthewman, age 17 — "Had been to chapel, but missed a good many times lately. One 
 name that they preached about was Jesus Christ, but I cannot say any others, and I cannot te~l anything about him. 
@@ -10039,7 +10039,7 @@ ch10.htm (35 of 45) [23/08/2000 16:16:43]
 
 
 
-Capital Vol. I — Chapter Ten 
+Capital Vol. I —  Ten 
 
 their work. "The amount of work," say Tremenheere and Tufnell, who drafted the general report, "done by boys, 
 youths, girls, and women, in the course of their daily or nightly spell of labour, is certainly extraordinary." (1. c, 
@@ -10098,7 +10098,7 @@ ch10.htm (36 of 45) [23/08/2000 16:16:44]
 
 
 
-Capital Vol. I — Chapter Ten 
+Capital Vol. I —  Ten 
 
 additional hours. ("Rep. of Insp. of Fact.," 31st October, 1855, p. 103.) Redgrave, the Factory Inspector mentioned 
 above, after the Industrial Exhibition in 1851, travelled on the Continent, especially in France and Germany, for the 
@@ -10157,7 +10157,7 @@ ch10.htm (37 of 45) [23/08/2000 16:16:44]
 
 
 
-Capital Vol. I — Chapter Ten 
+Capital Vol. I —  Ten 
 
 in any manufacturing atablishment more than 1 1 hours in any one day, nor before 5 o'clock in the morning, nor 
 after 7.30 in the evening." ("Revised Statutes of the State of Rhode Island," &c, ch. 139, § 23, 1st July, 1857.) 
@@ -10217,7 +10217,7 @@ ch10.htm (38 of 45) [23/08/2000 16:16:44]
 
 
 
-Capital Vol. I — Chapter Ten 
+Capital Vol. I —  Ten 
 
 [911 "An Essay," &c. He himself relates on p. 96 wherein the "happiness" of the English agricultural labourer 
 already in 1770 consisted. "Their powers are always upon the stretch, they cannot live cheaper than they do, nor 
@@ -10277,7 +10277,7 @@ ch10.htm (39 of 45) [23/08/2000 16:16:44]
 
 
 
-Capital Vol. I — Chapter Ten 
+Capital Vol. I —  Ten 
 
 [103] "Rept. of Insp. of Fact.," 31st October, 1848, p. 98. 
 
@@ -10338,7 +10338,7 @@ ch10.htm (40 of 45) [23/08/2000 16:16:44]
 
 
 
-Capital Vol. I — Chapter Ten 
+Capital Vol. I —  Ten 
 April, 1849, p. 4.) 
 
 121] I.e., p. 140. 
@@ -10348,7 +10348,7 @@ April, 1849, p. 4.)
 owner of a cotton- spinning or weaving mill, or the father, son, or brother of such owner, to act as Justice of the 
 Peace in any inquiries that concerned the Factory Act. 
 
-1241 1. c 
+1241 1.
 
 
 
@@ -10391,7 +10391,7 @@ the clergy of Ashton and vicinity, in the spring of 1849, against the shift syst
 
 
 
-Edited by K. Marx. April number, 1850, p. 13.) The same "high" Court of Justice discovered, during the American 
+Edited by K. . April number, 1850, p. 13.) The same "high" Court of Justice discovered, during the American 
 Civil War, a verbal ambiguity which exactly reversed the meaning of the law against the arming of pirate ships. 
 
 1321 Rep., &c, for 30th April, 1850. 
@@ -10444,7 +10444,7 @@ ch10.htm (41 of 45) [23/08/2000 16:16:44]
 
 
 
-Capital Vol. I — Chapter Ten 
+Capital Vol. I —  Ten 
 
 
 
@@ -10701,7 +10701,7 @@ ch10.htm (42 of 45) [23/08/2000 16:16:44]
 
 
 
-Capital Vol. I — Chapter Ten 
+Capital Vol. I —  Ten 
 
 [1441 "Children of the age of 8 years and upwards, have, indeed, been employed from 6 a.m. to 9 p.m. during the 
 last half year in my district." (Reports, &c., for 31st October, 1857, p. 39.) 
@@ -10759,7 +10759,7 @@ ch10.htm (43 of 45) [23/08/2000 16:16:44]
 
 
 
-Capital Vol. I — Chapter Ten 
+Capital Vol. I —  Ten 
 
 compelling, women and children to work 14 hours a day with or without meals, as the case may be, and perhaps for 
 longer hours than these, without limit as to age, without reference to sex, and without regard to the social habits of 
@@ -10819,7 +10819,7 @@ ch10.htm (44 of 45) [23/08/2000 16:16:44]
 
 
 
-Capital Vol. I — Chapter Ten 
+Capital Vol. I —  Ten 
 evade the law." But what is assured to the lawyers by this is law-suits. 
 
 [1601 Thus the Factory Inspectors at last venture to say: "These objections (of capital to the legal limitation of the 
@@ -10866,7 +10866,7 @@ Transcribed by Zodiac
 
 Html Markup by Stephen Baird (1999) 
 
-Next: Chapter Eleven: Rate and Mass of Surplus-Value 
+Next:  Eleven: Rate and Mass of Surplus-Value 
 Capital Volume One- Index 
 
 
@@ -10875,9 +10875,9 @@ ch10.htm (45 of 45) [23/08/2000 16:16:44]
 
 
 
-Capital Vol. I — Chapter Eleven 
+Capital Vol. I —  Eleven 
 
-Karl Marx 
+  
 
 Capital Volume One 
 
@@ -10891,13 +10891,13 @@ Surplus-Value
 
 
 
-CHAPTER ELEVEN: 
+ ELEVEN: 
 
 RATE AND MASS OF SURPLUS VALUE 
 
 
 
-In this chapter, as hitherto, the value of labour-power, and therefore the part of the workingday necessary 
+In this , as hitherto, the value of labour-power, and therefore the part of the workingday necessary 
 for the reproduction or maintenance of that labour-power, are supposed to be given, constant magnitudes. 
 
 This premised, with the rate, the mass is at the same time given of the surplusvalue that the individual 
@@ -10930,7 +10930,7 @@ ch11.htm (1 of 7) [23/08/2000 16:16:48]
 
 
 
-Capital Vol. I — Chapter Eleven 
+Capital Vol. I —  Eleven 
 
 Let the mass of the surplusvalue be S, the surplusvalue supplied by the individual labourer in the 
 average day s the variable capital daily advanced in the purchase of one individual labour-power v, the 
@@ -10996,7 +10996,7 @@ ch11.htm (2 of 7) [23/08/2000 16:16:48]
 
 
 
-Capital Vol. I — Chapter Eleven 
+Capital Vol. I —  Eleven 
 
 the capital advanced in its purchase, a variable capital of 1,500s., that employs 500 labourers at a rate of 
 surplusvalue of 100% with a 12 hours' workingday, produces daily a surplusvalue of 1,500s. or of 6 x 
@@ -11051,7 +11051,7 @@ ch11.htm (3 of 7) [23/08/2000 16:16:48]
 
 
 
-Capital Vol. I — Chapter Eleven 
+Capital Vol. I —  Eleven 
 
 variable capital, does not, on account of this, pocket less profit or surplusvalue than a baker, who 
 relatively sets in motion much variable and little constant capital. For the solution of this apparent 
@@ -11071,7 +11071,7 @@ workingday, whether its limits are fixed physically or socially, the mass of sur
 increased by increasing the number of labourers, i.e., of the labouring population. The growth of 
 population here forms the mathematical limit to the production of surplusvalue by the total social capital. 
 On the contrary, with a given amount of population, this limit is formed by the possible lengthening of 
-the workingday. £31 It will, however, be seen in the following chapter that this law only holds for the 
+the workingday. £31 It will, however, be seen in the following  that this law only holds for the 
 form of surplusvalue dealt with up to the present. 
 
 From the treatment of the production of surplusvalue, so far, it follows that not every sum of money, or 
@@ -11104,7 +11104,7 @@ ch11.htm (4 of 7) [23/08/2000 16:16:48]
 
 
 
-Capital Vol. I — Chapter Eleven 
+Capital Vol. I —  Eleven 
 
 by Hegel (in his "Logic"), that merely quantitative differences beyond a certain point pass into qualitative 
 changes. [5] 
@@ -11160,7 +11160,7 @@ ch11.htm (5 of 7) [23/08/2000 16:16:48]
 
 
 
-Capital Vol. I — Chapter Eleven 
+Capital Vol. I —  Eleven 
 
 existed for about a century, which was in operation in 1752, and four generations of the same family 
 have conducted it" ... this "very intelligent gentleman" then wrote a letter [71 in the Glasgow Daily Mail 
@@ -11214,7 +11214,7 @@ ch11.htm (6 of 7) [23/08/2000 16:16:48]
 
 
 
-Capital Vol. I — Chapter Eleven 
+Capital Vol. I —  Eleven 
 
 rests on no other law. (Addition to 3rd Edition.) For the explanation of this statement, which is not very 
 clear to nonchemists, we remark that the author speaks here of the homologous series of carbon 
@@ -11222,7 +11222,7 @@ compounds, first so named by C. Gerhardt in 1843, each series of which has its o
 formula. Thus the series of paraffins: CnH2n+2, that of the normal alcohols: CnH2n+20; of the normal 
 fatty acids: CnH2n02 and many others. In the above examples, by the simply quantitative addition of 
 CH2 to the molecular formula, a qualitatively different body is each time formed. On the share 
-(overestimated by Marx) of Laurent and Gerhardt in the determination of this important fact see Kopp, 
+(overestimated by ) of Laurent and Gerhardt in the determination of this important fact see Kopp, 
 "Entwicklung der Chemie." Munchen, 1873, pp. 709, 716, and Schorkmmer, 'The Rise and Development 
 of Organic Chemistry." London, 1879, p. 54. — F. E. 
 
@@ -11243,7 +11243,7 @@ Transcribed by Zodiac
 
 Html Markup by Stephen Baird (1999) 
 
-Next: Chapter Twelve: The Concept of Relative Surplus-Value 
+Next:  Twelve: The Concept of Relative Surplus-Value 
 Capital Volume One- Index 
 
 
@@ -11252,9 +11252,9 @@ ch11.htm (7 of 7) [23/08/2000 16:16:48]
 
 
 
-Capital Vol. I — Chapter Twelve 
+Capital Vol. I —  Twelve 
 
-Karl Marx 
+  
 
 Capital Volume One 
 
@@ -11266,7 +11266,7 @@ Production of Relative Surplus Value
 
 
 
-CHAPTER TWELVE: 
+ TWELVE: 
 
 THE CONCEPT OF RELATIVE SURPLUS-VALUE 
 
@@ -11281,15 +11281,15 @@ prolongation. Though the necessary labour-time was constant, we saw, on the othe
 working-day was variable. Now suppose we have a working-day whose length, and whose 
 apportionment between necessary labour and surplus-labour, are given. Let the whole line a c, abc 
 represent, for example, a working-day of 12 hours; the portion of a b 10 hours of necessary labour, and 
-the portion b c 2 hours of surplus-labour. How now can the production of surplus-value be increased, i.e., 
+the portion b2 hours of surplus-labour. How now can the production of surplus-value be increased, i.e., 
 how can the surplus-labour be prolonged, without, or independently of, any prolongation of a c? 
 
-Although the length of a c is given, b c appears to be capable of prolongation, if not by extension beyond 
+Although the length of ais given, bappears to be capable of prolongation, if not by extension beyond 
 its end c, which is also the end of the working-day a c, yet, at all events, by pushing back its 
-starting-point b in the direction of a. Assume that b'b in the line ab'bc is equal to half of b c or to one 
-hour's labour-time. If now, in a c, the working-day of 12 hours, we move the point b to b', b c becomes b' 
+starting-point b in the direction of a. Assume that b'b in the line ab'bc is equal to half of bor to one 
+hour's labour-time. If now, in a c, the working-day of 12 hours, we move the point b to b', bbecomes b' 
 c; the surplus-labour increases by one half, from 2 hours to 3 hours, although the working-day remains as 
-before at 12 hours. This extension of the surplus labour-time from b c to b' c, from 2 hours to 3 hours, is, 
+before at 12 hours. This extension of the surplus labour-time from bto b' c, from 2 hours to 3 hours, is, 
 however, evidently impossible, without a simultaneous contraction of the necessary labour-time from a b 
 into a b', from 10 hours to 9 hours. The prolongation of the surplus-labour would correspond to a 
 shortening of the necessary labour; or a portion of the labour-time previously consumed, in reality, for 
@@ -11308,7 +11308,7 @@ ch12.htm (1 of 7) [23/08/2000 16:16:52]
 
 
 
-Capital Vol. I — Chapter Twelve 
+Capital Vol. I —  Twelve 
 
 shillings, the labourer must work 10 hours a day, in order to replace the value paid by capital for his 
 labour-power, or to produce an equivalent for the value of his daily necessary means of subsistence. 
@@ -11363,7 +11363,7 @@ ch12.htm (2 of 7) [23/08/2000 16:16:52]
 
 
 
-Capital Vol. I — Chapter Twelve 
+Capital Vol. I —  Twelve 
 
 other hand, the surplus-value arising from the curtailment of the necessary labour-time, and from the 
 corresponding alteration in the respective lengths of the two components of the working-day, I call 
@@ -11417,7 +11417,7 @@ ch12.htm (3 of 7) [23/08/2000 16:16:52]
 
 
 
-Capital Vol. I — Chapter Twelve 
+Capital Vol. I —  Twelve 
 
 such articles. The value of the means of production remaining the same, the value of each article will fall 
 to ninepence, made up of sixpence for the value of the means of production and threepence for the value 
@@ -11471,7 +11471,7 @@ ch12.htm (4 of 7) [23/08/2000 16:16:52]
 
 
 
-Capital Vol. I — Chapter Twelve 
+Capital Vol. I —  Twelve 
 
 production, appropriates to surplus-labour a greater portion of the working-day, than the other capitalists 
 in the same trade. He does individually, what the whole body of capitalists engaged in producing relative 
@@ -11526,7 +11526,7 @@ ch12.htm (5 of 7) [23/08/2000 16:16:52]
 
 
 
-Capital Vol. I — Chapter Twelve 
+Capital Vol. I —  Twelve 
 
 prevents him from continuing to work 12 hours as before, nor from producing in those 12 hours 1,200 
 articles instead of 120. Nay, more, his working-day may be prolonged at the same time, so as to make 
@@ -11581,7 +11581,7 @@ ch12.htm (6 of 7) [23/08/2000 16:16:52]
 
 
 
-Capital Vol. I — Chapter Twelve 
+Capital Vol. I —  Twelve 
 
 inventing something like it, that every man may be upon the square, that no man may be able to undersell 
 his neighbour." ("The Advantages of the East India Trade to England", London, 1720, p. 67.) 
@@ -11615,7 +11615,7 @@ Transcribed by Hinrich Kuhls
 
 Html Markup by Stephen Baird (1999) 
 
-Next: Chapter Thirteen: Co-operation 
+Next:  Thirteen: Co-operation 
 Capital Volume One- Index 
 
 
@@ -11624,9 +11624,9 @@ ch12.htm (7 of 7) [23/08/2000 16:16:52]
 
 
 
-Capital Vol. I — Chapter Thirteen 
+Capital Vol. I —  Thirteen 
 
-Karl Marx 
+  
 
 Capital Volume One 
 
@@ -11638,7 +11638,7 @@ Production of Relative Surplus Value
 
 
 
-CHAPTER THIRTEEN: 
+ THIRTEEN: 
 CO-OPERATION 
 
 
@@ -11679,7 +11679,7 @@ ch13.htm (1 of 11) [23/08/2000 16:16:58]
 
 
 
-Capital Vol. I — Chapter Thirteen 
+Capital Vol. I —  Thirteen 
 
 all individual differences in the labour vanish, and that consequently any given five adult farm labourers 
 taken together, will in the same time do as much work as any other five. JJJ But, however that may be, it 
@@ -11732,7 +11732,7 @@ ch13.htm (2 of 11) [23/08/2000 16:16:58]
 
 
 
-Capital Vol. I — Chapter Thirteen 
+Capital Vol. I —  Thirteen 
 
 economy in their application is entirely owing to their being consumed in common by a large number of 
 workmen. Moreover, this character of being necessary conditions of social labour, a character that 
@@ -11786,7 +11786,7 @@ ch13.htm (3 of 1 1 ) [23/08/2000 16:16:58]
 
 
 
-Capital Vol. I — Chapter Thirteen 
+Capital Vol. I —  Thirteen 
 
 same distance in a shorter time. Again, a combination of labour occurs whenever a building, for instance, 
 is taken in hand on different sides simultaneously; although here also the co-operating masons are doing 
@@ -11840,7 +11840,7 @@ ch13.htm (4 of 11) [23/08/2000 16:16:58]
 
 
 
-Capital Vol. I — Chapter Thirteen 
+Capital Vol. I —  Thirteen 
 
 working-day is, under all circumstances, the social productive power of labour, or the productive power 
 of social labour. This power is due to co-operation itself. When the labourer co-operates systematically 
@@ -11866,7 +11866,7 @@ large masses of the means of production in the hands of individual capitalists, 
 the co-operation of wage-labourers, and the extent of the co-operation or the scale of production, depends 
 on the extent of this concentration. 
 
-We saw in a former chapter, that a certain minimum amount of capital was necessary, in order that the 
+We saw in a former , that a certain minimum amount of capital was necessary, in order that the 
 number of labourers simultaneously employed, and, consequently, the amount of surplus-value produced, 
 might suffice to liberate the employer himself from manual labour, to convert him from a small master 
 into a capitalist, and thus formally to establish capitalist production. We now see that a certain minimum 
@@ -11895,7 +11895,7 @@ ch13.htm (5 of 1 1 ) [23/08/2000 16:16:58]
 
 
 
-Capital Vol. I — Chapter Thirteen 
+Capital Vol. I —  Thirteen 
 
 and with it, the necessity for capital to overcome this resistance by counterpressure. The control 
 exercised by the capitalist is not only a special function, due to the nature of the social labour-process, 
@@ -11948,7 +11948,7 @@ ch13.htm (6 of 1 1 ) [23/08/2000 16:16:58]
 
 
 
-Capital Vol. I — Chapter Thirteen 
+Capital Vol. I —  Thirteen 
 
 and it is capital that places them under such conditions. Because this power costs capital nothing, and 
 because, on the other hand, the labourer himself does not develop it before his labour belongs to capital, 
@@ -12003,7 +12003,7 @@ ch13.htm (7 of 11) [23/08/2000 16:16:58]
 
 
 
-Capital Vol. I — Chapter Thirteen 
+Capital Vol. I —  Thirteen 
 
 condition to the transformation of the labour-process into a social process, so, on the other hand, this 
 social form of the labour-process presents itself, as a method employed by capital for the more profitable 
@@ -12058,7 +12058,7 @@ ch13.htm (8 of 1 1 ) [23/08/2000 16:16:58]
 
 
 
-Capital Vol. I — Chapter Thirteen 
+Capital Vol. I —  Thirteen 
 
 \6] "There is also" (when the same number of men are employed by one farmer on 300 acres, instead of 
 by ten farmers with 30 acres a piece) "an advantage in the proportion of servants, which will not so easily 
@@ -12114,7 +12114,7 @@ ch13.htm (9 of 1 1 ) [23/08/2000 16:16:58]
 
 
 
-Capital Vol. I — Chapter Thirteen 
+Capital Vol. I —  Thirteen 
 
 f 131 "La forza di ciascuno uomo e minima, ma la riunione delle minime forze forma una forza totale 
 maggiore anche della somma delle forze medesime fino a che le forze per essere riunite possono 
@@ -12169,14 +12169,14 @@ ch13.htm (10 of 1 1 ) [23/08/2000 16:16:58]
 
 
 
-Capital Vol. I — Chapter Thirteen 
+Capital Vol. I —  Thirteen 
 
 Transcribed by Hinrich Kuhls 
 Html Markup by Stephen Baird 
 
 
 
-Next: Chapter Fourteen: Division of Labour and Manufacture 
+Next:  Fourteen: Division of Labour and Manufacture 
 Capital Volume One- Index 
 
 
@@ -12185,9 +12185,9 @@ ch13.htm (11 of 11) [23/08/2000 16:16:58]
 
 
 
-Capital Vol. I — Chapter Fourteen 
+Capital Vol. I —  Fourteen 
 
-Karl Marx 
+  
 
 Capital Volume One 
 
@@ -12199,7 +12199,7 @@ Division of Labour and Manufacture
 
 
 
-CHAPTER FOURTEEN: 
+ FOURTEEN: 
 
 DIVISION OF LABOUR AND MANUFACTURE 
 
@@ -12244,7 +12244,7 @@ ch14.htm (1 of 25) [23/08/2000 16:17:12]
 
 
 
-Capital Vol. I — Chapter Fourteen 
+Capital Vol. I —  Fourteen 
 
 simultaneously, some may be in the hands of the gilders while others are going through an earlier 
 process. So far, we are still in the domain of simple co-operation, which finds its materials ready to hand 
@@ -12299,7 +12299,7 @@ ch14.htm (2 of 25) [23/08/2000 16:17:12]
 
 
 
-Capital Vol. I — Chapter Fourteen 
+Capital Vol. I —  Fourteen 
 
 beings. 
 
@@ -12353,7 +12353,7 @@ ch14.htm (3 of 25) [23/08/2000 16:17:12]
 
 
 
-Capital Vol. I — Chapter Fourteen 
+Capital Vol. I —  Fourteen 
 
 species and varieties, except that, when a certain degree of development has been reached, the heredity of 
 castes and the exclusiveness of guilds are ordained as a law of society. \4] 
@@ -12407,7 +12407,7 @@ ch14.htm (4 of 25) [23/08/2000 16:17:12]
 
 
 
-Capital Vol. I — Chapter Fourteen 
+Capital Vol. I —  Fourteen 
 
 
 
@@ -12460,7 +12460,7 @@ ch14.htm (5 of 25) [23/08/2000 16:17:12]
 
 
 
-Capital Vol. I — Chapter Fourteen 
+Capital Vol. I —  Fourteen 
 
 very different from that of the independent artificer, who works for his own customers. \S] 
 
@@ -12515,7 +12515,7 @@ ch14.htm (6 of 25) [23/08/2000 16:17:12]
 
 
 
-Capital Vol. I — Chapter Fourteen 
+Capital Vol. I —  Fourteen 
 
 out of a given quantum of product in a given time is a technical law of the process of production itself. 
 £131 
@@ -12569,7 +12569,7 @@ ch14.htm (7 of 25) [23/08/2000 16:17:12]
 
 
 
-Capital Vol. I — Chapter Fourteen 
+Capital Vol. I —  Fourteen 
 
 instance, make their own earthenware melting-pots, because, on the quality of these depends, to a great 
 extent, the success or failure of the process. The manufacture of one of the means of production is here 
@@ -12624,7 +12624,7 @@ ch14.htm (8 of 25) [23/08/2000 16:17:12]
 
 
 
-Capital Vol. I — Chapter Fourteen 
+Capital Vol. I —  Fourteen 
 
 limited function; on the other hand, the various operations of the hierarchy are parcelled out among the 
 labourers according to both their natural and their acquired capabilities. f231 Every process of 
@@ -12676,7 +12676,7 @@ ch14.htm (9 of 25) [23/08/2000 16:17:12]
 
 
 
-Capital Vol. I — Chapter Fourteen 
+Capital Vol. I —  Fourteen 
 
 communities find different means of production, and different means of subsistence in their natural 
 environment. Hence, their modes of production, and of living, and their products are different. It is this 
@@ -12732,7 +12732,7 @@ ch14.htm (10 of 25) [23/08/2000 16:17:12]
 
 
 
-Capital Vol. I — Chapter Fourteen 
+Capital Vol. I —  Fourteen 
 
 from the manufacturing system, which exploits every special advantage. f311 The Colonial system and 
 the opening out of the markets of the world, both of which are included in the general conditions of 
@@ -12786,7 +12786,7 @@ ch14.htm (11 of 25) [23/08/2000 16:17:12]
 
 
 
-Capital Vol. I — Chapter Fourteen 
+Capital Vol. I —  Fourteen 
 
 brings into contact independent commodity-producers, who acknowledge no other authority but that of 
 competition, of the coercion exerted by the pressure of their mutual interests; just as in the animal 
@@ -12841,7 +12841,7 @@ ch14.htm (12 of 25) [23/08/2000 16:17:12]
 
 
 
-Capital Vol. I — Chapter Fourteen 
+Capital Vol. I —  Fourteen 
 
 carpenter, &c, find an unchanging market, and at the most there occur, according to the sizes of the 
 villages, two or three of each, instead of one. \37] The law that regulates the division of labour in the 
@@ -12893,7 +12893,7 @@ ch14.htm (13 of 25) [23/08/2000 16:17:12]
 
 
 
-Capital Vol. I — Chapter Fourteen 
+Capital Vol. I —  Fourteen 
 
 the variable component of the capital employed necessitates an increase in its constant component, too, 
 in the workshops, implements, &c, and, in particular, in the raw material, the call for which grows 
@@ -12946,7 +12946,7 @@ ch14.htm (14 of 25) [23/08/2000 16:17:12]
 
 
 
-Capital Vol. I — Chapter Fourteen 
+Capital Vol. I —  Fourteen 
 
 are men." f451 As a matter of fact, some few manufacturers in the middle of the 18th century preferred, 
 for certain operations that were trade secrets, to employ half-idiotic persons. K61 
@@ -13001,7 +13001,7 @@ ch14.htm (15 of 25) [23/08/2000 16:17:12]
 
 
 
-Capital Vol. I — Chapter Fourteen 
+Capital Vol. I —  Fourteen 
 
 By decomposition of handicrafts, by specialisation of the instruments of labour, by the formation of 
 detail labourers, and by grouping and combining the latter into a single mechanism, division of labour in 
@@ -13055,7 +13055,7 @@ ch14.htm (16 of 25) [23/08/2000 16:17:12]
 
 
 
-Capital Vol. I — Chapter Fourteen 
+Capital Vol. I —  Fourteen 
 
 the foundation of manufacture, and since the mechanism of manufacture as a whole possesses no 
 framework, apart from the labourers themselves, capital is constantly compelled to wrestle with the 
@@ -13099,7 +13099,7 @@ principe de la division du travail s'y revet d'un caractere special. II y a bien
 moulineurs, des teinturiers, des encolleurs, puis des tisserands; mais ils ne sont pas reunis dans un meme 
 etablissement, ne dependent pas d'un meme maitre, tous ils sont independants" (A. Blanqui: "Cours, 
 d'Econ. Industrielle." Recueilli par A. Blaise. Paris, 1838-39, p. 79.) Since Blanqui wrote this, the various 
-independent labourers have, to some extent, been united in factories. [And since Marx wrote the above, 
+independent labourers have, to some extent, been united in factories. [And since  wrote the above, 
 the power-loom has invaded these factories, and is now 1886 rapidly superseding the hand-loom. (Added 
 in the 4th German edition. The Krefeld silk industry also has its tale to tell anent this subject.) F. E.] 
 
@@ -13109,7 +13109,7 @@ ch14.htm (17 of 25) [23/08/2000 16:17:12]
 
 
 
-Capital Vol. I — Chapter Fourteen 
+Capital Vol. I —  Fourteen 
 
 \2] The more any manufacture of much variety shall be distributed and assigned to different artists, the 
 same must needs be better done and with greater expedition, with less loss of time and labour." ("The 
@@ -13164,7 +13164,7 @@ ch14.htm (18 of 25) [23/08/2000 16:17:12]
 
 
 
-Capital Vol. I — Chapter Fourteen 
+Capital Vol. I —  Fourteen 
 
 f 101 "The isolation of the different stages of manufacture, consequent upon the employment of manual 
 labour, adds immensely to the cost of production, the loss mainly arising from the mere removals from 
@@ -13221,7 +13221,7 @@ ch14.htm (19 of 25) [23/08/2000 16:17:12]
 
 
 
-Capital Vol. I — Chapter Fourteen 
+Capital Vol. I —  Fourteen 
 
 requiring different degrees of skill or of force, can purchase exactly that precise quantity of both which is 
 necessary for each process; whereas, if the whole work were executed by one workman, that person must 
@@ -13277,7 +13277,7 @@ ch14.htm (20 of 25) [23/08/2000 16:17:12]
 
 
 
-Capital Vol. I — Chapter Fourteen 
+Capital Vol. I —  Fourteen 
 
 \2S] "There is a certain density of population which is convenient, both for social intercourse, and for 
 that combination of powers by which the produce of labour is increased." (James Mill, 1. c, p. 50.) "As 
@@ -13305,7 +13305,7 @@ placed at once under the view of the spectator. In those great manufactures, (!)
 destined to supply the great wants of the great body of the people, every different branch of the work 
 employs so great a number of workmen, that it is impossible to collect them all into the same workhouse 
 ... the division is not near so obvious." (A. Smith: "Wealth of Nations," bk. i, ch. i.) The celebrated 
-passage in the same chapter that begins with the words, "Observe the accommodation of the most 
+passage in the same  that begins with the words, "Observe the accommodation of the most 
 common artificer or day-labourer in a civilised and thriving country," &c, and then proceeds to depict 
 what an enormous number and variety of industries contribute to the satisfaction of the wants of an 
 ordinary labourer, is copied almost word for word from B. de Mandeville's Remarks to his "Fable of the 
@@ -13333,7 +13333,7 @@ ch14.htm (21 of 25) [23/08/2000 16:17:12]
 
 
 
-Capital Vol. I — Chapter Fourteen 
+Capital Vol. I —  Fourteen 
 
 a name they deserve, for being an assemblage of taxes. Thus the umbrella "assembles," first, 6% on the 
 price of each of its elements, and a further 6% on its own total price. 
@@ -13341,7 +13341,7 @@ price of each of its elements, and a further 6% on its own total price.
 f361 "On peut... etablir en regie generate, que moins l'autorite preside a la division du travail dans 
 l'interieur de la societe, plus la division du travail se developpe dans l'interieur de l'atelier, et plus elle y 
 est soumise a l'autorite d'un seul. Ainsi l'autorite dans l'atelier et celle dans la societe, par rapport a la 
-division du travail, sont en raison inverse l'une de I'autre." (Karl Marx, "Misere," &c, pp. 130-131.) 
+division du travail, sont en raison inverse l'une de I'autre." ( , "Misere," &c, pp. 130-131.) 
 
 [371 Lieut.-Col. Mark Wilks: "Historical Sketches of the South of India." Lond., 1810-17, v. I., pp. 
 1 1 8-20. A good description of the various forms of the Indian communities is to be found in George 
@@ -13362,7 +13362,7 @@ conduct their operations on a large scale.... The more the division increases, t
 employment of a given number of labourers require a greater outlay of capital in tools, raw material, 
 &c." (Storch: "Cours d'Econ. Polit." Paris Ed., 1. 1., pp. 250, 251.) "La concentration des instruments de 
 production et la division du travail sont aussi inseparables l'une de I'autre que le sont, dans le regime 
-politique, la concentration des pouvoirs publics et la division des interets prives." (Karl Marx, 1. c, p. 
+politique, la concentration des pouvoirs publics et la division des interets prives." ( , 1. c, p. 
 134.) 
 
 KOI Dugald Stewart calls manufacturing labourers "living automatons ... employed in the details of the 
@@ -13388,7 +13388,7 @@ ch14.htm (22 of 25) [23/08/2000 16:17:12]
 
 
 
-Capital Vol. I — Chapter Fourteen 
+Capital Vol. I —  Fourteen 
 
 p. 274.) 
 
@@ -13445,7 +13445,7 @@ ch14.htm (23 of 25) [23/08/2000 16:17:12]
 
 
 
-Capital Vol. I — Chapter Fourteen 
+Capital Vol. I —  Fourteen 
 
 di produtte, egli piu facili, piu abbondanti e migliori ne traca risultati, di quello che se ciascuno 
 isolatamente le cose tutte a se necessarie soltanto facesse.... Dividendosi in tal maniera per la comune e 
@@ -13499,7 +13499,7 @@ ch14.htm (24 of 25) [23/08/2000 16:17:12]
 
 
 
-Capital Vol. I — Chapter Fourteen 
+Capital Vol. I —  Fourteen 
 
 but cut out clothes, another nothing but sew the pieces together. It follows necessarily then, that he who 
 does the simplest kind of work, undoubtedly does it better than anyone else. So it is with the art of 
@@ -13529,7 +13529,7 @@ Html Markup by Stephen Baird (1999)
 
 
 
-Next: Chapter Fifteen: Machinery and Modern Industry 
+Next:  Fifteen: Machinery and Modern Industry 
 Capital Volume One- Index 
 
 
@@ -13538,9 +13538,9 @@ ch14.htm (25 of 25) [23/08/2000 16:17:12]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 
-Karl Marx 
+  
 
 Capital Volume One 
 
@@ -13552,7 +13552,7 @@ Production of Relative Surplus-Value
 
 
 
-CHAPTER FIFTEEN: 
+ FIFTEEN: 
 
 MACHINERY AND MODERN INDUSTRY 
 
@@ -13621,7 +13621,7 @@ ch15.htm (1 of 56) [23/08/2000 16:18:05]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 
 they may be disguised. From the economic standpoint this explanation is worth nothing, because the historical element is wanting. Another 
 explanation of the difference between tool and machine is that in the case of a tool, man is the motive power, while the motive power of a 
@@ -13691,7 +13691,7 @@ ch15.htm (2 of 56) [23/08/2000 16:18:05]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 
 requires, in order to overcome its resistance, a mightier moving power than that of man, apart from the fact that man is a very imperfect 
 instrument for producing uniform continued motion. But assuming that he is acting simply as a motor, that a machine has taken the place of his 
@@ -13762,7 +13762,7 @@ ch15.htm (3 of 56) [23/08/2000 16:18:05]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 
 all working at the same time, the product is always going through the various stages of its fabrication, and is also constantly in a state of 
 transition, from one phase to another. Just as in Manufacture, the direct co-operation of the detail labourers establishes a numerical proportion 
@@ -13833,7 +13833,7 @@ ch15.htm (4 of 56) [23/08/2000 16:18:05]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 
 the modes of production of industry and agriculture made necessary a revolution in the general conditions of the social process of production, 
 i.e., in the means of communication and of transport. In a society whose pivot, to use an expression of Fourier, was agriculture on a small scale, 
@@ -13906,7 +13906,7 @@ ch15.htm (5 of 56) [23/08/2000 16:18:05]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 
 implement of a mechanism created by man. Capital now sets the labourer to work, not with a manual tool, but with a machine which itself 
 handles the tools. Although, therefore, it is clear at the first glance that, by incorporating both stupendous physical forces, and the natural 
@@ -13980,7 +13980,7 @@ ch15.htm (6 of 56) [23/08/2000 16:18:05]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 
 supposing the hand-spinner to produce thirteen ounces of yarn in sixty hours, the same weight of cotton would absorb 2,700 days' labour of ten 
 hours each, or 27,000 hours' labour. [291 Where blockprinting, the old method of printing calico by hand, has been superseded by machine 
@@ -14052,7 +14052,7 @@ ch15.htm (7 of 56) [23/08/2000 16:18:05]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 A. Appropriation of Supplementary Labour-power by Capital. The Employment of Women and Children 
 
 In so far as machinery dispenses with muscular power, it becomes a means of employing labourers of slight muscular strength, and those whose 
@@ -14123,7 +14123,7 @@ ch15.htm (8 of 56) [23/08/2000 16:18:05]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 
 system. Married women, who work in gangs along with boys and girls, are, for a stipulated sum of money, placed at the disposal of the farmer, 
 by a man called the "undertaker," who contracts for the whole gang. "These gangs will sometimes travel many miles from their own village; they 
@@ -14195,7 +14195,7 @@ ch15.htm (9 of 56) [23/08/2000 16:18:05]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 
 By the excessive addition of women and children to the ranks of the workers, machinery at last breaks down the resistance which the male 
 operatives in the manufacturing period continued to oppose to the despotism of capital. [601 
@@ -14272,7 +14272,7 @@ ch15.htm (10 of 56) [23/08/2000 16:18:05]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 
 law that surplus-value does not arise from the labour-power that has been replaced by the machinery, but from the labour-power actually 
 employed in working with the machinery, asserts itself. Surplus- value arises from variable capital alone, and we saw that the amount of 
@@ -14341,7 +14341,7 @@ ch15.htm (11 of 56) [23/08/2000 16:18:05]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 
 more porous hour of the twelve hours' working-day. The product therefore of one of the former hours has as much or more value than has the 
 product of 1 1/5 of the latter hours. Apart from the increased yield of relative surplus- value through the heightened productiveness of labour, the 
@@ -14411,7 +14411,7 @@ ch15.htm (12 of 56) [23/08/2000 16:18:05]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 
 justification for the assertion made at that time by the English manufacturers, that any further progress in that direction was impossible, and 
 therefore that every further reduction of the hours of labour meant a lessened production. The apparent correctness of their reasons will be best 
@@ -14487,7 +14487,7 @@ ch15.htm (13 of 56) [23/08/2000 16:18:06]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 therefore self-evident, to what an enormous extent the toil of the factory operative has increased during the last 10 years." £93 
 
 
@@ -14512,7 +14512,7 @@ THE FACTORY
 
 
 
-At the commencement of this chapter we considered that which we may call the body of the factory, i.e., machinery organised into a system. We 
+At the commencement of this  we considered that which we may call the body of the factory, i.e., machinery organised into a system. We 
 there saw how machinery, by annexing the labour of women and children, augments the number of human beings who form the material for 
 capitalistic exploitation, how it confiscates the whole of the workman's disposable time, by immoderate extension of the hours of labour, and 
 how finally its progress, which allows of enormous increase of production in shorter and shorter periods, serves as a means of systematically 
@@ -14559,7 +14559,7 @@ ch15.htm (14 of 56) [23/08/2000 16:18:06]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 
 afforded by the relays system, put into operation by the manufacturers during their revolt from 1848-1850. Lastly, the quickness with which 
 machine work is learnt by young people, does away with the necessity of bringing up for exclusive employment by machinery, a special class of 
@@ -14626,7 +14626,7 @@ ch15.htm (15 of 56) [23/08/2000 16:18:06]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 
 The contest between the capitalist and the wage-labourer dates back to the very origin of capital. It raged on throughout the whole manufacturing 
 period. [1121 But only since the introduction of machinery has the workman fought against the instrument of labour itself, the material 
@@ -14695,7 +14695,7 @@ ch15.htm (16 of 56) [23/08/2000 16:18:06]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 
 sufferings are only temporary ("a temporary inconvenience"), secondly, that machinery acquires the mastery over the whole of a given field of 
 production, only by degrees, so that the extent and intensity of its destructive effect is diminished. The first consolation neutralises the second. 
@@ -14872,7 +14872,7 @@ ch15.htm (17 of 56) [23/08/2000 16:18:06]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 
 
 
@@ -14959,7 +14959,7 @@ ch15.htm (18 of 56) [23/08/2000 16:18:06]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 
 SECTION 6. 
 
@@ -15030,7 +15030,7 @@ ch15.htm (19 of 56) [23/08/2000 16:18:06]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 
 doubt seek for employment in some other branch. If they find it, and thus renew the bond between them and the means of subsistence, this takes 
 place only by the intermediary of a new and additional capital that is seeking investment; not at all by the intermediary of the capital that 
@@ -15101,7 +15101,7 @@ ch15.htm (20 of 56) [23/08/2000 16:18:06]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 
 manufactures supplied by the produce of the machines. Spinning by machinery, for example, supplied yarn so cheaply and so abundantly that the 
 hand-loom weavers were, at first, able to work full time without increased outlay. Their earnings accordingly rose. [1401 Hence a flow of people 
@@ -15176,7 +15176,7 @@ ch15.htm (21 of 56) [23/08/2000 16:18:06]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 
 industries, taken together, number 1,039,605; in both cases less than the number of modern domestic slaves. What a splendid result of the 
 capitalist exploitation of machinery! 
@@ -15246,7 +15246,7 @@ ch15.htm (22 of 56) [23/08/2000 16:18:06]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 
 So long as, in a given branch of industry, the factory system extends itself at the expense of the old handicrafts or of manufacture, the result is as 
 sure as is the result of an encounter between an army furnished with breach-loaders, and one armed with bows and arrows. This first period, 
@@ -15478,7 +15478,7 @@ ch15.htm (23 of 56) [23/08/2000 16:18:06]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 The lot of the factory operatives will be best depicted by taking a rapid survey of the course of the English cotton industry. 
 
 From 1770 to 1815 this trade was depressed or stagnant for 5 years only. During this period of 45 years the English manufacturers had a 
@@ -15547,7 +15547,7 @@ ch15.htm (24 of 56) [23/08/2000 16:18:06]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 
 the other hand, the substitutes for flour were a Fortunatus' purse to the manufacturers, by increasing the weight of the yarn. They caused "15 lbs. 
 of raw material to weigh 26 lbs. after it was woven." [1631 In the Report of Inspectors of Factories for 30th April, 1864, we read as follows: "The 
@@ -15616,7 +15616,7 @@ ch15.htm (25 of 56) [23/08/2000 16:18:06]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 
 employment of women, of children of all ages, and of unskilled labourers, in one word, on cheap labour, as it is characteristically called in 
 England. This is the case not only with all production on a large scale, whether employing machinery or not, but also with the so-called domestic 
@@ -15646,7 +15646,7 @@ combination of processes are developed in that branch.
 C. Modern Manufacture 
 
 I now proceed, by a few examples, to illustrate the principles laid down above. As a matter of fact, the reader is already familiar with numerous 
-instances given in the chapter on the working-day. In the hardware manufactures of Birmingham and the neighbourhood, there are employed, 
+instances given in the  on the working-day. In the hardware manufactures of Birmingham and the neighbourhood, there are employed, 
 mostly in very heavy work, 30,000 children and young persons, besides 10,000 women. There they are to be seen in the unwholesome 
 brass-foundries, button factories, enamelling, galvanising, and lackering works. IT721 Owing to the excessive labour of their workpeople, both 
 adult and non-adult, certain London houses where newspapers and books are printed, have got the ill-omened name of "slaughterhouses." IT731 
@@ -15684,7 +15684,7 @@ ch15.htm (26 of 56) [23/08/2000 16:18:06]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 and improve the devil as a brickie, sir!" [1761 
 
 As to the manner, in which capital effects an economy in the requisites of labour, in modern Manufacture (in which I include all workshops of 
@@ -15950,7 +15950,7 @@ ch15.htm (27 of 56) [23/08/2000 16:18:06]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 
 English barracks the regulation space allotted to each soldier is 500-600 cubic feet, and in the military hospitals 1,200 cubic feet. But in those 
 finishing sties there are but 67 to 100 cubic feet to each person. At the same time the oxygen of the air is consumed by gas-lights. In order to 
@@ -16022,7 +16022,7 @@ ch15.htm (28 of 56) [23/08/2000 16:18:06]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 
 &c. In 1861, the number of females employed in these industries, in England and Wales, amounted to 586,299, of these 1 15,242 at the least were 
 under 20, and 16,650. under 15 years of age. The number of these workwomen in the United Kingdom in 1861, was 750,334. The number of 
@@ -16092,7 +16092,7 @@ ch15.htm (29 of 56) [23/08/2000 16:18:06]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 
 similar revolutions, the finishing blow. At first, the use of steam power meets with mere technical difficulties, such as unsteadiness in the 
 machines, difficulty in controlling their speed, rapid wear and tear of the lighter machines, &c, all of which are soon overcome by experience. 
@@ -16162,7 +16162,7 @@ ch15.htm (30 of 56) [23/08/2000 16:18:07]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 
 seasons of the year for navigation; or on fashion, and the sudden placing of large orders that have to be executed in the shortest possible time. 
 The habit of giving such orders becomes more frequent with the extension of railways and telegraphs. "The extension of the railway system 
@@ -16230,7 +16230,7 @@ ch15.htm (31 of 56) [23/08/2000 16:18:07]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 sacrifice of life and limb would be averted." [2131 
 
 What could possibly show better the character of the capitalist mode of production, than the necessity that exists for forcing upon it, by Acts of 
@@ -16299,7 +16299,7 @@ ch15.htm (32 of 56) [23/08/2000 16:18:07]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 
 by their being in many cases handed down in the same form by one generation to another during thousands of years. A characteristic feature is, 
 that, even down into the eighteenth century, the different trades were called "mysteries" (mysteres); [2241 into their secrets none but those duly 
@@ -16369,7 +16369,7 @@ ch15.htm (33 of 56) [23/08/2000 16:18:07]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 
 conditions, become a source of humane development; although in its spontaneously developed, brutal, capitalistic form, where the labourer 
 exists for the process of production, and not the process of production for the labourer, that fact is a pestiferous source of corruption and slavery. 
@@ -16441,7 +16441,7 @@ ch15.htm (34 of 56) [23/08/2000 16:18:07]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 
 "Handicraft shall mean any manual labour exercised by way of trade, or for purposes of gain in, or incidental to, the making any article or part of 
 an article, or in, or incidental to, the altering, repairing, ornamenting, finishing, or otherwise adapting for sale any article." 
@@ -16515,7 +16515,7 @@ ch15.htm (35 of 56) [23/08/2000 16:18:07]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 
 open a door or close it?" "Yes, generally there is." "It sounds a very easy thing, but it is in fact rather a painful one?" "He is imprisoned there just 
 the same as if he was in a cell of a gaol." Bourgeois Vivian: "Whenever a boy is furnished with a lamp cannot he read?" "Yes, he can read, if he 
@@ -16585,7 +16585,7 @@ ch15.htm (36 of 56) [23/08/2000 16:18:07]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 
 women on the pit bank.... It is the work of a man... a strong man." (ns. 1753, 1793, 1794.) "Your feeling upon the whole subject is that the better 
 class of colliers who desire to raise themselves and humanise themselves, instead of deriving help from the women, are pulled down by 
@@ -16658,7 +16658,7 @@ ch15.htm (37 of 56) [23/08/2000 16:18:07]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 
 In the year 1865 there were 3,217 coal mines in Great Britain, and 12 inspectors. A Yorkshire mine-owner himself calculates (Times, 26th 
 January, 1867), that putting on one side their office work, which absorbs all their time, each mine can be visited but once in ten years by an 
@@ -16727,7 +16727,7 @@ ch15.htm (38 of 56) [23/08/2000 16:18:07]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 
 increasing the fertility of the soil for a given time, is a progress towards ruining the lasting sources of that fertility. The more a country starts its 
 development on the foundation of modern industry, like the United States, for example, the more rapid is this process of destruction. [2451 
@@ -16799,7 +16799,7 @@ ch15.htm (39 of 56) [23/08/2000 16:18:07]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 
 Lastly, steam-power, in those agricultural operations in which it can be employed, improves, in comparison with horse-power, the quality of the 
 work. To do the work of a steam-engine would require 66 men, at a total cost of 15 S. an hour, and to do the work of a horse, 32 men, at a total 
@@ -16888,7 +16888,7 @@ ch15.htm (40 of 56) [23/08/2000 16:18:07]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 
 machines to the product, and puts machines on the same footing as natural forces. Tbus "Adam Smith nowhere undervalues the services which 
 the natural agents and machinery perform for us, but he very justly distinguishes the nature of the value which they add to commodities... as they 
@@ -16977,7 +16977,7 @@ ch15.htm (41 of 56) [23/08/2000 16:18:07]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 [37] See "Report of the Social Science Congress, at Edinburgh." Oct., 1863. 
 
 
@@ -17058,7 +17058,7 @@ ch15.htm (42 of 56) [23/08/2000 16:18:07]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 
 [571 L. Homer in "Reports, &c, for 31st Oct., 1857," pp. 17, 18. 
 
@@ -17146,7 +17146,7 @@ ch15.htm (43 of 56) [23/08/2000 16:18:07]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 "redundant population." 
 
 1731 F. Biese. "Die Philosophie des Aristoteles," Vol. 2. Berlin, 1842, p. 408. 
@@ -17234,7 +17234,7 @@ ch15.htm (44 of 56) [23/08/2000 16:18:07]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 
 "Thirty years ago (1841) one spinner with three placers was not required to attend to more than one pair of mules with 300-324 spindles. At the 
 present time (1871) he has to mind with the help of 5 piecers 2,200 spindles, and produces not less than seven times as much yarn as in 1841." 
@@ -17651,7 +17651,7 @@ ch15.htm (45 of 56) [23/08/2000 16:18:07]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 
 trade in that district when we consider that, of the gross number of textile factories in the United Kingdom, it absorbs 45.2 per cent., of the 
 spindles 83.3 per cent., of the power-looms 81.4 per cent., of the mechanical horse-power 72.6 per cent., and of the total number of persons 
@@ -17659,7 +17659,7 @@ employed 58.2 per cent. (1. c, pp. 62-63.)
 
 [971 Ure, 1. c, p. 18. 
 
-[981 Ure, 1. c, P. 3 1. See Karl Marx, 1. c, pp. 140-141. 
+[981 Ure, 1. c, P. 3 1. See  , 1. c, pp. 140-141. 
 
 
 
@@ -17726,7 +17726,7 @@ ch15.htm (46 of 56) [23/08/2000 16:18:07]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 
 now put on an equal footing with the employer in case of breach of contract and can be sued only civilly. — F. E.] The second case occurs in 
 Wiltshire at the end of November 1863. About 30 power-loom weavers, in the employment of one Harrup, a cloth manufacturer at Leower's 
@@ -17797,7 +17797,7 @@ ch15.htm (47 of 56) [23/08/2000 16:18:07]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 
 [1141 Sir James Steuart also understands machinery quite in this sense. "Je considere done les machines comme des moyens d'augmenter 
 (virtuellement) le nombre des gens industrieux qu'on n'est pas oblige de nourrir.... En quoi l'effet d'une machine differe-t-il de celui de nouveaux 
@@ -17870,7 +17870,7 @@ ch15.htm (48 of 56) [23/08/2000 16:18:08]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 own workshops. 
 
 IT301 Ure, 1. c, pp. 368-370 
@@ -17943,7 +17943,7 @@ ch15.htm (49 of 56) [23/08/2000 16:18:08]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 was ready in 110 new mills with 11,625 looms, 628,576 spindles and 2,695 total horse-power of steam and water (1. a). 
 
 11481 "Reports, &c., for 31 Oct., 1862," p. 79. At the end of 1871, Mr. A. Redgrave, the factory inspector, in a lecture given at Bradford, in the 
@@ -18022,7 +18022,7 @@ ch15.htm (50 of 56) [23/08/2000 16:18:08]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 
 now pay only one half of the original wages. And yet, though wages sink lower and lower, profits appear, with each alteration in the scale of 
 wages, to increase." Even bad times are utilised by the manufacturers, for making exceptional profits by excessive lowering of wages, i.e., by a 
@@ -18066,7 +18066,7 @@ market to save it from annihilation. Our cotton mills may be brought to a stand 
 arrangements, are as inevitable as death itself; but the human mind is constantly at work, and although we believe we are under the mark in 
 stating that six millions of persons have left these shores during the last 25 years, yet, from the natural increase of population, and the 
 displacement of labour to cheapen production, a large percentage of the male adults in the most prosperous times find it impossible to obtain 
-work in factories on any conditions whatever." ("Reports of Insp. of Fact., 30th April 1863," pp. 51-52.) We shall, in a later chapter, see how our 
+work in factories on any conditions whatever." ("Reports of Insp. of Fact., 30th April 1863," pp. 51-52.) We shall, in a later , see how our 
 friends, the manufacturers, endeavoured, during the catastrophe in the cotton trade, to prevent by every means, including State interference, the 
 emigration of the operatives. 
 
@@ -18096,7 +18096,7 @@ ch15.htm (51 of 56) [23/08/2000 16:18:08]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 IT751 See the Report on the rag trade, and numerous details in "Public Health, VIII. Rep." Lond. 1866, app., pp. 196, 208. 
 
 [176] "Ch. Empl. Comm. V. Rep., 1866," pp. xvi-xviii, n. 86-97, and pp. 130-133, n. 39-71. See also III. Rep., 1864, pp. 48, 56. 
@@ -18169,7 +18169,7 @@ ch15.htm (52 of 56) [23/08/2000 16:18:08]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 [1991 "Report of lnsp. of Fact, 31st Oct., 1865," pp. 96 and 127. 
 
 [2001 The introduction of this and other machinery into match-making caused in one department alone 230 young persons to be replaced by 32 
@@ -18242,7 +18242,7 @@ ch15.htm (53 of 56) [23/08/2000 16:18:08]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 
 gives off about 1,300 cubic inches of carbonic acid per hour; this would give about 8 ounces of solid carbon thrown off from the lungs in 24 
 hours." Every man should have at least 800 cubic feet." (Huxley.) 
@@ -18297,7 +18297,7 @@ existence for all earlier industrial classes. Constant revolution in production,
 uncertainty and agitation, distinguish the bourgeois epoch from all earlier ones. All fixed, fast-frozen relations, with their train of ancient and 
 venerable prejudices and opinions, are swept away, all new formed ones become antiquated before they can ossify. All that is solid melts into air, 
 all that is holy is profaned, and man is at last compelled to face with sober senses his real conditions of life, and his relations with his kind." (F. 
-Engels und Karl Marx: "Manifest der Kommunistischen Partei." Lond. 1848, p. 5.) 
+Engels und  : "Manifest der Kommunistischen Partei." Lond. 1848, p. 5.) 
 
 [2261 
 
@@ -18317,7 +18317,7 @@ ch15.htm (54 of 56) [23/08/2000 16:18:08]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 50.) 
 
 r2281 John Bellers, a very phenomenon in the history of Political Economy, saw most clearly at the end of the 17th century, the necessity for 
@@ -18390,7 +18390,7 @@ ch15.htm (55 of 56) [23/08/2000 16:18:08]
 
 
 
-Capital Vol. I — Chapter Fifteen 
+Capital Vol. I —  Fifteen 
 
 1) Textile Mills. Here everything remains about as it was: children more than 10 years of age may work 5 1/2 hours a day; or 6 hours and 
 Saturday off; young persons and women, 10 hours on 5 days, and at most 6 1/2 on Saturday. 
@@ -18444,7 +18444,7 @@ Transcribed by Zodiac
 
 Html Markup by Stephen Baird (1999) 
 
-Next: Chapter Sixteen: Absolute and Relative Surplus-Value 
+Next:  Sixteen: Absolute and Relative Surplus-Value 
 Capital Volume One- Index 
 
 
@@ -18453,9 +18453,9 @@ ch15.htm (56 of 56) [23/08/2000 16:18:08]
 
 
 
-Capital Vol. I — Chapter Sixteen 
+Capital Vol. I —  Sixteen 
 
-Karl Marx 
+  
 
 Capital Volume One 
 
@@ -18469,13 +18469,13 @@ Relative Surplus-Value
 
 
 
-CHAPTER SIXTEEN: 
+ SIXTEEN: 
 
 ABSOLUTE AND RELATIVE SURPLUS-VALUE 
 
 
 
-In considering the labour-process, we began (see Chapter V .) by treating it in the abstract, apart from its 
+In considering the labour-process, we began (see  V .) by treating it in the abstract, apart from its 
 historical forms, as a process between man and Nature. We there stated, "If we examine the whole 
 labour-process, from the point of view of its result, it is plain that both the instruments and the subject of 
 labour are means of production, and that the labour itself is productive labour." And in Note 2, same 
@@ -18509,7 +18509,7 @@ ch16.htm (1 of 8) [23/08/2000 16:18:14]
 
 
 
-Capital Vol. I — Chapter Sixteen 
+Capital Vol. I —  Sixteen 
 
 He must produce surplus-value. That labourer alone is productive, who produces surplus-value for the 
 capitalist, and thus works for the self-expansion of capital. If we may take an example from outside the 
@@ -18563,7 +18563,7 @@ ch16.htm (2 of 8) [23/08/2000 16:18:14]
 
 
 
-Capital Vol. I — Chapter Sixteen 
+Capital Vol. I —  Sixteen 
 
 so soon as that mode has conquered an entire branch of production; and still more so, so soon as it has 
 conquered all the important branches. It then becomes the general, socially predominant form of 
@@ -18618,7 +18618,7 @@ ch16.htm (3 of 8) [23/08/2000 16:18:14]
 
 
 
-Capital Vol. I — Chapter Sixteen 
+Capital Vol. I —  Sixteen 
 
 economic classes, (1) Natural wealth in means of subsistence, i.e., a fruitful soil, waters teeming with 
 fish, &c, and (2), natural wealth in the instruments of labour, such as waterfalls, navigable rivers, wood, 
@@ -18673,7 +18673,7 @@ ch16.htm (4 of 8) [23/08/2000 16:18:14]
 
 
 
-Capital Vol. I — Chapter Sixteen 
+Capital Vol. I —  Sixteen 
 
 recede. In the midst of our West European society, where the labourer purchases the right to work for his 
 own livelihood only by paying for it in surplus-labour, the idea easily takes root that it is an inherent 
@@ -18727,7 +18727,7 @@ ch16.htm (5 of 8) [23/08/2000 16:18:14]
 
 
 
-Capital Vol. I — Chapter Sixteen 
+Capital Vol. I —  Sixteen 
 
 selling, those general conditions of capitalist production, are but an incident, and there would always be 
 profits even without the purchase and sale of labour-power! 
@@ -18781,7 +18781,7 @@ ch16.htm (6 of 8) [23/08/2000 16:18:14]
 
 
 
-Capital Vol. I — Chapter Sixteen 
+Capital Vol. I —  Sixteen 
 
 [31 "Among the wild Indians in America, almost everything is the labourer's, 99 parts of a hundred are to 
 be put upon the account of labour. In England, perhaps, the labourer has not 2/3." (The Advantages of the 
@@ -18837,9 +18837,9 @@ ch16.htm (7 of 8) [23/08/2000 16:18:14]
 
 
 
-Capital Vol. I — Chapter Sixteen 
+Capital Vol. I —  Sixteen 
 
-having been left out. Marx, in a letter dated November 28, 1878, pointed this out to Danielson, the 
+having been left out. , in a letter dated November 28, 1878, pointed this out to Danielson, the 
 Russian translator of Capital, adding: 
 
 "The next two sentences, viz. 'Strange optical illusion to see everywhere a state of things which as yet 
@@ -18860,7 +18860,7 @@ Transcribed by Allan Thurrott
 
 Html Markup by Stephen Baird (1999) 
 
-Next: Chapter Seventeen: Changes of Magnitude in the price of Labour-Power and in Surplus-Value 
+Next:  Seventeen: Changes of Magnitude in the price of Labour-Power and in Surplus-Value 
 Capital Volume One- Index 
 
 
@@ -18869,9 +18869,9 @@ ch16.htm (8 of 8) [23/08/2000 16:18:14]
 
 
 
-Capital Vol. I — Chapter Seventeen 
+Capital Vol. I —  Seventeen 
 
-Karl Marx 
+  
 
 Capital Volume One 
 
@@ -18885,7 +18885,7 @@ Relative Surplus-Value
 
 
 
-CHAPTER SEVENTEEN: 
+ SEVENTEEN: 
 
 CHANGES OF MAGNITUDE IN THE PRICE OF LABOUR-POWER AND 
 
@@ -18931,7 +18931,7 @@ ch17.htm (1 of 10) [23/08/2000 16:18:19]
 
 
 
-Capital Vol. I — Chapter Seventeen 
+Capital Vol. I —  Seventeen 
 
 On this assumption we have seen that the relative magnitudes of surplus-value and of price of 
 labour-power are determined by three circumstances; (1) the length of the working-day, or the extensive 
@@ -18984,7 +18984,7 @@ ch17.htm (2 of 10) [23/08/2000 16:18:19]
 
 
 
-Capital Vol. I — Chapter Seventeen 
+Capital Vol. I —  Seventeen 
 
 Further, the value of labour-power cannot fall, and consequently surplus-value cannot rise, without a rise 
 in the productiveness of labour. For instance, in the above case, the value of the labour-power cannot 
@@ -19039,7 +19039,7 @@ ch17.htm (3 of 10) [23/08/2000 16:18:19]
 
 
 
-Capital Vol. I — Chapter Seventeen 
+Capital Vol. I —  Seventeen 
 
 3, or the necessary labour-time from 8 hours to 6, the price of labour-power may possibly not fall below 
 3s. 8d., 3s. 6d., or 3s. 2d., and the surplus-value consequently not rise above 3s. 4d., 3s. 6d., or 3s. lOd. 
@@ -19074,7 +19074,7 @@ any more than have the other economists, investigated surplus-value as such, i.e
 particular forms, such as profit, rent, &c. He therefore confounds together the laws of the rate of 
 surplus-value and the laws of the rate of profit. The rate of profit is, as we have already said, the ratio of 
 the surplus-value to the total capital advanced; the rate of surplus-value is the ratio of the surplus-value to 
-the variable part of that capital. Assume that a capital C of £500 is made up of raw material, instruments 
+the variable part of that capital. Assume that a capitalof £500 is made up of raw material, instruments 
 of labour, &c. (c) to the amount of £400; and of wages (v) to the amount of £100; and further, that the 
 surplus-value (s) = £100. Then we have rate of surplus-value s/v = £100/£100 = 100%. But the rate of 
 profit s/c = £ 100/£500 = 20%. It is, besides, obvious that the rate of profit may depend on circumstances 
@@ -19088,7 +19088,7 @@ ch17.htm (4 of 10) [23/08/2000 16:18:19]
 
 
 
-Capital Vol. I — Chapter Seventeen 
+Capital Vol. I —  Seventeen 
 
 SECTION 2 
 
@@ -19138,7 +19138,7 @@ ch17.htm (5 of 10) [23/08/2000 16:18:19]
 
 
 
-Capital Vol. I — Chapter Seventeen 
+Capital Vol. I —  Seventeen 
 
 SECTION 3 
 
@@ -19193,7 +19193,7 @@ ch17.htm (6 of 10) [23/08/2000 16:18:19]
 
 
 
-Capital Vol. I — Chapter Seventeen 
+Capital Vol. I —  Seventeen 
 
 lengthening. 
 
@@ -19247,7 +19247,7 @@ ch17.htm (7 of 10) [23/08/2000 16:18:19]
 
 
 
-Capital Vol. I — Chapter Seventeen 
+Capital Vol. I —  Seventeen 
 
 unchanged, but the absolute magnitude of surplus-value rises from 3 shillings to 4, that of the 
 surplus-labour from 6 hours to 8, an increment of 33 1/3 %. Therefore, with diminishing productiveness 
@@ -19303,7 +19303,7 @@ ch17.htm (8 of 10) [23/08/2000 16:18:19]
 
 
 
-Capital Vol. I — Chapter Seventeen 
+Capital Vol. I —  Seventeen 
 
 deprived of the power to shift the natural burden of labour from its own shoulders to those of another 
 layer of society. In this direction, the shortening of the working-day finds at last a limit in the 
@@ -19357,7 +19357,7 @@ ch17.htm (9 of 10) [23/08/2000 16:18:19]
 
 
 
-Capital Vol. I — Chapter Seventeen 
+Capital Vol. I —  Seventeen 
 
 result from them, as from the population of a country being pushed to the very extreme limits of its 
 food." (Malthus: "Inquiry into the Nature and Progress of Rent," Lond., 1815, p. 48, note.) All honour to 
@@ -19386,7 +19386,7 @@ Transcribed by Alan Thurrott
 
 Html Markup by Stephen Baird (1999) 
 
-Next: Chapter Eighteen: Various Formula for the Rate of Surplus-Value 
+Next:  Eighteen: Various Formula for the Rate of Surplus-Value 
 Capital Volume One- Index 
 
 
@@ -19395,9 +19395,9 @@ ch17.htm (10 of 10) [23/08/2000 16:18:19]
 
 
 
-Capital Vol. I — Chapter Eighteen 
+Capital Vol. I —  Eighteen 
 
-Karl Marx 
+  
 
 Capital Volume One 
 
@@ -19411,7 +19411,7 @@ Relative Surplus-Value
 
 
 
-CHAPTER EIGHTEEN: 
+ EIGHTEEN: 
 
 VARIOUS FORMULA FOR THE RATE OF SURPLUS-VALUE 
 
@@ -19462,7 +19462,7 @@ ch18.htm (1 of 4) [23/08/2000 16:18:22]
 
 
 
-Capital Vol. I — Chapter Eighteen 
+Capital Vol. I —  Eighteen 
 
 
 
@@ -19548,7 +19548,7 @@ ch18.htm (2 of 4) [23/08/2000 16:18:22]
 
 
 
-Capital Vol. I — Chapter Eighteen 
+Capital Vol. I —  Eighteen 
 
 There is a third formula which I have occassionally already anticipated; it is 
 
@@ -19602,10 +19602,10 @@ JJJ Thus, e.g., in "Dritter Brief an v. Kirchmann von Rodbertus. Widerlegung der
 von der Grundrente und Begrundung einer neuen Rententheorie". Berlin, 1851. 1 shall return to this letter 
 later on; in spite of its erroneous theory of rent, it sees through the nature of capitalist production. 
 
-NOTE ADDED IN THE 3RD GERMAN EDITION: It may be seen from this how favorably Marx 
+NOTE ADDED IN THE 3RD GERMAN EDITION: It may be seen from this how favorably  
 judged his predecessors, whenever he found in them real progress, or new and sound ideas. The 
 subsequent publications of Robertus' letters to Rud. Meyer has shown that the above acknowledgement 
-by Marx wants restricting to some extent. In those letters this passage occurs: 
+by  wants restricting to some extent. In those letters this passage occurs: 
 
 "Capital must be rescued not only from labor, but from itself, and that will be best effected, by treating 
 the acts of the industrial capitalist as economic and political functions, that have been delegated to him 
@@ -19616,9 +19616,9 @@ ch18.htm (3 of 4) [23/08/2000 16:18:22]
 
 
 
-Capital Vol. I — Chapter Eighteen 
+Capital Vol. I —  Eighteen 
 
-The irruption of Marx into Society, as I may call his book, must be warded off.... Altogether, Marx's 
+The irruption of  into Society, as I may call his book, must be warded off.... Altogether, 's 
 book is not so much an investigation into capital, as a polemic against the present form of capital, a form 
 which he confounds with the concept itself of capital." 
 
@@ -19646,7 +19646,7 @@ Transcribed by Zodiac
 
 Html Markup by Stephen Baird (1999) 
 
-Next: Chapter Nineteen: The Transformation of the Value (and Respective Price) of Labour-Power into 
+Next:  Nineteen: The Transformation of the Value (and Respective Price) of Labour-Power into 
 
 Wages 
 
@@ -19658,9 +19658,9 @@ ch18.htm (4 of 4) [23/08/2000 16:18:22]
 
 
 
-Capital Vol. I — Chapter Nineteen 
+Capital Vol. I —  Nineteen 
 
-Karl Marx 
+  
 
 Capital Volume One 
 
@@ -19671,7 +19671,7 @@ Wages
 
 
 
-CHAPTER NINETEEN: 
+ NINETEEN: 
 
 THE TRANSFORMATION OF THE VALUE (AND RESPECTIVE PRICE) 
 
@@ -19714,7 +19714,7 @@ ch19.htm (1 of 6) [23/08/2000 16:18:26]
 
 
 
-Capital Vol. I — Chapter Nineteen 
+Capital Vol. I —  Nineteen 
 
 not by the quantity of labour actually realized in it, but by the quantity of living labour necessary for its 
 production. A commodity represents, say, 6 working-hours. If an invention is made by which it can be 
@@ -19769,7 +19769,7 @@ ch19.htm (2 of 6) [23/08/2000 16:18:26]
 
 
 
-Capital Vol. I — Chapter Nineteen 
+Capital Vol. I —  Nineteen 
 
 secure basis of operations for their shallowness, which on principle worships appearances only. 
 
@@ -19824,7 +19824,7 @@ ch19.htm (3 of 6) [23/08/2000 16:18:26]
 
 
 
-Capital Vol. I — Chapter Nineteen 
+Capital Vol. I —  Nineteen 
 
 difference, expressed in the juridically equivalent formula: "Do ut des, do ut facias, facio ut des, facio ut 
 facias." [91 
@@ -19880,7 +19880,7 @@ ch19.htm (4 of 6) [23/08/2000 16:18:26]
 
 
 
-Capital Vol. I — Chapter Nineteen 
+Capital Vol. I —  Nineteen 
 
 directly and spontaneously as current modes of thought; the latter must first be discovered by science. 
 Classical Political Economy nearly touches the true relation of things, without, however, consciously 
@@ -19934,10 +19934,10 @@ ch19.htm (5 of 6) [23/08/2000 16:18:26]
 
 
 
-Capital Vol. I — Chapter Nineteen 
+Capital Vol. I —  Nineteen 
 
 terms. Let it change the language, and for that it has only to address itself to the Academy and ask it for a 
-new edition of its dictionary." (Karl Marx, "Misere de la Philosophie," pp. 34, 35.) It is naturally still 
+new edition of its dictionary." ( , "Misere de la Philosophie," pp. 34, 35.) It is naturally still 
 more convenient to understand by value nothing at all. Then one can without difficulty subsume 
 everything under this category. Thus, e.g., J. B. Say: "What is value?" Answer: "That which a thing is 
 worth"; and what is "price"? Answer: "The value of a thing expressed in money." And why has 
@@ -19968,7 +19968,7 @@ Html Markup by Stephen Baird (1999)
 
 
 
-Next: Chapter Twenty: Time-Wages 
+Next:  Twenty: Time-Wages 
 Capital Volume One- Index 
 
 
@@ -19977,9 +19977,9 @@ ch19.htm (6 of 6) [23/08/2000 16:18:26]
 
 
 
-Capital Vol. I — Chapter Twenty 
+Capital Vol. I —  Twenty 
 
-Karl Marx 
+  
 
 Capital Volume One 
 
@@ -19990,7 +19990,7 @@ Wages
 
 
 
-CHAPTER TWENTY: 
+ TWENTY: 
 TIME-WAGES 
 
 
@@ -20004,7 +20004,7 @@ The sale of labour-power, as will be remembered, takes place for a definite peri
 form under which the daily, weekly, &tc, value of labour-power presents itself, is hence that of time 
 wages, therefore day-wages, &tc. 
 
-Next it is to be noted that the laws set forth, in the 17th chapter, on the changes in the relative magnitudes 
+Next it is to be noted that the laws set forth, in the 17th , on the changes in the relative magnitudes 
 of price of labour-power and surplus-value, pass by a simple transformation of form, into laws of wages. 
 Similarly the distinction between the exchange-value of labour power, and the sum of the necessaries of 
 life into which this value is converted, now reappears as the distinction between nominal and real wages. 
@@ -20031,7 +20031,7 @@ ch20.htm (1 of 7) [23/08/2000 16:18:30]
 
 
 
-Capital Vol. I — Chapter Twenty 
+Capital Vol. I —  Twenty 
 
 labour-power 3s., the price of the working-hour is 3 3/5d. It falls to 3s. as soon as the working-day rises 
 to 12 hours, to 2 2/5d as soon as it rises to 15 hours. Daily or weekly wages remain, despite all this, 
@@ -20060,7 +20060,7 @@ this price of labour, only 2s. or Is. 6d. a day. [5\ As on our hypothesis he mus
 hours daily, in order to produce a day's wage corresponding merely to the value of his labour power, as 
 according to the same hypothesis he works only half of every hour for himself, and half for the capitalist, 
 it is clear that he cannot obtain for himself the value of the product of 6 hours if he is employed less than 
-12 hours. In previous chapters we saw the destructive consequences of over-work; here we find the 
+12 hours. In previous s we saw the destructive consequences of over-work; here we find the 
 sources of the sufferings that result to the labourer from his insufficient employment. 
 
 If the hour's wage is fixed so that the capitalist does not bind himself to pay a day's or a week's wage, but 
@@ -20091,7 +20091,7 @@ ch20.htm (2 of 7) [23/08/2000 16:18:30]
 
 
 
-Capital Vol. I — Chapter Twenty 
+Capital Vol. I —  Twenty 
 
 attempt of the capitalists to impose on them this sort of wage by the hour. The legal limitation of the 
 working-day puts an end to such mischief, although not, of course, to the diminution of employment 
@@ -20148,7 +20148,7 @@ ch20.htm (3 of 7) [23/08/2000 16:18:30]
 
 
 
-Capital Vol. I — Chapter Twenty 
+Capital Vol. I —  Twenty 
 
 in. But the same circumstances which allow the capitalist in the long run to prolong the working-day, 
 also allow him first, and compel him finally, to nominally lower the price of labour until the total price of 
@@ -20202,7 +20202,7 @@ ch20.htm (4 of 7) [23/08/2000 16:18:30]
 
 
 
-Capital Vol. I — Chapter Twenty 
+Capital Vol. I —  Twenty 
 
 
 
@@ -20249,7 +20249,7 @@ workpeople.... The small amount thus earned is also often obliged to be spent in
 [71 E.g., in paper- staining before the recent introduction into this trade of the Factory Act. "We work on 
 with no stoppage for meals, so that the day's work of 10 1/2 hours is finished by 4:30 p.m., and all after 
 that is over-time, and we seldom leave off working before 6 p.m., so that we are really working over-time 
-the whole year round." (Mr. Smith's "Evidence in Child. Empl. Com., 1. Rep.," p. 125.) 
+the whole year round." (Mr. Smith's "Evidence in Child. Empl., 1. Rep.," p. 125.) 
 
 [81 E.g., in the Scotch bleaching- works. "In some parts of Scotland this trade" (before the introduction of 
 the Factory Act in 1862) "was carried on by a system of over-time, i.e., ten hours a day were the regular 
@@ -20258,7 +20258,7 @@ ch20.htm (5 of 7) [23/08/2000 16:18:30]
 
 
 
-Capital Vol. I — Chapter Twenty 
+Capital Vol. I —  Twenty 
 
 hours of work, for which a nominal wage of Is. 2d. per day was paid to a man, there being every day 
 over-time for three or four hours, paid at the rate of 3d. per hour. The effect of this system ... a man could 
@@ -20291,7 +20291,7 @@ fl21 The hand nail-makers in England, e.g., have, on account of the low price of
 a day in order to hammer out their miserable weekly wage. "It's a great many hours in a day (6 a.m. to 8 
 p.m.), and he has to work hard all the time to get II d. or Is., and there is the wear of the tools, the cost of 
 firing, and something for waste iron to go out of this, which takes off altogether 2 l/2d. or 3d." 
-("Children's Employment Com., III. Report," p. 136, n. 671.) The women earn by the same working-time 
+("Children's Employment, III. Report," p. 136, n. 671.) The women earn by the same working-time 
 a week's wage of only 5 shillings. (1. c, p. 137, n. 674.) 
 
 f 131 If a factory-hand, e.g., refused to work the customary long hours, "he would very shortly be replaced 
@@ -20300,7 +20300,7 @@ Inspectors of Factories," 30th April, 1848. Evidence, p. 39, n. 58.) "If one man
 two... the rate of profits will generally be raised ... in consequence of the additional supply of labour 
 having diminished its price." (Senior, 1. c, p. 15.) 
 
-f 141 "Children's Employment Com., Ill Rep.," Evidence, p. 66, n. 22. 
+f 141 "Children's Employment, Ill Rep.," Evidence, p. 66, n. 22. 
 
 f 151 "Report, &tc, Relative to the Grievances Complained of by the Journeymen Bakers." London, 1862, 
 p. 411, and ib. Evidence, notes 479, 359, 27. Anyhow the full-priced bakers, as was mentioned above, 
@@ -20314,7 +20314,7 @@ ch20.htm (6 of 7) [23/08/2000 16:18:30]
 
 
 
-Capital Vol. I — Chapter Twenty 
+Capital Vol. I —  Twenty 
 
 
 
@@ -20323,7 +20323,7 @@ Html Markup by Stephen Baird (1999)
 
 
 
-Next: Chapter Twenty-One: Piece-Wages 
+Next:  Twenty-One: Piece-Wages 
 Capital Volume One- Index 
 
 
@@ -20332,9 +20332,9 @@ ch20.htm (7 of 7) [23/08/2000 16:18:30]
 
 
 
-Capital Vol. I — Chapter Twenty-One 
+Capital Vol. I —  Twenty-One 
 
-Karl Marx 
+  
 
 Capital Volume One 
 
@@ -20345,7 +20345,7 @@ Wages
 
 
 
-CHAPTER TWENTY-ONE: 
+ TWENTY-ONE: 
 PIECE-WAGES 
 
 
@@ -20392,7 +20392,7 @@ ch21.htm (1 of 7) [23/08/2000 16:18:35]
 
 
 
-Capital Vol. I — Chapter Twenty-One 
+Capital Vol. I —  Twenty-One 
 
 products or measurable parts of a continuous whole. Then the value of these 24 pieces, after, subtraction 
 of the portion of constant capital contained in them, is 6 shillings, and the value of a single piece 3d. The 
@@ -20448,7 +20448,7 @@ ch21.htm (2 of 7) [23/08/2000 16:18:35]
 
 
 
-Capital Vol. I — Chapter Twenty-One 
+Capital Vol. I —  Twenty-One 
 
 exploitation of the labourer by the labourer. [71 
 
@@ -20477,7 +20477,7 @@ where a particular rate of piece-wage has for a long time been fixed by traditio
 therefore, presented especial difficulties, the masters, in such exceptional cases, sometimes had recourse 
 to its compulsory transformation into time-wages. Hence, e.g., in 1860 a great strike among the 
 ribbon-weavers of Coventry, fill Piece-wage is finally one of the chief supports of the hour-system 
-described in the preceding chapter. fl21 
+described in the preceding . fl21 
 
 From what has been shown so far, it follows that piece-wage is the form of wages most in harmony with 
 the capitalist mode of production. Although by no means new — it figures side by side with time-wages 
@@ -20501,7 +20501,7 @@ ch21.htm (3 of 7) [23/08/2000 16:18:35]
 
 
 
-Capital Vol. I — Chapter Twenty-One 
+Capital Vol. I —  Twenty-One 
 
 agricultural operations is done by people who are hired for the day or on piece-work. Their weekly wages 
 are about 12s., and although it may be assumed that a man earns on piece-work under the greater 
@@ -20554,7 +20554,7 @@ ch21.htm (4 of 7) [23/08/2000 16:18:35]
 
 
 
-Capital Vol. I — Chapter Twenty-One 
+Capital Vol. I —  Twenty-One 
 
 apologetic commonplaces. This same Mr. Watts earlier traded in Owenism and published in 1842 
 another pamphlet: "Facts and Fictions of Political Economists," in which among other things he declares 
@@ -20609,7 +20609,7 @@ ch21.htm (5 of 7) [23/08/2000 16:18:35]
 
 
 
-Capital Vol. I — Chapter Twenty-One 
+Capital Vol. I —  Twenty-One 
 
 observation as to the willingness to work over-time is especially applicable to the women employed as 
 weavers and reelers." ("Rept. of Insp. of Fact., 30th April, 1858," p. 9.) "This system" (piece-work), "so 
@@ -20664,7 +20664,7 @@ ch21.htm (6 of 7) [23/08/2000 16:18:35]
 
 
 
-Capital Vol. I — Chapter Twenty-One 
+Capital Vol. I —  Twenty-One 
 
 event happens the spinner will not be paid at the same rate for work done as he was before, but as that 
 rate will not be diminished in the ratio of one-fifth, the improvement will augment his money earnings 
@@ -20693,7 +20693,7 @@ new ed., London, 1834, p. 42.)
 Transcribed by Bill McDorman 
 Html Markup by Stephen Baird (1999) 
 
-Next: Chapter Twenty-Two: National Differences of Wages 
+Next:  Twenty-Two: National Differences of Wages 
 Capital Volume One- Index 
 
 
@@ -20702,9 +20702,9 @@ ch21.htm (7 of 7) [23/08/2000 16:18:35]
 
 
 
-Capital Vol. I — Chapter Twenty-Two 
+Capital Vol. I —  Twenty-Two 
 
-Karl Marx 
+  
 
 Capital Volume One 
 
@@ -20715,12 +20715,12 @@ Wages
 
 
 
-CHAPTER TWENTY-TWO: 
+ TWENTY-TWO: 
 NATIONAL DIFFERENCES OF WAGES 
 
 
 
-In the 17th chapter we were occupied with the manifold combinations which may bring about a change 
+In the 17th  we were occupied with the manifold combinations which may bring about a change 
 in magnitude of the value of labour-power — this magnitude being considered either absolutely or 
 relatively, i.e., as compared with surplus-value; whilst on the other hand, the quantum of the means of 
 subsistence in which the price of labour is realized might again undergo fluctuations independent of, or 
@@ -20756,7 +20756,7 @@ ch22.htm (1 of 5) [23/08/2000 16:18:37]
 
 
 
-Capital Vol. I — Chapter Twenty-Two 
+Capital Vol. I —  Twenty-Two 
 
 level of their value. 
 
@@ -20812,7 +20812,7 @@ ch22.htm (2 of 5) [23/08/2000 16:18:37]
 
 
 
-Capital Vol. I — Chapter Twenty-Two 
+Capital Vol. I —  Twenty-Two 
 
 
 
@@ -20952,7 +20952,7 @@ ch22.htm (3 of 5) [23/08/2000 16:18:37]
 
 
 
-Capital Vol. I — Chapter Twenty-Two 
+Capital Vol. I —  Twenty-Two 
 
 national wages must be reckoned, therefore, as if that part of each that goes to the State in the form of 
 taxes, came to the labourer himself. Ought not Mr. Carey to consider further whether those "State 
@@ -21006,7 +21006,7 @@ ch22.htm (4 of 5) [23/08/2000 16:18:37]
 
 
 
-Capital Vol. I — Chapter Twenty-Two 
+Capital Vol. I —  Twenty-Two 
 
 
 
@@ -21015,7 +21015,7 @@ Html Markup by Stephen Baird (1999)
 
 
 
-Next: Chapter Twenty-Three: Simple Reproduction 
+Next:  Twenty-Three: Simple Reproduction 
 Capital Volume One- Index 
 
 
@@ -21024,9 +21024,9 @@ ch22.htm (5 of 5) [23/08/2000 16:18:37]
 
 
 
-Capital Vol. I — Chapter Twenty-Three 
+Capital Vol. I —  Twenty-Three 
 
-Karl Marx 
+  
 
 Capital Volume One 
 
@@ -21038,7 +21038,7 @@ The Accumulation of Capital
 
 
 
-CHAPTER TWENTY-THREE: 
+ TWENTY-THREE: 
 SIMPLE REPRODUCTION 
 
 
@@ -21080,7 +21080,7 @@ ch23.htm (1 of 11) [23/08/2000 16:18:43]
 
 
 
-Capital Vol. I — Chapter Twenty-Three 
+Capital Vol. I —  Twenty-Three 
 
 reconverting the sale-money into capital. Moreover, the breaking-up of surplus-value into fragments 
 neither alters its nature nor the conditions under which it becomes an element of accumulation. Whatever 
@@ -21128,7 +21128,7 @@ expended his labour-power, and realised in commodities not only its value, but s
 therefore, produced not only surplus-value, which we for the present regard as a fund to meet the private 
 consumption of the capitalist, but he has also produced, before it flows back to him in the shape of 
 wages, the fund out of which he himself is paid, the variable capital; and his employment lasts only so 
-long as he continues to reproduce this fund. Hence, that formula of the economists, referred to in Chapter 
+long as he continues to reproduce this fund. Hence, that formula of the economists, referred to in  
 
 
 
@@ -21136,7 +21136,7 @@ ch23.htm (2 of 11) [23/08/2000 16:18:43]
 
 
 
-Capital Vol. I — Chapter Twenty-Three 
+Capital Vol. I —  Twenty-Three 
 
 XVIII,, which represents wages as a share in the product itself. [2J What flows back to the labourer in the 
 shape of wages is a portion of the product that is continuously reproduced by him. The capitalist, it is 
@@ -21191,7 +21191,7 @@ ch23.htm (3 of 11) [23/08/2000 16:18:43]
 
 
 
-Capital Vol. I — Chapter Twenty-Three 
+Capital Vol. I —  Twenty-Three 
 
 year, it is clear that at the end of 5 years the surplus-value consumed will amount to 5 x £200 or the 
 £1,000 originally advanced. If only a part, say one half, were consumed, the same result would follow at 
@@ -21246,7 +21246,7 @@ ch23.htm (4 of 11) [23/08/2000 16:18:43]
 
 
 
-Capital Vol. I — Chapter Twenty-Three 
+Capital Vol. I —  Twenty-Three 
 
 capitalist production. 
 
@@ -21300,7 +21300,7 @@ ch23.htm (5 of 11) [23/08/2000 16:18:43]
 
 
 
-Capital Vol. I — Chapter Twenty-Three 
+Capital Vol. I —  Twenty-Three 
 
 labourer's consumption, unaccompanied by increase in the consumption of labour-power by capital, the 
 additional capital would be consumed unproductively. fill In reality, the individual consumption of the 
@@ -21354,7 +21354,7 @@ ch23.htm (6 of 11) [23/08/2000 16:18:44]
 
 
 
-Capital Vol. I — Chapter Twenty-Three 
+Capital Vol. I —  Twenty-Three 
 
 masters; but they are the strength of both; they are the mental and trained power which cannot be. 
 replaced for a generation; the mere machinery which they work might much of it be beneficially 
@@ -21409,7 +21409,7 @@ ch23.htm (7 of 11) [23/08/2000 16:18:44]
 
 
 
-Capital Vol. I — Chapter Twenty-Three 
+Capital Vol. I —  Twenty-Three 
 
 opinion of these islands must operate to save this 'working power' from those who would deal with it as 
 they would deal with iron, and coal, and cotton." 
@@ -21463,7 +21463,7 @@ ch23.htm (8 of 11) [23/08/2000 16:18:44]
 
 
 
-Capital Vol. I — Chapter Twenty-Three 
+Capital Vol. I —  Twenty-Three 
 
 the earth." (Rich. Jones: "Textbook of Lectures on the Pol. Econ. of Nations." Hertford, 1852, p. 36.) 
 
@@ -21520,7 +21520,7 @@ ch23.htm (9 of 11) [23/08/2000 16:18:44]
 
 
 
-Capital Vol. I — Chapter Twenty-Three 
+Capital Vol. I —  Twenty-Three 
 
 operatives should keep in wholesome remembrance the fact that theirs is really a low species of skilled 
 labour, and that there is none which is more easily acquired, or of its quality more amply remunerated, or 
@@ -21562,7 +21562,7 @@ voluntary sale disappears.
 f201 "Capital pre-supposes wage-labour, and wage-labour pre-supposes capital. One is a necessary 
 condition to the existence of the other; they mutually call each other into existence. Does an operative in 
 a cotton-factory produce nothing but cotton goods? No, he produces capital. He produces values that give 
-fresh command over his labour, and that, by means of such command, create fresh values." (Karl Marx: 
+fresh command over his labour, and that, by means of such command, create fresh values." ( : 
 "Lohnarbeit und Kapital," in the Neue Rheinische Zeitung: No. 266, 7th April, 1849.) The articles 
 published under the above title in the N. Rh. Z. are parts of some lectures given by me on that subject, in 
 1847, in the German "Arheiter-Verein" at Brussels, the publication of which was interrupted by the 
@@ -21574,7 +21574,7 @@ ch23.htm (10 of 11) [23/08/2000 16:18:44]
 
 
 
-Capital Vol. I — Chapter Twenty-Three 
+Capital Vol. I —  Twenty-Three 
 
 Transcribed by Zodiac 
 
@@ -21582,7 +21582,7 @@ Html Markup by Stephen Baird (1999)
 
 
 
-Next: Chapter Twenty-Four: Conversion of Surplus- Value into Capital 
+Next:  Twenty-Four: Conversion of Surplus- Value into Capital 
 Capital Volume One- Index 
 
 
@@ -21591,9 +21591,9 @@ ch23.htm (11 of 11) [23/08/2000 16:18:44]
 
 
 
-Capital Vol. I — Chapter Twenty-Four 
+Capital Vol. I —  Twenty-Four 
 
-Karl Marx 
+  
 
 Capital Volume One 
 
@@ -21605,7 +21605,7 @@ The Accumulation of Capital
 
 
 
-CHAPTER TWENTY-FOUR: 
+ TWENTY-FOUR: 
 
 CONVERSION OF SURPLUS-VALUE INTO CAPITAL 
 
@@ -21655,7 +21655,7 @@ ch24.htm (1 of 25) [23/08/2000 16:18:58]
 
 
 
-Capital Vol. I — Chapter Twenty-Four 
+Capital Vol. I —  Twenty-Four 
 
 £2,000. The rate of surplus-value being 100%, the surplus-value lies in the surplus or net product of 
 40,000 lbs. of yarn, one-sixth of the gross product, with a value of £2,000 which will be realised by a 
@@ -21710,7 +21710,7 @@ ch24.htm (2 of 25) [23/08/2000 16:18:58]
 
 
 
-Capital Vol. I — Chapter Twenty-Four 
+Capital Vol. I —  Twenty-Four 
 
 Now in order to allow of these elements actually functioning as capital, the capitalist class requires 
 additional labour. If the exploitation of the labourers already employed do not increase, either extensively 
@@ -21765,7 +21765,7 @@ ch24.htm (3 of 25) [23/08/2000 16:18:58]
 
 
 
-Capital Vol. I — Chapter Twenty-Four 
+Capital Vol. I —  Twenty-Four 
 
 The accumulation of the first additional capital of £2,000 pre-supposes a value of £10,000 belonging to 
 the capitalist by virtue of his "primitive labour," and advanced by him. The second additional capital of 
@@ -21817,7 +21817,7 @@ The value of this product includes: first, the value of the used-up means of pro
 
 
 
-Capital Vol. I — Chapter Twenty-Four 
+Capital Vol. I —  Twenty-Four 
 
 cannot consume these means of production without transferring their value to the new product, but, to be 
 saleable, labour-power must be capable of supplying useful labour in the branch of industry in which it is 
@@ -21829,7 +21829,7 @@ time, say a day, a week, etc. — is less than the value created by its use duri
 has received payment for the exchange-value of his labour-power and by so doing has alienated its 
 use-value — this being the case in every sale and 
 
-The Project Gutenberg eBook of The Eighteenth Brumaire of Louis Bonaparte, by Karl Marx
+The Project Gutenberg eBook of The Eighteenth Brumaire of Louis Bonaparte, by  
 
 This eBook is for the use of anyone anywhere in the United States and
 most other parts of the world at no cost and with almost no restrictions
@@ -21841,7 +21841,7 @@ using this eBook.
 
 Title: The Eighteenth Brumaire of Louis Bonaparte
 
-Author: Karl Marx
+Author:  
 
 Translator: Daniel de Leon
 
@@ -21861,7 +21861,7 @@ Produced by: An Anonymous Volunteer and David Widger
 
 The Eighteenth Brumaire of Louis Bonaparte
 
-by Karl Marx
+by  
 
 
 Contents
@@ -21881,7 +21881,7 @@ Contents
 Translator’s Preface
 
 
-“The Eighteenth Brumaire of Louis Bonaparte” is one of Karl Marx’ most
+“The Eighteenth Brumaire of Louis Bonaparte” is one of  ’ most
 profound and most brilliant monographs. It may be considered the best
 work extant on the philosophy of history, with an eye especially upon
 the history of the Movement of the Proletariat, together with the
@@ -21920,13 +21920,13 @@ Besides its republican form of government—the directness of its
 history, the unity of its actions, the sharpness that marks its
 internal development, are all characteristics that find their parallel
 her best, and vice versa. In all essentials the study of modern French
-history, particularly when sketched by such a master hand as Marx’, is
+history, particularly when sketched by such a master hand as ’, is
 the most valuable one for the acquisition of that historic, social and
 biologic insight that our country stands particularly in need of, and
 that will be inestimable during the approaching critical days.
 
 For the assistance of those who, unfamiliar with the history of France,
-may be confused by some of the terms used by Marx, the following
+may be confused by some of the terms used by , the following
 explanations may prove aidful:
 
 On the 18th Brumaire (Nov. 9th), the post-revolutionary development of
@@ -21957,7 +21957,7 @@ political leadership herein described, both these names and leaderships
 are to such an extent the products of an economic-social development
 that has here too taken place with even greater sharpens, and they have
 their present or threatened counterparts here so completely, that, by
-the light of this work of Marx’, we are best enabled to understand our
+the light of this work of ’, we are best enabled to understand our
 own history, to know whence we came, and whither we are going and how
 to conduct ourselves.
 
@@ -22645,7 +22645,7 @@ The first President of the French Republic, L. N. Bonaparte, had not
 only lost his status as a French citizen, had not only been an English
 special constable, but was even a naturalized Swiss citizen.
 
-In the previous chapter I have explained the meaning of the election of
+In the previous  I have explained the meaning of the election of
 December 10. I shall not here return to it. Suffice it here to say that
 it was a reaction of the farmers’ class, who had been expected to pay
 the costs of the February revolution, against the other classes of the
@@ -25854,4 +25854,3 @@ that a few years later, after Bonaparte’s coronation as Emperor, was
 literally fulfilled. By order of Emperor Louis Napoleon, the military
 statue of the Napoleon that originally surmounted the Vendome was taken
 down and replaced by one of first Napoleon in imperial robes.
-
